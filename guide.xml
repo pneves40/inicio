@@ -1,5 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT: TVE INTERNACIONAL">
+    <display-name lang="pt">PT: TVE INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: TRACE TROCA">
+    <display-name lang="pt">PT: TRACE TROCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: BBC WORLD NEWS">
+    <display-name lang="pt">PT: BBC WORLD NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: AR TV">
+    <display-name lang="pt">PT: AR TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: TV5 MONDE">
+    <display-name lang="pt">PT: TV5 MONDE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: TV GALICIA">
+    <display-name lang="pt">PT: TV GALICIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: ZAP VIVA HD">
+    <display-name lang="pt">PT: ZAP VIVA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: M6">
+    <display-name lang="pt">PT: M6</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: KURIAKOS">
+    <display-name lang="pt">PT: KURIAKOS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: BBC ENTERTAINMENT">
+    <display-name lang="pt">PT: BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <channel id="PT: ELEVEN SPORT 1 LOW">
     <display-name lang="pt">PT: ELEVEN SPORT 1 LOW</display-name>
     <url>http://www.nos.pt</url>
@@ -32,8 +72,8 @@
     <display-name lang="pt">PT: ELEVEN SPORT 3 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: ELEVEN SPORTS 3 FHD">
-    <display-name lang="pt">PT: ELEVEN SPORTS 3 FHD</display-name>
+  <channel id="PT: ELEVEN SPORTS 3  FHD">
+    <display-name lang="pt">PT: ELEVEN SPORTS 3  FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: ELEVEN SPORT 4 LOW">
@@ -74,6 +114,10 @@
   </channel>
   <channel id="PT: SPORT TV NBA HD">
     <display-name lang="pt">PT: SPORT TV NBA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: NBA TV">
+    <display-name lang="pt">PT: NBA TV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: FIGHT NETWORK FHD">
@@ -304,8 +348,8 @@
     <display-name lang="pt">PT: GLOBO NOW HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: TV GLOBO Portugal">
-    <display-name lang="pt">PT: TV GLOBO Portugal</display-name>
+  <channel id="PT: GLOBO PORTUGAL HD">
+    <display-name lang="pt">PT: GLOBO PORTUGAL HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: TV GLOBO Portugal HD">
@@ -396,8 +440,8 @@
     <display-name lang="pt">PT: Euronews</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: FRANCE_24(I)">
-    <display-name lang="pt">PT: FRANCE_24(I)</display-name>
+  <channel id="PT: FRANCE_24 (I)">
+    <display-name lang="pt">PT: FRANCE_24 (I))</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: CNN">
@@ -984,8 +1028,8 @@
     <display-name lang="pt">PT: CACAVISION</display-name>
     <url>http://www.portalnacional.com.pt</url>
   </channel>
-  <channel id="PT: REAL MADRID TV">
-    <display-name lang="pt">PT: REAL MADRID TV</display-name>
+  <channel id="PT: REAL MADRID">
+    <display-name lang="pt">PT: REAL MADRID</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT: CINEMUNDO">
@@ -1044,8 +1088,8 @@
     <display-name lang="pt">PT: Trace TV</display-name>
     <url>http://www.portalnacional.com.pt</url>
   </channel>
-  <channel id="PT: TRACE URBAN HD">
-    <display-name lang="pt">PT: TRACE URBAN HD</display-name>
+  <channel id="PT: TRACE URBAN">
+    <display-name lang="pt">PT: TRACE URBAN</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT: MCM POP">
@@ -1092,6 +1136,1239 @@
     <display-name lang="pt">PT: ClubbingTV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
+  <programme start="20200107004000 +0000" stop="20200107013500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Destino: España</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E87</episode-num>
+  </programme>
+  <programme start="20200107013500 +0000" stop="20200107020000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Zoom Tendencias</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E103</episode-num>
+  </programme>
+  <programme start="20200107020000 +0000" stop="20200107043000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Noticias 24 Horas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E371</episode-num>
+  </programme>
+  <programme start="20200107043000 +0000" stop="20200107053000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">La Aventura del Saber</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E305</episode-num>
+  </programme>
+  <programme start="20200107053000 +0000" stop="20200107072500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Telediario Matinal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E690</episode-num>
+  </programme>
+  <programme start="20200107072500 +0000" stop="20200107083000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Los Desayunos de TVE</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107083000 +0000" stop="20200107140000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Especial Debate de Investidura</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107150000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Telediario 1ª Edición</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E372</episode-num>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107154500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Saber y Ganar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E253</episode-num>
+  </programme>
+  <programme start="20200107154500 +0000" stop="20200107164000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Servir y Proteger</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E671</episode-num>
+  </programme>
+  <programme start="20200107164000 +0000" stop="20200107173000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Acacias 38</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E192</episode-num>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Centro Médico</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E214</episode-num>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107182000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Cámara Abierta 2.0</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E456</episode-num>
+  </programme>
+  <programme start="20200107182000 +0000" stop="20200107193000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">España Directo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E510</episode-num>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Aquí la Tierra</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E616</episode-num>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107211000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Telediario 2ª Edición</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E372</episode-num>
+  </programme>
+  <programme start="20200107211000 +0000" stop="20200107214000 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">TVEmos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E116</episode-num>
+  </programme>
+  <programme start="20200107214000 +0000" stop="20200107223500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Comando Actualidad</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107223500 +0000" stop="20200107233500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">Comando Actualidad</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107233500 +0000" stop="20200108013500 +0000" channel="PT: TVE INTERNACIONAL">
+    <title lang="pt">La Noche en 24H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E442</episode-num>
+  </programme>
+  <programme start="20200107090000 +0000" stop="20200107094500 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Toca Hit 10</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107094500 +0000" stop="20200107161500 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Playlist</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107161500 +0000" stop="20200107170000 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Toca Hit 10</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107180000 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Hits And Lyrics</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107184500 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Mocambique 10</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107184500 +0000" stop="20200107190000 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Playlist</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107200000 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">New</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200108000000 +0000" channel="PT: TRACE TROCA">
+    <title lang="pt">Playlist</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107003000 +0000" stop="20200107004500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Asia Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107004500 +0000" stop="20200107010000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107010000 +0000" stop="20200107013000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Newsday</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107014500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Asia Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107014500 +0000" stop="20200107020000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107020000 +0000" stop="20200107023000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107023000 +0000" stop="20200107024500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Asia Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107024500 +0000" stop="20200107025500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107025500 +0000" stop="20200107030000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107030000 +0000" stop="20200107033000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107033000 +0000" stop="20200107040000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107040000 +0000" stop="20200107043000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107043000 +0000" stop="20200107050000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">HARDtalk</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107053000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107053000 +0000" stop="20200107054500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Business Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107054500 +0000" stop="20200107060000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107063000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107063000 +0000" stop="20200107064500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Business Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107064500 +0000" stop="20200107065500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Briefing</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107065500 +0000" stop="20200107070000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107073000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107073000 +0000" stop="20200107074500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107074500 +0000" stop="20200107075500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">World Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107075500 +0000" stop="20200107080000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Ultimate Japan Modules</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107083000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107083000 +0000" stop="20200107090000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Worklife</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107090000 +0000" stop="20200107090500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107090500 +0000" stop="20200107093000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sri Lanka: Finding Father Francis</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107093000 +0000" stop="20200107100000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">HARDtalk</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107103000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Live With Lucy Hockings</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107103000 +0000" stop="20200107110000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">100 Women Extra: Female Future - Cities for Women</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107110000 +0000" stop="20200107113000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Live With Lucy Hockings</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107113000 +0000" stop="20200107114500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">World Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107114500 +0000" stop="20200107115500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107115500 +0000" stop="20200107120000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107120000 +0000" stop="20200107123000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Live With Lucy Hockings</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107123000 +0000" stop="20200107125500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Live With Lucy Hockings</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107125500 +0000" stop="20200107130000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Ultimate Japan Modules</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107133000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Impact</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107133000 +0000" stop="20200107134500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Impact</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107134500 +0000" stop="20200107135500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107135500 +0000" stop="20200107140000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107143000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Impact</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107143000 +0000" stop="20200107145500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Talking Business with Aaron Heslehurst</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107145500 +0000" stop="20200107150000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Ultimate Japan Modules</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107153000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Impact</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107153000 +0000" stop="20200107160000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">HARDtalk</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200107163000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Global with Matthew Amroliwala</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107163000 +0000" stop="20200107165500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Global with Matthew Amroliwala</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107165500 +0000" stop="20200107170000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Global with Matthew Amroliwala</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Focus on Africa</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107181500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Global with Matthew Amroliwala</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107181500 +0000" stop="20200107183000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Global Business</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">HARDtalk</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107193000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Beyond 100 Days</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Beyond 100 Days</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107203000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Outside Source</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107203000 +0000" stop="20200107205500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107205500 +0000" stop="20200107210000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Ultimate Japan Modules</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107213000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Outside Source</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107213000 +0000" stop="20200107220000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Outside Source</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107220000 +0000" stop="20200107223000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News America</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">BBC World News America</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107230000 +0000" stop="20200107233000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Newsday</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107233000 +0000" stop="20200107234500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Asia Business Report</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107234500 +0000" stop="20200107235500 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">Sport Today</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107235500 +0000" stop="20200108000000 +0000" channel="PT: BBC WORLD NEWS">
+    <title lang="pt">The Travel Show Modules</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107160000 +0000" channel="PT: AR TV">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200108000000 +0000" channel="PT: AR TV">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107000100 +0000" stop="20200107004200 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Livrés À Domicile</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107004200 +0000" stop="20200107010500 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107010500 +0000" stop="20200107023600 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Les Youtubeurs Expliqués Aux Parents</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107023600 +0000" stop="20200107024900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">La Vigne En Héritage</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200107024900 +0000" stop="20200107030000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">C</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107030000 +0000" stop="20200107032300 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107032300 +0000" stop="20200107034700 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">River Hôtel</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E21</episode-num>
+  </programme>
+  <programme start="20200107034700 +0000" stop="20200107035400 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Sentinelles De La Nature</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S3E25</episode-num>
+  </programme>
+  <programme start="20200107035400 +0000" stop="20200107050000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">C Dans L</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107051000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107051000 +0000" stop="20200107052900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">L</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107052900 +0000" stop="20200107060000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Télématin</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107063000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Télématin</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107063000 +0000" stop="20200107064600 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Télématin</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107064600 +0000" stop="20200107070000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">L</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107072600 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal De Radio-Canada</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107072600 +0000" stop="20200107073800 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107073800 +0000" stop="20200107080500 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Zap In.CH</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107080500 +0000" stop="20200107083300 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Han - Hommes, Animaux, Nature</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200107083300 +0000" stop="20200107085900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Ricardo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107085900 +0000" stop="20200107093000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">C</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107093000 +0000" stop="20200107095500 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Les Saisons De Pique-Assiette</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20200107095500 +0000" stop="20200107100000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Histoires De Timbres</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107101700 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107101700 +0000" stop="20200107104400 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Plus Belle La Vie</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S13E3293</episode-num>
+  </programme>
+  <programme start="20200107104400 +0000" stop="20200107112800 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Tout Le Monde Veut Prendre Sa Place</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107112800 +0000" stop="20200107121900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Retour Des Camélidés</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107121900 +0000" stop="20200107123000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Ça Roule ! Ailleurs</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107123000 +0000" stop="20200107125900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal De La RTBF</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107125900 +0000" stop="20200107142900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Quand Sort La Recluse</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107142900 +0000" stop="20200107145200 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">C</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107145200 +0000" stop="20200107145900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Ça Roule ! Les Courts</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107145900 +0000" stop="20200107152100 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Un Si Grand Soleil</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E260</episode-num>
+  </programme>
+  <programme start="20200107152100 +0000" stop="20200107152900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Sentinelles De La Nature</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S3E36</episode-num>
+  </programme>
+  <programme start="20200107152900 +0000" stop="20200107160000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Questions Pour Un Champion</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200107165500 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Au Bonheur Des Vaches</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107165500 +0000" stop="20200107170000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Meilleur D</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">64</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107173900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">L</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107173900 +0000" stop="20200107190900 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">La Maison France 5</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107190900 +0000" stop="20200107192200 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Itineris</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E113</episode-num>
+  </programme>
+  <programme start="20200107192200 +0000" stop="20200107193000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Sentinelles De La Nature</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S3E36</episode-num>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal De France 2</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107205100 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Caïn (FR)</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E1</episode-num>
+  </programme>
+  <programme start="20200107205100 +0000" stop="20200107214700 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Caïn (FR)</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E2</episode-num>
+  </programme>
+  <programme start="20200107214700 +0000" stop="20200107221700 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal De La RTS</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107221700 +0000" stop="20200107233400 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Emmenez-Moi... Chez Gérard Jugnot Dans Le Var</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107233400 +0000" stop="20200108000100 +0000" channel="PT: TV5 MONDE">
+    <title lang="pt">Le Journal De L</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107005000 +0000" stop="20200107013000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Alalá</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107015000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Estache Bo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107015000 +0000" stop="20200107020500 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Polo Camiño da Fe</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107020500 +0000" stop="20200107035500 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">A Revista</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107035500 +0000" stop="20200107062000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Fun Polo Aire</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107062000 +0000" stop="20200107070000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Onde Collen Dous..</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107100000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Bos Días</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107103000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Malicia Noticias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107103000 +0000" stop="20200107110000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Estache Bo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107110000 +0000" stop="20200107113000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Bóla Extra</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107113000 +0000" stop="20200107130000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">A Revista</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107132500 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Galicia Noticias - Mañá</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107132500 +0000" stop="20200107143000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Telexornal Mediodía</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107143000 +0000" stop="20200107145000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">O Tempo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107145000 +0000" stop="20200107153000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Coma Un Allo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107153000 +0000" stop="20200107165000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Fun Polo Aire</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107165000 +0000" stop="20200107182000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Vin Polo Vento</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107182000 +0000" stop="20200107192500 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Ti Verás</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107192500 +0000" stop="20200107204500 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Telexornal Serán</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107204500 +0000" stop="20200107210000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">O Tempo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107213000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Malicia Noticias</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107213000 +0000" stop="20200107223000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Larpeiros Social Club</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107223000 +0000" stop="20200107233000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">Vou Que Teño Que Ir</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107233000 +0000" stop="20200108002000 +0000" channel="PT: TV GALICIA">
+    <title lang="pt">No Mellor da Vida</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107011500 +0000" stop="20200107043000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Viva a Tarde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E151</episode-num>
+  </programme>
+  <programme start="20200107043000 +0000" stop="20200107050000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Em Forma</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S4E323</episode-num>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107051500 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">É Notícia</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20200107051500 +0000" stop="20200107060000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Kiosque de Imprensa</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107070000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">A Rainha Do Flow</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107073000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Em Forma</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S4E323</episode-num>
+  </programme>
+  <programme start="20200107073000 +0000" stop="20200107080000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Saudavelmente</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107110000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Grandes Manhãs</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E152</episode-num>
+  </programme>
+  <programme start="20200107110000 +0000" stop="20200107111500 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Bola Na Rede - Diário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20200107111500 +0000" stop="20200107113000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">É Actual</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20200107113000 +0000" stop="20200107120000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Saudavelmente</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20200107120000 +0000" stop="20200107140000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Zap News</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E155</episode-num>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107170000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Viva a Tarde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E152</episode-num>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107190000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Zap News</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E156</episode-num>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107200000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">A Rainha Do Flow</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107210000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">A Força Do Destino</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E41</episode-num>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107213000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Saudavelmente</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20200107213000 +0000" stop="20200108003000 +0000" channel="PT: ZAP VIVA HD">
+    <title lang="pt">Viva a Tarde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E152</episode-num>
+  </programme>
+  <programme start="20200107000500 +0000" stop="20200107010500 +0000" channel="PT: M6">
+    <title lang="pt">Mon Admirateur Secret</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107010500 +0000" stop="20200107011000 +0000" channel="PT: M6">
+    <title lang="pt">Météo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107011000 +0000" stop="20200107050000 +0000" channel="PT: M6">
+    <title lang="pt">Programmes De Nuit</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107060000 +0000" channel="PT: M6">
+    <title lang="pt">M6 Music</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107062500 +0000" channel="PT: M6">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107062500 +0000" stop="20200107064000 +0000" channel="PT: M6">
+    <title lang="pt">Alvinnn!!! Et Les Chipmunks</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107064000 +0000" stop="20200107065000 +0000" channel="PT: M6">
+    <title lang="pt">Alvinnn!!! Et Les Chipmunks</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107065000 +0000" stop="20200107070500 +0000" channel="PT: M6">
+    <title lang="pt">Alvinnn!!! Et Les Chipmunks</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107070500 +0000" stop="20200107071500 +0000" channel="PT: M6">
+    <title lang="pt">Alvinnn!!! Et Les Chipmunks</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107071500 +0000" stop="20200107073000 +0000" channel="PT: M6">
+    <title lang="pt">Les P</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107073000 +0000" stop="20200107074000 +0000" channel="PT: M6">
+    <title lang="pt">Les P</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107074000 +0000" stop="20200107075000 +0000" channel="PT: M6">
+    <title lang="pt">Les P</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107075000 +0000" stop="20200107080500 +0000" channel="PT: M6">
+    <title lang="pt">Les P</title>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20200107080500 +0000" stop="20200107091500 +0000" channel="PT: M6">
+    <title lang="pt">M6 Boutique</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107091500 +0000" stop="20200107094500 +0000" channel="PT: M6">
+    <title lang="pt">La Robe De Ma Vie</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107094500 +0000" stop="20200107103500 +0000" channel="PT: M6">
+    <title lang="pt">La Robe De Ma Vie</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107103500 +0000" stop="20200107114000 +0000" channel="PT: M6">
+    <title lang="pt">La Robe De Ma Vie</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107114000 +0000" stop="20200107114500 +0000" channel="PT: M6">
+    <title lang="pt">Météo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107114500 +0000" stop="20200107121500 +0000" channel="PT: M6">
+    <title lang="pt">Le 12:45</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107121500 +0000" stop="20200107122000 +0000" channel="PT: M6">
+    <title lang="pt">Météo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107122000 +0000" stop="20200107130000 +0000" channel="PT: M6">
+    <title lang="pt">Scènes De Ménages</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107144500 +0000" channel="PT: M6">
+    <title lang="pt">Le Chalet De Notre Amour</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107144500 +0000" stop="20200107163500 +0000" channel="PT: M6">
+    <title lang="pt">Petit Mensonge Et Grand Mariage</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107163500 +0000" stop="20200107174000 +0000" channel="PT: M6">
+    <title lang="pt">Incroyables Transformations</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107174000 +0000" stop="20200107184500 +0000" channel="PT: M6">
+    <title lang="pt">Chasseurs D</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107184500 +0000" stop="20200107191500 +0000" channel="PT: M6">
+    <title lang="pt">Le 19:45</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107191500 +0000" stop="20200107192500 +0000" channel="PT: M6">
+    <title lang="pt">Météo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107192500 +0000" stop="20200107200500 +0000" channel="PT: M6">
+    <title lang="pt">Scènes De Ménages</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200107200500 +0000" stop="20200107214500 +0000" channel="PT: M6">
+    <title lang="pt">Recherche Appartement Ou Maison</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107214500 +0000" stop="20200107232500 +0000" channel="PT: M6">
+    <title lang="pt">Recherche Appartement Ou Maison</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107232500 +0000" stop="20200108010000 +0000" channel="PT: M6">
+    <title lang="pt">Recherche Appartement Ou Maison</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107023000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Basta Crer</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E109</episode-num>
+  </programme>
+  <programme start="20200107023000 +0000" stop="20200107040000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Esta é a Hora</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E697</episode-num>
+  </programme>
+  <programme start="20200107040000 +0000" stop="20200107043000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Viagens Pelo Mundo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E93</episode-num>
+  </programme>
+  <programme start="20200107043000 +0000" stop="20200107050000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Viagens Pelo Mundo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E94</episode-num>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107053000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Informação Ao Minuto</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1085</episode-num>
+  </programme>
+  <programme start="20200107053000 +0000" stop="20200107060000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Infopolítica</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E84</episode-num>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107070000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">60 Minutos Com Deus</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E902</episode-num>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107080000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Vila Ideal</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E48</episode-num>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107083000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Informação Ao Minuto</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1085</episode-num>
+  </programme>
+  <programme start="20200107083000 +0000" stop="20200107090000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Vidas Transformadas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E34</episode-num>
+  </programme>
+  <programme start="20200107090000 +0000" stop="20200107100000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Aprenda a Gerir o Seu Dinheiro</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107120000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Manhãs na TV</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E762</episode-num>
+  </programme>
+  <programme start="20200107120000 +0000" stop="20200107130000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">60 Minutos Com Deus</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E903</episode-num>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107133000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Informação Ao Minuto</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1085</episode-num>
+  </programme>
+  <programme start="20200107133000 +0000" stop="20200107140000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Visão Tecnológica</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E181</episode-num>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107150000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Câmaras On Camera</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E138</episode-num>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107160000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Tudo a Ver Com Paula Bollinger</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200107170000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Conversa de Mulheres</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E762</episode-num>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">A Rota</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E38</episode-num>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Vidas Transformadas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E39</episode-num>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107190000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Vila Ideal</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E48</episode-num>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107193000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Informação Ao Minuto</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1086</episode-num>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Visão Tecnológica</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E181</episode-num>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107210000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Câmaras On Camera</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E139</episode-num>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107223000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Esta é a Hora</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E698</episode-num>
+  </programme>
+  <programme start="20200107223000 +0000" stop="20200107233000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Isto É o Povo a Falar</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E120</episode-num>
+  </programme>
+  <programme start="20200107233000 +0000" stop="20200108020000 +0000" channel="PT: KURIAKOS">
+    <title lang="pt">Lutar Até Vencer</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E177</episode-num>
+  </programme>
+  <programme start="20200107001500 +0000" stop="20200107004500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6036</episode-num>
+  </programme>
+  <programme start="20200107004500 +0000" stop="20200107013000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">The Coroner</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107022500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Call the Midwife</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E1</episode-num>
+  </programme>
+  <programme start="20200107022500 +0000" stop="20200107025500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Hold the Sunset</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107025500 +0000" stop="20200107032000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Josh</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20200107032000 +0000" stop="20200107041500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">DIY SOS: The Big Build</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S28E1</episode-num>
+  </programme>
+  <programme start="20200107041500 +0000" stop="20200107050000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Bargain Hunt</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S45E14</episode-num>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107054500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Bargain Hunt</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S45E15</episode-num>
+  </programme>
+  <programme start="20200107054500 +0000" stop="20200107063000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Shakespeare &amp; Hathaway: Private Investigators</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107063000 +0000" stop="20200107072000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">The Coroner</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107072000 +0000" stop="20200107075000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Last Of The Summer Wine</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S27E2</episode-num>
+  </programme>
+  <programme start="20200107075000 +0000" stop="20200107084500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">DIY SOS: The Big Build</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S28E1</episode-num>
+  </programme>
+  <programme start="20200107084500 +0000" stop="20200107093000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Bargain Hunt</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S45E15</episode-num>
+  </programme>
+  <programme start="20200107093000 +0000" stop="20200107101500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Shakespeare &amp; Hathaway: Private Investigators</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107101500 +0000" stop="20200107110500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">The Coroner</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107110500 +0000" stop="20200107113500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Last Of The Summer Wine</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S27E2</episode-num>
+  </programme>
+  <programme start="20200107113500 +0000" stop="20200107120500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Only Fools and Horses...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107120500 +0000" stop="20200107123500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6036</episode-num>
+  </programme>
+  <programme start="20200107123500 +0000" stop="20200107133000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">DIY SOS: The Big Build</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S28E1</episode-num>
+  </programme>
+  <programme start="20200107133000 +0000" stop="20200107141500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Bargain Hunt</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S45E15</episode-num>
+  </programme>
+  <programme start="20200107141500 +0000" stop="20200107150000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Shakespeare &amp; Hathaway: Private Investigators</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107155000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">The Coroner</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107155000 +0000" stop="20200107162000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Last Of The Summer Wine</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S27E2</episode-num>
+  </programme>
+  <programme start="20200107162000 +0000" stop="20200107165000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Only Fools and Horses...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6036</episode-num>
+  </programme>
+  <programme start="20200107172000 +0000" stop="20200107181500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">DIY SOS: The Big Build</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S28E2</episode-num>
+  </programme>
+  <programme start="20200107181500 +0000" stop="20200107190000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Shakespeare &amp; Hathaway: Private Investigators</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107193000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Only Fools and Horses...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6037</episode-num>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107214500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Silent Witness</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S19E1</episode-num>
+  </programme>
+  <programme start="20200107214500 +0000" stop="20200107221500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Alan Partridge</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107221500 +0000" stop="20200107224500 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Alan Partridge</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107224500 +0000" stop="20200107234000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Rillington Place</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107234000 +0000" stop="20200108001000 +0000" channel="PT: BBC ENTERTAINMENT">
+    <title lang="pt">Only Fools and Horses...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
   <programme start="20200107010000 +0000" stop="20200107030000 +0000" channel="PT: ELEVEN SPORT 1 LOW">
     <title lang="pt">Coupe de La Ligue - Le Mans x PSG</title>
     <category lang="pt">desporto</category>
@@ -1943,127 +3220,127 @@
     <title lang="pt">Festival Of Speed - Highlights</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107003000 +0000" stop="20200107010000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107003000 +0000" stop="20200107010000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E7</episode-num>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107013000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107010000 +0000" stop="20200107013000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E8</episode-num>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107100000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107013000 +0000" stop="20200107100000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Individual Motorsport Event - Barcelona 24 Horas Highlights</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107103000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107100000 +0000" stop="20200107103000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E6</episode-num>
   </programme>
-  <programme start="20200107103000 +0000" stop="20200107110000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107103000 +0000" stop="20200107110000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E7</episode-num>
   </programme>
-  <programme start="20200107110000 +0000" stop="20200107123000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107110000 +0000" stop="20200107123000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Fórmula 1 - A Temporada de 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107123000 +0000" stop="20200107130000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107123000 +0000" stop="20200107130000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107133000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107130000 +0000" stop="20200107133000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107133000 +0000" stop="20200107140000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107133000 +0000" stop="20200107140000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20200107140000 +0000" stop="20200107143000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107140000 +0000" stop="20200107143000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E4</episode-num>
   </programme>
-  <programme start="20200107143000 +0000" stop="20200107150000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107143000 +0000" stop="20200107150000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E5</episode-num>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107153000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107150000 +0000" stop="20200107153000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E6</episode-num>
   </programme>
-  <programme start="20200107153000 +0000" stop="20200107160000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107153000 +0000" stop="20200107160000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E7</episode-num>
   </programme>
-  <programme start="20200107160000 +0000" stop="20200107163000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107160000 +0000" stop="20200107163000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Inside World TCR</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E8</episode-num>
   </programme>
-  <programme start="20200107163000 +0000" stop="20200107170000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107163000 +0000" stop="20200107170000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E4</episode-num>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E5</episode-num>
   </programme>
-  <programme start="20200107190000 +0000" stop="20200107193000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107190000 +0000" stop="20200107193000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E6</episode-num>
   </programme>
-  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Gearing Up</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E7</episode-num>
   </programme>
-  <programme start="20200107200000 +0000" stop="20200107210000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107200000 +0000" stop="20200107210000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">First Glance - Documentary Show</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107210000 +0000" stop="20200107223000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107210000 +0000" stop="20200107223000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Fórmula 1 - A Temporada de 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Porsche Carrera Cup Asian Series</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200107234500 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107230000 +0000" stop="20200107234500 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Goodwood Revival - Highlights</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107234500 +0000" stop="20200108003000 +0000" channel="PT: ELEVEN SPORTS 3 FHD">
+  <programme start="20200107234500 +0000" stop="20200108003000 +0000" channel="PT: ELEVEN SPORTS 3  FHD">
     <title lang="pt">Festival Of Speed - Highlights</title>
     <category lang="pt">desporto</category>
   </programme>
@@ -2546,6 +3823,74 @@
     <category lang="pt">desporto</category>
   </programme>
   <programme start="20200107230000 +0000" stop="20200108000000 +0000" channel="PT: SPORT TV NBA HD">
+    <title lang="pt">The Warmup (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107003000 +0000" stop="20200107010000 +0000" channel="PT: NBA TV">
+    <title lang="pt">The Warmup</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107010000 +0000" stop="20200107013000 +0000" channel="PT: NBA TV">
+    <title lang="pt">The List: Style</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA - Milwaukee Bucks x San Antonio Spurs (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107040000 +0000" stop="20200107060000 +0000" channel="PT: NBA TV">
+    <title lang="pt">Marquee Matchup</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107063000 +0000" channel="PT: NBA TV">
+    <title lang="pt">The List: Style</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107063000 +0000" stop="20200107083000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA GameTime</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107083000 +0000" stop="20200107090000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107090000 +0000" stop="20200107100000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA GameTime</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107120000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA - Milwaukee Bucks x San Antonio Spurs</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107120000 +0000" stop="20200107130000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA GameTime</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA - Milwaukee Bucks x San Antonio Spurs</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107160000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA GameTime</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200107180000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA - Milwaukee Bucks x San Antonio Spurs</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107190000 +0000" channel="PT: NBA TV">
+    <title lang="pt">NBA GameTime</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107210000 +0000" channel="PT: NBA TV">
+    <title lang="pt">Marquee Matchup</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107230000 +0000" channel="PT: NBA TV">
+    <title lang="pt">Hardwood Classics - Kings x Mavericks</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107230000 +0000" stop="20200108000000 +0000" channel="PT: NBA TV">
     <title lang="pt">The Warmup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
@@ -6329,19 +7674,9 @@
     <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200107150800 +0000" stop="20200107195900 +0000" channel="PT: RTP INTERNACIONAL">
+  <programme start="20200107150800 +0000" stop="20200107223700 +0000" channel="PT: RTP INTERNACIONAL">
     <title lang="en">A Nossa Tarde</title>
     <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200107195900 +0000" stop="20200107213800 +0000" channel="PT: RTP INTERNACIONAL">
-    <title lang="en">Telejornal</title>
-    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200107213800 +0000" stop="20200107223700 +0000" channel="PT: RTP INTERNACIONAL">
-    <title lang="en">Hora dos Portugueses (Diário)</title>
-    <desc lang="en">O espelho do outro Portugal que está para além das fronteiras do país(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200107223700 +0000" stop="20200107232900 +0000" channel="PT: RTP INTERNACIONAL">
@@ -10012,129 +11347,129 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107001000 +0000" stop="20200107003500 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107001000 +0000" stop="20200107003500 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Globo News Especial</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E619</episode-num>
   </programme>
-  <programme start="20200107003500 +0000" stop="20200107012000 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107003500 +0000" stop="20200107012000 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Programa do Gabeira</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E264</episode-num>
   </programme>
-  <programme start="20200107012000 +0000" stop="20200107020000 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107012000 +0000" stop="20200107020000 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Jornal Globo News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107020000 +0000" stop="20200107024200 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107020000 +0000" stop="20200107024200 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Jornal Nacional</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107024200 +0000" stop="20200107042300 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107024200 +0000" stop="20200107042300 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Mais Você</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E5102</episode-num>
   </programme>
-  <programme start="20200107042300 +0000" stop="20200107054500 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107042300 +0000" stop="20200107054500 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Encontro Com Fátima Bernardes</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E1950</episode-num>
   </programme>
-  <programme start="20200107054500 +0000" stop="20200107063700 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107054500 +0000" stop="20200107063700 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Se Joga</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E69</episode-num>
   </programme>
-  <programme start="20200107063700 +0000" stop="20200107072500 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107063700 +0000" stop="20200107072500 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Conversa Com Bial</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E356</episode-num>
   </programme>
-  <programme start="20200107072500 +0000" stop="20200107075200 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107072500 +0000" stop="20200107075200 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Via Brasil</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E1958</episode-num>
   </programme>
-  <programme start="20200107075200 +0000" stop="20200107084100 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107075200 +0000" stop="20200107084100 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Manhattan Connection</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E428</episode-num>
   </programme>
-  <programme start="20200107084100 +0000" stop="20200107091500 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107084100 +0000" stop="20200107091500 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Jornal da Globo</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107091500 +0000" stop="20200107102600 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107091500 +0000" stop="20200107102600 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Mais Você</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E5102</episode-num>
   </programme>
-  <programme start="20200107102600 +0000" stop="20200107114200 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107102600 +0000" stop="20200107114200 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Encontro Com Fátima Bernardes</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E1950</episode-num>
   </programme>
-  <programme start="20200107114200 +0000" stop="20200107133500 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107114200 +0000" stop="20200107133500 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Hora Um</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107133500 +0000" stop="20200107142100 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107133500 +0000" stop="20200107142100 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Bom Dia Brasil</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107142100 +0000" stop="20200107153200 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107142100 +0000" stop="20200107153200 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Mais Você</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E5103</episode-num>
   </programme>
-  <programme start="20200107153200 +0000" stop="20200107164800 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107153200 +0000" stop="20200107164800 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Encontro Com Fátima Bernardes</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E1951</episode-num>
   </programme>
-  <programme start="20200107164800 +0000" stop="20200107180900 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107164800 +0000" stop="20200107180900 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Jornal Globo News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107180900 +0000" stop="20200107184000 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107180900 +0000" stop="20200107184000 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Globo Esporte</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107184000 +0000" stop="20200107193000 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107184000 +0000" stop="20200107193000 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Jornal Hoje</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107193000 +0000" stop="20200107202200 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107193000 +0000" stop="20200107202200 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Se Joga</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E70</episode-num>
   </programme>
-  <programme start="20200107202200 +0000" stop="20200107204600 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107202200 +0000" stop="20200107204600 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Globo News Especial</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E619</episode-num>
   </programme>
-  <programme start="20200107204600 +0000" stop="20200107212000 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107204600 +0000" stop="20200107212000 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Cidades e Soluções</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E646</episode-num>
   </programme>
-  <programme start="20200107212000 +0000" stop="20200107221700 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107212000 +0000" stop="20200107221700 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Via Brasil</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E1944</episode-num>
   </programme>
-  <programme start="20200107221700 +0000" stop="20200107225900 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107221700 +0000" stop="20200107225900 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Conversa Com Bial</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E448</episode-num>
   </programme>
-  <programme start="20200107225900 +0000" stop="20200107233400 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107225900 +0000" stop="20200107233400 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Mundo S/A</title>
     <category lang="pt">informacao</category>
     <episode-num system="xmltv_ns">S1E628</episode-num>
   </programme>
-  <programme start="20200107233400 +0000" stop="20200108000100 +0000" channel="PT: TV GLOBO Portugal">
+  <programme start="20200107233400 +0000" stop="20200108000100 +0000" channel="PT: GLOBO PORTUGAL HD">
     <title lang="pt">Roberto D</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -12722,455 +14057,455 @@
     <title lang="pt">Euronews Tonight</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107001500 +0000" stop="20200107002000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107001500 +0000" stop="20200107002000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107002000 +0000" stop="20200107003000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107002000 +0000" stop="20200107003000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107003000 +0000" stop="20200107004500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107003000 +0000" stop="20200107004500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107004500 +0000" stop="20200107010000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107004500 +0000" stop="20200107010000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Encore</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107011500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107010000 +0000" stop="20200107011500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107011500 +0000" stop="20200107012000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107011500 +0000" stop="20200107012000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107012000 +0000" stop="20200107013000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107012000 +0000" stop="20200107013000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">You Are Here</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107014500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107013000 +0000" stop="20200107014500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107014500 +0000" stop="20200107020000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107014500 +0000" stop="20200107020000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Eye On Africa</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107020000 +0000" stop="20200107021100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107020000 +0000" stop="20200107021100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107021100 +0000" stop="20200107023200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107021100 +0000" stop="20200107023200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107023200 +0000" stop="20200107030000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107023200 +0000" stop="20200107030000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107030000 +0000" stop="20200107031500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107030000 +0000" stop="20200107031500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107031500 +0000" stop="20200107033000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107031500 +0000" stop="20200107033000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Access Asia</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107033000 +0000" stop="20200107034500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107033000 +0000" stop="20200107034500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107034500 +0000" stop="20200107040000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107034500 +0000" stop="20200107040000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The 51</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107041500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107040000 +0000" stop="20200107041500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107041500 +0000" stop="20200107043000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107041500 +0000" stop="20200107043000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Eye On Africa</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107043000 +0000" stop="20200107044500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107043000 +0000" stop="20200107044500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107044500 +0000" stop="20200107050000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107044500 +0000" stop="20200107050000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Encore</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107050000 +0000" stop="20200107052000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107050000 +0000" stop="20200107052000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107052000 +0000" stop="20200107052500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107052000 +0000" stop="20200107052500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">More News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107052500 +0000" stop="20200107053000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107052500 +0000" stop="20200107053000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">In The Press</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107053000 +0000" stop="20200107054600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107053000 +0000" stop="20200107054600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107054600 +0000" stop="20200107055100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107054600 +0000" stop="20200107055100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107055100 +0000" stop="20200107060000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107055100 +0000" stop="20200107060000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107062200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107060000 +0000" stop="20200107062200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107062200 +0000" stop="20200107063000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107062200 +0000" stop="20200107063000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">In The Press</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107063000 +0000" stop="20200107064600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107063000 +0000" stop="20200107064600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107064600 +0000" stop="20200107065100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107064600 +0000" stop="20200107065100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Global Grid</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107065100 +0000" stop="20200107070000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107065100 +0000" stop="20200107070000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107070000 +0000" stop="20200107071700 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107070000 +0000" stop="20200107071700 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107071700 +0000" stop="20200107072200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107071700 +0000" stop="20200107072200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107072200 +0000" stop="20200107073000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107072200 +0000" stop="20200107073000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">More News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107073000 +0000" stop="20200107074000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107073000 +0000" stop="20200107074000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107074000 +0000" stop="20200107074600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107074000 +0000" stop="20200107074600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Perspective</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107074600 +0000" stop="20200107080000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107074600 +0000" stop="20200107080000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus + Sports</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107080000 +0000" stop="20200107081700 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107080000 +0000" stop="20200107081700 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107081700 +0000" stop="20200107082200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107081700 +0000" stop="20200107082200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107082200 +0000" stop="20200107083000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107082200 +0000" stop="20200107083000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">In The Press</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107083000 +0000" stop="20200107084600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107083000 +0000" stop="20200107084600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107084600 +0000" stop="20200107085100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107084600 +0000" stop="20200107085100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">À La Carte</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107085100 +0000" stop="20200107090000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107085100 +0000" stop="20200107090000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107090000 +0000" stop="20200107091600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107090000 +0000" stop="20200107091600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107091600 +0000" stop="20200107093000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107091600 +0000" stop="20200107093000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The 51</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107093000 +0000" stop="20200107094600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107093000 +0000" stop="20200107094600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107094600 +0000" stop="20200107095100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107094600 +0000" stop="20200107095100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107095100 +0000" stop="20200107100000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107095100 +0000" stop="20200107100000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Fashion</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107101000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107100000 +0000" stop="20200107101000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107101000 +0000" stop="20200107103000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107101000 +0000" stop="20200107103000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Talking Europe</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107103000 +0000" stop="20200107104000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107103000 +0000" stop="20200107104000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107104000 +0000" stop="20200107110000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107104000 +0000" stop="20200107110000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Talking Europe</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107110000 +0000" stop="20200107111000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107110000 +0000" stop="20200107111000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107111000 +0000" stop="20200107111600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107111000 +0000" stop="20200107111600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">You Are Here</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107111600 +0000" stop="20200107113000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107111600 +0000" stop="20200107113000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Encore</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107113000 +0000" stop="20200107114000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107113000 +0000" stop="20200107114000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107114000 +0000" stop="20200107120000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107114000 +0000" stop="20200107120000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Revisited</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107120000 +0000" stop="20200107121900 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107120000 +0000" stop="20200107121900 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107121900 +0000" stop="20200107123000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107121900 +0000" stop="20200107123000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107123000 +0000" stop="20200107124600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107123000 +0000" stop="20200107124600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107124600 +0000" stop="20200107125100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107124600 +0000" stop="20200107125100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">In The Press</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107125100 +0000" stop="20200107130000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107125100 +0000" stop="20200107130000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">More News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107131600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107130000 +0000" stop="20200107131600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107131600 +0000" stop="20200107132100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107131600 +0000" stop="20200107132100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Culture Critics</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107132100 +0000" stop="20200107133000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107132100 +0000" stop="20200107133000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107133000 +0000" stop="20200107134600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107133000 +0000" stop="20200107134600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107134600 +0000" stop="20200107135100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107134600 +0000" stop="20200107135100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107135100 +0000" stop="20200107140000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107135100 +0000" stop="20200107140000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107140000 +0000" stop="20200107141000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107140000 +0000" stop="20200107141000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107141000 +0000" stop="20200107142200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107141000 +0000" stop="20200107142200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">France In Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107142200 +0000" stop="20200107143000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107142200 +0000" stop="20200107143000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Down To Earth</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107143000 +0000" stop="20200107144000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107143000 +0000" stop="20200107144000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107144000 +0000" stop="20200107150000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107144000 +0000" stop="20200107150000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Reporters</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107151500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107150000 +0000" stop="20200107151500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107151500 +0000" stop="20200107153000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107151500 +0000" stop="20200107153000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Access Asia</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107153000 +0000" stop="20200107154500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107153000 +0000" stop="20200107154500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107154500 +0000" stop="20200107155100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107154500 +0000" stop="20200107155100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">French Connections</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107155100 +0000" stop="20200107160000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107155100 +0000" stop="20200107160000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Fashion</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107160000 +0000" stop="20200107161600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107160000 +0000" stop="20200107161600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107161600 +0000" stop="20200107163000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107161600 +0000" stop="20200107163000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Encore</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107163000 +0000" stop="20200107164500 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107163000 +0000" stop="20200107164500 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107164500 +0000" stop="20200107170000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107164500 +0000" stop="20200107170000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Middle East Matters</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107170000 +0000" stop="20200107171600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107170000 +0000" stop="20200107171600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107171600 +0000" stop="20200107173000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107171600 +0000" stop="20200107173000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Top Story</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107174600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107173000 +0000" stop="20200107174600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107174600 +0000" stop="20200107175100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107174600 +0000" stop="20200107175100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107175100 +0000" stop="20200107180000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107175100 +0000" stop="20200107180000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107181000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107180000 +0000" stop="20200107181000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107181000 +0000" stop="20200107183200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107181000 +0000" stop="20200107183200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107183200 +0000" stop="20200107190000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107183200 +0000" stop="20200107190000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107190000 +0000" stop="20200107191600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107190000 +0000" stop="20200107191600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107191600 +0000" stop="20200107192100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107191600 +0000" stop="20200107192100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107192100 +0000" stop="20200107193000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107192100 +0000" stop="20200107193000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107193000 +0000" stop="20200107194600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107193000 +0000" stop="20200107194600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107194600 +0000" stop="20200107195100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107194600 +0000" stop="20200107195100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">MediaWatch</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107195100 +0000" stop="20200107200000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107195100 +0000" stop="20200107200000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107200000 +0000" stop="20200107201800 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107200000 +0000" stop="20200107201800 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107201800 +0000" stop="20200107203000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107201800 +0000" stop="20200107203000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107203000 +0000" stop="20200107204600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107203000 +0000" stop="20200107204600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107204600 +0000" stop="20200107210000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107204600 +0000" stop="20200107210000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Eye On Africa</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107210000 +0000" stop="20200107211600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107210000 +0000" stop="20200107211600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107211600 +0000" stop="20200107212100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107211600 +0000" stop="20200107212100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107212100 +0000" stop="20200107213000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107212100 +0000" stop="20200107213000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">MediaWatch</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107213000 +0000" stop="20200107214600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107213000 +0000" stop="20200107214600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107214600 +0000" stop="20200107220000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107214600 +0000" stop="20200107220000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Eye On Africa</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107220000 +0000" stop="20200107221700 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107220000 +0000" stop="20200107221700 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107221700 +0000" stop="20200107223000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107221700 +0000" stop="20200107223000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Business + MediaWatch</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107223000 +0000" stop="20200107224600 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107223000 +0000" stop="20200107224600 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107224600 +0000" stop="20200107225100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107224600 +0000" stop="20200107225100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Sports</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107225100 +0000" stop="20200107230000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107225100 +0000" stop="20200107230000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">Focus</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200107231100 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107230000 +0000" stop="20200107231100 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107231100 +0000" stop="20200107233200 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107231100 +0000" stop="20200107233200 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200107233200 +0000" stop="20200108000000 +0000" channel="PT: FRANCE_24(I)">
+  <programme start="20200107233200 +0000" stop="20200108000000 +0000" channel="PT: FRANCE_24 (I)">
     <title lang="pt">The Debate</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -32701,47 +34036,47 @@
     <title lang="pt">Hit US</title>
     <desc lang="pt">The only countdown with the top best American videos direct from the US.... The only countdown with the top best American videos direct from the US(n)</desc>
   </programme>
-  <programme start="20200107020000 +0000" stop="20200107060000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107020000 +0000" stop="20200107060000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107100000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107060000 +0000" stop="20200107100000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107140000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107100000 +0000" stop="20200107140000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
-  <programme start="20200107140000 +0000" stop="20200107161500 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107140000 +0000" stop="20200107161500 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
-  <programme start="20200107161500 +0000" stop="20200107170000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107161500 +0000" stop="20200107170000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Hit 10</title>
     <desc lang="pt">Here at TRACE Urban, we love R&amp;B and Hip-Hop! Each week your favourite artists bring out the freshest tracks for you to get your groove on! Counting down the best tunes of the week is Hit 10, don’t miss out!(n)</desc>
   </programme>
-  <programme start="20200107170000 +0000" stop="20200107180000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107170000 +0000" stop="20200107180000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Hits &amp; Lyrics</title>
     <desc lang="pt">Don’t you just love it when you know exactly what your favourite artists are saying? Well, let Hits &amp; Lyrics be the perfect guide - showcasing the music video and the lyrics that make these hits bang!(n)</desc>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107190000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107180000 +0000" stop="20200107190000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">New</title>
     <desc lang="pt">The only 100% BRAND NEW video show with the freshest videos(n)</desc>
   </programme>
-  <programme start="20200107190000 +0000" stop="20200107194500 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107190000 +0000" stop="20200107194500 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Urban Stream</title>
     <desc lang="pt">Join us as we countdown the top ten most downloaded and streamed Hits from across the world(n)</desc>
   </programme>
-  <programme start="20200107194500 +0000" stop="20200107220000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107194500 +0000" stop="20200107220000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
-  <programme start="20200107220000 +0000" stop="20200107230000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107220000 +0000" stop="20200107230000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Hit US</title>
     <desc lang="pt">The only countdown with the top best American videos direct from the US(n)</desc>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200108020000 +0000" channel="PT: TRACE URBAN HD">
+  <programme start="20200107230000 +0000" stop="20200108020000 +0000" channel="PT: TRACE URBAN">
     <title lang="pt">Playlist</title>
     <desc lang="pt">100% music, 100% videos!(n)</desc>
   </programme>
