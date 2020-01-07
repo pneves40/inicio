@@ -80,8 +80,8 @@
     <display-name lang="pt">PT: RTP ACORES</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: RTP Africa">
-    <display-name lang="pt">PT: RTP Africa</display-name>
+  <channel id="PT: RTP AFRICA">
+    <display-name lang="pt">PT: RTP AFRICA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: SIC CARAS">
@@ -248,8 +248,8 @@
     <display-name lang="pt">PT: Deutsche Welle</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT TV1">
-    <display-name lang="pt">PT: SPORT TV1</display-name>
+  <channel id="PT: SPORT TV 1">
+    <display-name lang="pt">PT: SPORT TV 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: SPORT TV 1 HD">
@@ -260,72 +260,72 @@
     <display-name lang="pt">PT: SPORT TV 1 FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SportTV 1 LOW BITRATE">
-    <display-name lang="pt">PT: SportTV 1 LOW BITRATE</display-name>
+  <channel id="PT: SPORTTV 1 LOW BITRATE">
+    <display-name lang="pt">PT: SPORTTV 1 LOW BITRATE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT TV2">
-    <display-name lang="pt">PT: SPORT TV2</display-name>
+  <channel id="PT: SPORT TV 2">
+    <display-name lang="pt">PT: SPORT TV 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: SPORT TV 2 HD">
     <display-name lang="pt">PT: SPORT TV 2 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV 2 FHD">
-    <display-name lang="pt">PT: SPORT.TV 2 FHD</display-name>
+  <channel id="PT: SPORT TV 2 FHD">
+    <display-name lang="pt">PT: SPORT TV 2 FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SportTV 2 LOW BITRATE">
-    <display-name lang="pt">PT: SportTV 2 LOW BITRATE</display-name>
+  <channel id="PT: SPORTTV 2 LOW BITRATE">
+    <display-name lang="pt">PT: SPORTTV 2 LOW BITRATE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV 3">
-    <display-name lang="pt">PT: SPORT.TV 3</display-name>
+  <channel id="PT: SPORT TV 3">
+    <display-name lang="pt">PT: SPORT TV 3</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV 3 HD">
-    <display-name lang="pt">PT: SPORT.TV 3 HD</display-name>
+  <channel id="PT: SPORT TV 3 HD">
+    <display-name lang="pt">PT: SPORT TV 3 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV 3 FHD">
-    <display-name lang="pt">PT: SPORT.TV 3 FHD</display-name>
+  <channel id="PT: SPORT TV 3 FHD">
+    <display-name lang="pt">PT: SPORT TV 3 FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SportTV 3 LOW BITRATE">
-    <display-name lang="pt">PT: SportTV 3 LOW BITRATE</display-name>
+  <channel id="PT: SPORTTV 3 LOW BITRATE">
+    <display-name lang="pt">PT: SPORTTV 3 LOW BITRATE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV4">
-    <display-name lang="pt">PT: SPORT.TV4</display-name>
+  <channel id="PT: SPORT TV 4">
+    <display-name lang="pt">PT: SPORT TV4</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: Sport.TV 4 HD">
-    <display-name lang="pt">PT: Sport.TV 4 HD</display-name>
+  <channel id="PT: SPORT TV 4 HD">
+    <display-name lang="pt">PT: SPORT TV 4 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: Sport.TV 4 FHD">
-    <display-name lang="pt">PT: Sport.TV 4 FHD</display-name>
+  <channel id="PT: SPORT TV 4 FHD">
+    <display-name lang="pt">PT: SPORT TV 4 FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SportTV 4 LOW BITRATE">
-    <display-name lang="pt">PT: SportTV 4 LOW BITRATE</display-name>
+  <channel id="PT: SPORTTV 4 LOW BITRATE">
+    <display-name lang="pt">PT: SPORTTV 4 LOW BITRATE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SPORT.TV5">
-    <display-name lang="pt">PT: SPORT.TV5</display-name>
+  <channel id="PT: SPORT TV 5">
+    <display-name lang="pt">PT: SPORT TV 5</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: Sport.TV 5 HD">
-    <display-name lang="pt">PT: Sport.TV 5 HD</display-name>
+  <channel id="PT: SPORT TV 5 HD">
+    <display-name lang="pt">PT: SPORT TV 5 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: Sport.TV 5 FHD">
-    <display-name lang="pt">PT: Sport.TV 5 FHD</display-name>
+  <channel id="PT: SPORT TV 5 FHD">
+    <display-name lang="pt">PT: SPORT TV 5 FHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: SportTV 5 LOW BITRATE">
-    <display-name lang="pt">PT: SportTV 5 LOW BITRATE</display-name>
+  <channel id="PT: SPORTTV 5 LOW BITRATE">
+    <display-name lang="pt">PT: SPORTTV 5 LOW BITRATE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: BTV 1">
@@ -692,8 +692,8 @@
     <display-name lang="pt">PT: Discovery Channel HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: CRIME INVESTIGATION">
-    <display-name lang="pt">PT: CRIME INVESTIGATION</display-name>
+  <channel id="PT: CRIME   INVESTIGATION">
+    <display-name lang="pt">PT: CRIME   INVESTIGATION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT: NAT GEO WILD">
@@ -796,8 +796,12 @@
     <display-name lang="pt">PT: XXX PENTHOUSE HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT: A BOLA">
-    <display-name lang="pt">PT: A BOLA</display-name>
+  <channel id="PT: ABOLA TV">
+    <display-name lang="pt">PT: ABOLA TV</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: A BOLA TV HD">
+    <display-name lang="pt">PT: A BOLA TV HD</display-name>
     <url>http://www.portalnacional.com.pt</url>
   </channel>
   <channel id="PT: Sky News">
@@ -2936,6 +2940,228 @@
     <title lang="pt">A Casa é Minha</title>
     <category lang="pt">series</category>
   </programme>
+  <programme start="20200107001400 +0000" stop="20200107005000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Hora Cinemateca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107005000 +0000" stop="20200107010100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Hora Cinemateca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200107010100 +0000" stop="20200107012600 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Chefe, Mas Pouco...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E23</episode-num>
+  </programme>
+  <programme start="20200107012600 +0000" stop="20200107015100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Chefe, Mas Pouco...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E24</episode-num>
+  </programme>
+  <programme start="20200107015100 +0000" stop="20200107024000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">MacGyver (1985)</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E18</episode-num>
+  </programme>
+  <programme start="20200107024000 +0000" stop="20200107030300 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Will and Grace</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E17</episode-num>
+  </programme>
+  <programme start="20200107030300 +0000" stop="20200107033000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Portugalmente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107033000 +0000" stop="20200107042000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">João Semana</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107042000 +0000" stop="20200107050500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Badarosíssimo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107050500 +0000" stop="20200107051000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Música Portuguesa a Gostar Dela Própria</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E198</episode-num>
+  </programme>
+  <programme start="20200107051000 +0000" stop="20200107054000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Os Andrades</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20200107054000 +0000" stop="20200107054500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Boca de Cena</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107054500 +0000" stop="20200107060900 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">AntiCrise</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E65</episode-num>
+  </programme>
+  <programme start="20200107060900 +0000" stop="20200107063200 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">AntiCrise</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E66</episode-num>
+  </programme>
+  <programme start="20200107063200 +0000" stop="20200107070000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Nós os Ricos</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E70</episode-num>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107070500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Música Portuguesa a Gostar Dela Própria</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E199</episode-num>
+  </programme>
+  <programme start="20200107070500 +0000" stop="20200107075000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Lusitana Paixão</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E81</episode-num>
+  </programme>
+  <programme start="20200107075000 +0000" stop="20200107082500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Lenda da Garça</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E70</episode-num>
+  </programme>
+  <programme start="20200107082500 +0000" stop="20200107085500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Os Andrades</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E33</episode-num>
+  </programme>
+  <programme start="20200107085500 +0000" stop="20200107090600 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Vamos Jogar no Totobola</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107090600 +0000" stop="20200107095600 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Eu Show Nico</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20200107095600 +0000" stop="20200107100700 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Entrevista Histórica com Herman José</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107100700 +0000" stop="20200107105700 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Mãe do Senhor Ministro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107105700 +0000" stop="20200107112300 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Quebra Cabeças</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E71</episode-num>
+  </programme>
+  <programme start="20200107112300 +0000" stop="20200107120700 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E55</episode-num>
+  </programme>
+  <programme start="20200107120700 +0000" stop="20200107130100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">João Semana</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200107130100 +0000" stop="20200107135000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Banqueira do Povo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20200107135000 +0000" stop="20200107140100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Retrospetivas</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E27</episode-num>
+  </programme>
+  <programme start="20200107140100 +0000" stop="20200107150100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Macau, Duas Bandeiras</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107150100 +0000" stop="20200107153500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Nós os Ricos</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E71</episode-num>
+  </programme>
+  <programme start="20200107153500 +0000" stop="20200107155800 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">AntiCrise</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E67</episode-num>
+  </programme>
+  <programme start="20200107155800 +0000" stop="20200107162100 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">AntiCrise</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E68</episode-num>
+  </programme>
+  <programme start="20200107162100 +0000" stop="20200107165500 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Príncipes do Nada</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20200107165500 +0000" stop="20200107170000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Música Portuguesa a Gostar Dela Própria</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E198</episode-num>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107175000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Vila Faia (2008)</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E72</episode-num>
+  </programme>
+  <programme start="20200107175000 +0000" stop="20200107182000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">SMS - Ser Mais Sabedor</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E37</episode-num>
+  </programme>
+  <programme start="20200107182000 +0000" stop="20200107190600 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E55</episode-num>
+  </programme>
+  <programme start="20200107190600 +0000" stop="20200107192000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">RTP Sempre</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107192000 +0000" stop="20200107201000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Badarosíssimo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107201000 +0000" stop="20200107203400 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Chefe, Mas Pouco...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E25</episode-num>
+  </programme>
+  <programme start="20200107203400 +0000" stop="20200107210000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Chefe, Mas Pouco...</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E1</episode-num>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107215000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">MacGyver (1985)</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20200107215000 +0000" stop="20200107223600 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">A Mãe do Senhor Ministro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107223600 +0000" stop="20200107225900 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">Will and Grace</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S7E18</episode-num>
+  </programme>
+  <programme start="20200107225900 +0000" stop="20200108001000 +0000" channel="PT: RTP MEMORIA">
+    <title lang="pt">O Tal Canal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
   <programme start="20200107063000 +0000" stop="20200107130000 +0000" channel="PT: RTP INTERNACIONAL">
     <title lang="en">Bom Dia Portugal</title>
     <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
@@ -3222,6 +3448,241 @@
     <title lang="pt">O Tal Canal</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107010000 +0000" stop="20200107013000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Notícias do Atlântico - Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107020000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E11</episode-num>
+  </programme>
+  <programme start="20200107020000 +0000" stop="20200107034000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Açores Hoje</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107034000 +0000" stop="20200107035000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E35</episode-num>
+  </programme>
+  <programme start="20200107035000 +0000" stop="20200107041000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107041000 +0000" stop="20200107050000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Os Nossos Dias</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20200107050000 +0000" stop="20200107053500 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107053500 +0000" stop="20200107060500 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Máquina do Tempo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107060500 +0000" stop="20200107062500 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Portugal Culto e Oculto</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20200107062500 +0000" stop="20200107080000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Atlântida - Açores</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107081000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Fantasma Lusitano</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107081000 +0000" stop="20200107140000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Cidade Despida</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107142000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Jornal da Tarde - Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107142000 +0000" stop="20200107170000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">RTP 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107170000 +0000" stop="20200107173000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Notícias do Atlântico - Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E12</episode-num>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107193000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Açores Hoje</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107194000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Fotobox</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E25</episode-num>
+  </programme>
+  <programme start="20200107194000 +0000" stop="20200107210000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Rumos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E46</episode-num>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107213500 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107213500 +0000" stop="20200107215000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Energia Positiva</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107215000 +0000" stop="20200107222000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Gente da Cidade</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S20E6</episode-num>
+  </programme>
+  <programme start="20200107222000 +0000" stop="20200107225500 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Olhar o Mundo</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S6E48</episode-num>
+  </programme>
+  <programme start="20200107225500 +0000" stop="20200107232000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Solteira e Boa Rapariga</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20200107232000 +0000" stop="20200108010000 +0000" channel="PT: RTP ACORES">
+    <title lang="pt">Voo Directo - A Vida a 900 à Hora</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107005800 +0000" stop="20200107013000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107013000 +0000" stop="20200107023300 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Sociedade Civil</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S16E1</episode-num>
+  </programme>
+  <programme start="20200107023300 +0000" stop="20200107024500 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107024500 +0000" stop="20200107033800 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Passou Voltou</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107033800 +0000" stop="20200107053600 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Bem-vindos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E165</episode-num>
+  </programme>
+  <programme start="20200107053600 +0000" stop="20200107060000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107070000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Passou Voltou</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107100000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107100000 +0000" stop="20200107102700 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Madeira Prima</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20200107102700 +0000" stop="20200107112900 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Liberdade 21</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20200107112900 +0000" stop="20200107121500 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E77</episode-num>
+  </programme>
+  <programme start="20200107121500 +0000" stop="20200107130000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E70</episode-num>
+  </programme>
+  <programme start="20200107130000 +0000" stop="20200107141200 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107141200 +0000" stop="20200107144400 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Repórter África - 1ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107144400 +0000" stop="20200107151700 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">África Sport</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107151700 +0000" stop="20200107154800 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Parque dos Poetas CPLP</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107154800 +0000" stop="20200107160100 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Zoom África</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107160100 +0000" stop="20200107165200 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Passou Voltou</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200107165200 +0000" stop="20200107185600 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Bem-vindos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E166</episode-num>
+  </programme>
+  <programme start="20200107185600 +0000" stop="20200107193000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">África Sport</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107195900 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107195900 +0000" stop="20200107210200 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107210200 +0000" stop="20200107213000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Solteira e Boa Rapariga</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20200107213000 +0000" stop="20200107220700 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Outras Histórias</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20200107220700 +0000" stop="20200107231000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Nha Terra Nha Cretcheu</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S15E1</episode-num>
+  </programme>
+  <programme start="20200107231000 +0000" stop="20200108000000 +0000" channel="PT: RTP AFRICA">
+    <title lang="pt">Viva a Música</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E11</episode-num>
   </programme>
   <programme start="20200107000500 +0000" stop="20200107004700 +0000" channel="PT: SIC CARAS">
     <title lang="pt">Os Quatro Magníficos</title>
@@ -5000,6 +5461,132 @@
     <category lang="pt">entretenimento</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
+  <programme start="20200107001000 +0000" stop="20200107003500 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Globo News Especial</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E619</episode-num>
+  </programme>
+  <programme start="20200107003500 +0000" stop="20200107012000 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Programa do Gabeira</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E264</episode-num>
+  </programme>
+  <programme start="20200107012000 +0000" stop="20200107020000 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Jornal Globo News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107020000 +0000" stop="20200107024200 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107024200 +0000" stop="20200107042300 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5102</episode-num>
+  </programme>
+  <programme start="20200107042300 +0000" stop="20200107054500 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Encontro Com Fátima Bernardes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1950</episode-num>
+  </programme>
+  <programme start="20200107054500 +0000" stop="20200107063700 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Se Joga</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E69</episode-num>
+  </programme>
+  <programme start="20200107063700 +0000" stop="20200107072500 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Conversa Com Bial</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E356</episode-num>
+  </programme>
+  <programme start="20200107072500 +0000" stop="20200107075200 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Via Brasil</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1958</episode-num>
+  </programme>
+  <programme start="20200107075200 +0000" stop="20200107084100 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Manhattan Connection</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E428</episode-num>
+  </programme>
+  <programme start="20200107084100 +0000" stop="20200107091500 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107091500 +0000" stop="20200107102600 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5102</episode-num>
+  </programme>
+  <programme start="20200107102600 +0000" stop="20200107114200 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Encontro Com Fátima Bernardes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1950</episode-num>
+  </programme>
+  <programme start="20200107114200 +0000" stop="20200107133500 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107133500 +0000" stop="20200107142100 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107142100 +0000" stop="20200107153200 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5103</episode-num>
+  </programme>
+  <programme start="20200107153200 +0000" stop="20200107164800 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Encontro Com Fátima Bernardes</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1951</episode-num>
+  </programme>
+  <programme start="20200107164800 +0000" stop="20200107180900 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Jornal Globo News</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107180900 +0000" stop="20200107184000 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200107184000 +0000" stop="20200107193000 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107202200 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Se Joga</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E70</episode-num>
+  </programme>
+  <programme start="20200107202200 +0000" stop="20200107204600 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Globo News Especial</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E619</episode-num>
+  </programme>
+  <programme start="20200107204600 +0000" stop="20200107212000 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Cidades e Soluções</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E646</episode-num>
+  </programme>
+  <programme start="20200107212000 +0000" stop="20200107221700 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Via Brasil</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E1944</episode-num>
+  </programme>
+  <programme start="20200107221700 +0000" stop="20200107225900 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Conversa Com Bial</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E448</episode-num>
+  </programme>
+  <programme start="20200107225900 +0000" stop="20200107233400 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Mundo S/A</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E628</episode-num>
+  </programme>
+  <programme start="20200107233400 +0000" stop="20200108000100 +0000" channel="PT: TV GLOBO Portugal">
+    <title lang="pt">Roberto D</title>
+    <category lang="pt">informacao</category>
+  </programme>
   <programme start="20200107001000 +0000" stop="20200107003500 +0000" channel="PT: TV GLOBO Portugal HD">
     <title lang="pt">Globo News Especial</title>
     <category lang="pt">informacao</category>
@@ -5125,6 +5712,201 @@
   <programme start="20200107233400 +0000" stop="20200108000100 +0000" channel="PT: TV GLOBO Portugal HD">
     <title lang="pt">Roberto D</title>
     <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200107005000 +0000" stop="20200107011500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107011500 +0000" stop="20200107014500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Saindo da Depressão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107014500 +0000" stop="20200107020000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Conquistas Financeiras - Porto</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107020000 +0000" stop="20200107021000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107021000 +0000" stop="20200107023000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Em Busca do Amor</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107023000 +0000" stop="20200107025000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Vencendo Os Vícios</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107025000 +0000" stop="20200107031000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa França</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107031000 +0000" stop="20200107034000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Madeira</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107034000 +0000" stop="20200107040000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Algarve</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107040000 +0000" stop="20200107041000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107041000 +0000" stop="20200107043000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Itália</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107043000 +0000" stop="20200107045000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa França</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107045000 +0000" stop="20200107051000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Coimbra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107051000 +0000" stop="20200107053000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Alemanha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107053000 +0000" stop="20200107054000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200107054000 +0000" stop="20200107060000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Programa Luxemburgo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107061500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107061500 +0000" stop="20200107063000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107063000 +0000" stop="20200107063500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Intervenção em Busca do Amor</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107063500 +0000" stop="20200107070000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107073000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Hora do Milagre</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20200107073000 +0000" stop="20200107080000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Não Desista</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107081500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Jornal da Record 24H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200107081500 +0000" stop="20200107091500 +0000" channel="PT: Tv Record">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200107091500 +0000" stop="20200107103000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200107103000 +0000" stop="20200107113000 +0000" channel="PT: Tv Record">
+    <title lang="pt">A Escrava Isaura</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E34</episode-num>
+  </programme>
+  <programme start="20200107113000 +0000" stop="20200107123000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Caminhos do Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
+  </programme>
+  <programme start="20200107123000 +0000" stop="20200107133000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Topíssima</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E135</episode-num>
+  </programme>
+  <programme start="20200107133000 +0000" stop="20200107140000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Portugal no Ar</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107150000 +0000" channel="PT: Tv Record">
+    <title lang="pt">José do Egito</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20200107150000 +0000" stop="20200107153000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Os Milagres de Jesus</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107153000 +0000" stop="20200107163000 +0000" channel="PT: Tv Record">
+    <title lang="pt">O Rico e Lázaro</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E157</episode-num>
+  </programme>
+  <programme start="20200107163000 +0000" stop="20200107173000 +0000" channel="PT: Tv Record">
+    <title lang="pt">A Escrava Isaura</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
+  </programme>
+  <programme start="20200107173000 +0000" stop="20200107183000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Caminhos do Coração</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E52</episode-num>
+  </programme>
+  <programme start="20200107183000 +0000" stop="20200107193000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Rebelde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E131</episode-num>
+  </programme>
+  <programme start="20200107193000 +0000" stop="20200107200000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Fala Portugal</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200107200000 +0000" stop="20200107210000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Topíssima</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E136</episode-num>
+  </programme>
+  <programme start="20200107210000 +0000" stop="20200107220000 +0000" channel="PT: Tv Record">
+    <title lang="pt">José do Egito</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20200107220000 +0000" stop="20200108000000 +0000" channel="PT: Tv Record">
+    <title lang="pt">Cidade Alerta SP</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
   </programme>
   <programme start="20200107005000 +0000" stop="20200107011500 +0000" channel="PT: Tv Record HD">
     <title lang="pt">Nosso Tempo</title>
@@ -8443,59 +9225,59 @@
     <title lang="pt">Arts and Culture</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107003000 +0000" stop="20200107030000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107003000 +0000" stop="20200107030000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">NBA - Hawks x Nuggets (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107030000 +0000" stop="20200107060000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107030000 +0000" stop="20200107060000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107062000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107060000 +0000" stop="20200107062000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107062000 +0000" stop="20200107081500 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107062000 +0000" stop="20200107081500 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga Italiana - Juventus x Cagliari</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107081500 +0000" stop="20200107103000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107081500 +0000" stop="20200107103000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - P. Ferreira x Moreirense</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107103000 +0000" stop="20200107124000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107103000 +0000" stop="20200107124000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - Boavista x Portimonense</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107124000 +0000" stop="20200107145500 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107124000 +0000" stop="20200107145500 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - Belenenses SAD x SC Braga</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107145500 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107145500 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - Vitória SC x Benfica</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107200000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107172000 +0000" stop="20200107200000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - Sporting x FC Porto</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107200000 +0000" stop="20200107220000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107200000 +0000" stop="20200107220000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107220000 +0000" stop="20200107223000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107220000 +0000" stop="20200107223000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Taça de Inglaterra - Resumo da 3ª Eliminatória</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200107233000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107230000 +0000" stop="20200107233000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Liga NOS - Resumo 15ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108000000 +0000" channel="PT: SPORT TV1">
+  <programme start="20200107233000 +0000" stop="20200108000000 +0000" channel="PT: SPORT TV 1">
     <title lang="pt">Taça de França - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
@@ -8611,83 +9393,83 @@
     <title lang="pt">Taça de França - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107003000 +0000" stop="20200107030000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107003000 +0000" stop="20200107030000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">NBA - Hawks x Nuggets (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107030000 +0000" stop="20200107060000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107030000 +0000" stop="20200107060000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107062000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107060000 +0000" stop="20200107062000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107062000 +0000" stop="20200107081500 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107062000 +0000" stop="20200107081500 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga Italiana - Juventus x Cagliari</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107081500 +0000" stop="20200107103000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107081500 +0000" stop="20200107103000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - P. Ferreira x Moreirense</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107103000 +0000" stop="20200107124000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107103000 +0000" stop="20200107124000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - Boavista x Portimonense</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107124000 +0000" stop="20200107145500 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107124000 +0000" stop="20200107145500 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - Belenenses SAD x SC Braga</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107145500 +0000" stop="20200107172000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107145500 +0000" stop="20200107172000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - Vitória SC x Benfica</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107200000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107172000 +0000" stop="20200107200000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - Sporting x FC Porto</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107200000 +0000" stop="20200107220000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107200000 +0000" stop="20200107220000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107220000 +0000" stop="20200107223000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107220000 +0000" stop="20200107223000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Taça de Inglaterra - Resumo da 3ª Eliminatória</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107223000 +0000" stop="20200107230000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200107233000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107230000 +0000" stop="20200107233000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Liga NOS - Resumo 15ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108000000 +0000" channel="PT: SportTV 1 LOW BITRATE">
+  <programme start="20200107233000 +0000" stop="20200108000000 +0000" channel="PT: SPORTTV 1 LOW BITRATE">
     <title lang="pt">Taça de França - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">Taça de Inglaterra - Wolverhampton x Man. United</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">Taça de Inglaterra - Man. City x Port Vale</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">Liga Italiana - Juventus x Cagliari</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">Liga Italiana - Nápoles x Inter</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SPORT TV2">
+  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SPORT TV 2">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
@@ -8715,563 +9497,563 @@
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">Taça de Inglaterra - Wolverhampton x Man. United</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">Taça de Inglaterra - Man. City x Port Vale</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">Liga Italiana - Juventus x Cagliari</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">Liga Italiana - Nápoles x Inter</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SPORT.TV 2 FHD">
+  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SPORT TV 2 FHD">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107060000 +0000" stop="20200107153000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107153000 +0000" stop="20200107172000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">Taça de Inglaterra - Wolverhampton x Man. United</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107172000 +0000" stop="20200107192000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">Taça de Inglaterra - Man. City x Port Vale</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107192000 +0000" stop="20200107211000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">Liga Italiana - Juventus x Cagliari</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107211000 +0000" stop="20200107230000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">Liga Italiana - Nápoles x Inter</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SportTV 2 LOW BITRATE">
+  <programme start="20200107230000 +0000" stop="20200108060000 +0000" channel="PT: SPORTTV 2 LOW BITRATE">
     <title lang="pt">ATP Cup (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">NBA - Spurs x Bucks (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Liga Italiana - AC Milan x Sampdoria</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Liga Italiana - Atalanta x Parma</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Atletismo - São Silvestre da Amadora 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">ATP Cup</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Taça de França - AS Monaco x Reims</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT.TV 3">
+  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT TV 3">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">NBA - Spurs x Bucks (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Liga Italiana - AC Milan x Sampdoria</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Liga Italiana - Atalanta x Parma</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Atletismo - São Silvestre da Amadora 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">ATP Cup</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Taça de França - AS Monaco x Reims</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT.TV 3 HD">
+  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT TV 3 HD">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">NBA - Spurs x Bucks (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Liga Italiana - AC Milan x Sampdoria</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Liga Italiana - Atalanta x Parma</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Atletismo - São Silvestre da Amadora 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">ATP Cup</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Taça de França - AS Monaco x Reims</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT.TV 3 FHD">
+  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORT TV 3 FHD">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107013000 +0000" stop="20200107040000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">NBA - Spurs x Bucks (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Liga Italiana - AC Milan x Sampdoria</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Liga Italiana - Atalanta x Parma</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Liga Italiana - Resumos da 18ª Jornada</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107172000 +0000" stop="20200107173000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Atletismo - São Silvestre da Amadora 2019</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107173000 +0000" stop="20200107212000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">ATP Cup</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107212000 +0000" stop="20200107231000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Taça de França - AS Monaco x Reims</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SportTV 3 LOW BITRATE">
+  <programme start="20200107231000 +0000" stop="20200108010000 +0000" channel="PT: SPORTTV 3 LOW BITRATE">
     <title lang="pt">Taça da Liga Inglesa - Man. United x Man. City</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">Surf - Circuito WCT - Pipe Masters - Prova Masculina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">Surf - Circuito WCT - Maui Pro - Prova Feminina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">Sporting Greats - Arnold Palmer - Golfe</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">World Golf Championships - México Championship - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">World Golf Championships - Fedex St. Jude Invitational - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SPORT.TV4">
+  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SPORT TV 4">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - 1º Dia</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">Surf - Circuito WCT - Pipe Masters - Prova Masculina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">Surf - Circuito WCT - Maui Pro - Prova Feminina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">Sporting Greats - Arnold Palmer - Golfe</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">World Golf Championships - México Championship - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">World Golf Championships - Fedex St. Jude Invitational - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: Sport.TV 4 HD">
+  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SPORT TV 4 HD">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - 1º Dia</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">Surf - Circuito WCT - Pipe Masters - Prova Masculina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">Surf - Circuito WCT - Maui Pro - Prova Feminina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">Sporting Greats - Arnold Palmer - Golfe</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">World Golf Championships - México Championship - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">World Golf Championships - Fedex St. Jude Invitational - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: Sport.TV 4 FHD">
+  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SPORT TV 4 FHD">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - 1º Dia</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107040000 +0000" stop="20200107100000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107100000 +0000" stop="20200107130000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107130000 +0000" stop="20200107150000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">Surf - Circuito WCT - Pipe Masters - Prova Masculina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107150000 +0000" stop="20200107165000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">Surf - Circuito WCT - Maui Pro - Prova Feminina</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107165000 +0000" stop="20200107172000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">Sporting Greats - Arnold Palmer - Golfe</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107172000 +0000" stop="20200107182000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">World Golf Championships - México Championship - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107182000 +0000" stop="20200107192000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107192000 +0000" stop="20200107202000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">World Golf Championships - Fedex St. Jude Invitational - Resumo</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SportTV 4 LOW BITRATE">
+  <programme start="20200107202000 +0000" stop="20200108022000 +0000" channel="PT: SPORTTV 4 LOW BITRATE">
     <title lang="pt">World Golf Championships - Dell Technologies Match Play - 1º Dia</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Sports Unlimited Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">WWE Raw (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">NHL - Washington Capitals x San Jose Sharks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">NBA - Hawks x Nuggets</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Gearing Up - Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">XTERRA Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Taça do Mundo de Esqui Alpino - Lienz, Áustria / Bormio, Itália</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">WWE Raw</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SPORT.TV5">
+  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SPORT TV 5">
     <title lang="pt">Camp. do Mundo X-Trial - St. Denis - Ilha da Reunião</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Sports Unlimited Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">WWE Raw (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">NHL - Washington Capitals x San Jose Sharks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">NBA - Hawks x Nuggets</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Gearing Up - Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">XTERRA Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Taça do Mundo de Esqui Alpino - Lienz, Áustria / Bormio, Itália</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">WWE Raw</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: Sport.TV 5 HD">
+  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SPORT TV 5 HD">
     <title lang="pt">Camp. do Mundo X-Trial - St. Denis - Ilha da Reunião</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Sports Unlimited Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">WWE Raw (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">NHL - Washington Capitals x San Jose Sharks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">NBA - Hawks x Nuggets</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Gearing Up - Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">XTERRA Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Taça do Mundo de Esqui Alpino - Lienz, Áustria / Bormio, Itália</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">WWE Raw</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: Sport.TV 5 FHD">
+  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SPORT TV 5 FHD">
     <title lang="pt">Camp. do Mundo X-Trial - St. Denis - Ilha da Reunião</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107001000 +0000" stop="20200107010000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Sports Unlimited Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107010000 +0000" stop="20200107040000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">WWE Raw (Direto)</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107040000 +0000" stop="20200107080000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Sem Emissão</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107080000 +0000" stop="20200107100000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">NHL - Washington Capitals x San Jose Sharks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107100000 +0000" stop="20200107121000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107121000 +0000" stop="20200107142000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">NBA - Hawks x Nuggets</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107142000 +0000" stop="20200107173000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Camp. do Mundo Super Enduro - Riesa, Alemanha</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107173000 +0000" stop="20200107180000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Gearing Up - Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">XTERRA Magazine</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107183000 +0000" stop="20200107185500 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Taça do Mundo de Esqui Alpino - Lienz, Áustria / Bormio, Itália</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107185500 +0000" stop="20200107212500 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">WWE Raw</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107212500 +0000" stop="20200107233000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">NBA - Spurs x Bucks</title>
     <category lang="pt">desporto</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SportTV 5 LOW BITRATE">
+  <programme start="20200107233000 +0000" stop="20200108003000 +0000" channel="PT: SPORTTV 5 LOW BITRATE">
     <title lang="pt">Camp. do Mundo X-Trial - St. Denis - Ilha da Reunião</title>
     <category lang="pt">desporto</category>
   </programme>
@@ -9867,6 +10649,14 @@
     <title lang="pt">Diary With Sami Callihan Part 2</title>
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20200107080000 +0000" stop="20200107160000 +0000" channel="PT: OUTDOOR HD">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200107160000 +0000" stop="20200108000000 +0000" channel="PT: OUTDOOR HD">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <category lang="pt">entretenimento</category>
   </programme>
   <programme start="20200107003000 +0000" stop="20200107010000 +0000" channel="PT: FUEL TV">
     <title lang="pt">The Adventures of Danny &amp; The Dingo</title>
@@ -12768,58 +13558,61 @@
     <title lang="pt">Caravaggio - A Alma e o Sangue</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200107012000 +0000" stop="20200107032000 +0000" channel="PT: TVCINE 2 FHD">
+  <programme start="20200107000500 +0000" stop="20200107015000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Por Favor Não Me Mordam o Pescoço</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107015000 +0000" stop="20200107034500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Bullitt</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107034500 +0000" stop="20200107060500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">O Segredo de Brokeback Mountain</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107060500 +0000" stop="20200107074500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">A Lei do Ódio</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107074500 +0000" stop="20200107094500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">O Passado Não Perdoa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107094500 +0000" stop="20200107115000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Uma Nação, um Rei</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107115000 +0000" stop="20200107124000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Shuku Shukuwe - A Vida é Para Sempre</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200107124000 +0000" stop="20200107143000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Bullitt</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107143000 +0000" stop="20200107163000 +0000" channel="PT: TVCINE 2 FHD">
     <title lang="pt">A Música do Silêncio</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107032000 +0000" stop="20200107060000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Silvio e os Outros</title>
+  <programme start="20200107163000 +0000" stop="20200107184500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">O Segredo de Brokeback Mountain</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107074000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">A Cada Dia</title>
+  <programme start="20200107184500 +0000" stop="20200107202500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Na Sombra de Iris</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107074000 +0000" stop="20200107091000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Insónia Até ao Natal</title>
+  <programme start="20200107202500 +0000" stop="20200107220000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">A Flecha Quebrada</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107091000 +0000" stop="20200107112500 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Monstros Fantásticos: Os Crimes de Grindelwald</title>
+  <programme start="20200107220000 +0000" stop="20200107235500 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">O Carteiro de Pablo Neruda</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107112500 +0000" stop="20200107131500 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Uma Guerra Pessoal</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107131500 +0000" stop="20200107151500 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Vingança Perfeita</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107151500 +0000" stop="20200107170000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Meg: Tubarão Gigante</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107170000 +0000" stop="20200107192000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Aquaman</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107192000 +0000" stop="20200107213000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">BlacKkKlansman - O Infiltrado</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107213000 +0000" stop="20200107232000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">O Mistério da Ilha Flannan</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107232000 +0000" stop="20200107233000 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Cinetendinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E326</episode-num>
-  </programme>
-  <programme start="20200107233000 +0000" stop="20200108011500 +0000" channel="PT: TVCINE 2 FHD">
-    <title lang="pt">Arranha-Céus (2018)</title>
-    <category lang="pt">filmes</category>
+  <programme start="20200107235500 +0000" stop="20200108013000 +0000" channel="PT: TVCINE 2 FHD">
+    <title lang="pt">Caravaggio - A Alma e o Sangue</title>
+    <category lang="pt">documentarios</category>
   </programme>
   <programme start="20200107000500 +0000" stop="20200107015000 +0000" channel="PT: TVCine 2 LOW BITRATE">
     <title lang="pt">Por Favor Não Me Mordam o Pescoço</title>
@@ -12981,57 +13774,56 @@
     <title lang="pt">Amar-te à Meia-Noite</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107012000 +0000" stop="20200107032000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">A Música do Silêncio</title>
+  <programme start="20200107002500 +0000" stop="20200107023500 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Expiação</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107032000 +0000" stop="20200107060000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Silvio e os Outros</title>
+  <programme start="20200107023500 +0000" stop="20200107040000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">A Dama e o Vagabundo (VO)</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107074000 +0000" channel="PT: TVCINE 3 FHD">
+  <programme start="20200107040000 +0000" stop="20200107061000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Orgulho e Preconceito</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107061000 +0000" stop="20200107084000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Contacto</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107084000 +0000" stop="20200107103500 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Um Segredo do Passado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107103500 +0000" stop="20200107124000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Expiação</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107124000 +0000" stop="20200107143000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Epic - O Reino Secreto (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107143000 +0000" stop="20200107160500 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Os Fantasmas Divertem-se</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107160500 +0000" stop="20200107174000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Mistrust - Insegurança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107174000 +0000" stop="20200107192000 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">A Minha Semana Com Marilyn</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200107192000 +0000" stop="20200107210000 +0000" channel="PT: TVCINE 3 FHD">
     <title lang="pt">A Cada Dia</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107074000 +0000" stop="20200107091000 +0000" channel="PT: TVCINE 3 FHD">
+  <programme start="20200107210000 +0000" stop="20200107223000 +0000" channel="PT: TVCINE 3 FHD">
     <title lang="pt">Insónia Até ao Natal</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107091000 +0000" stop="20200107112500 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Monstros Fantásticos: Os Crimes de Grindelwald</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107112500 +0000" stop="20200107131500 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Uma Guerra Pessoal</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107131500 +0000" stop="20200107151500 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Vingança Perfeita</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107151500 +0000" stop="20200107170000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Meg: Tubarão Gigante</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107170000 +0000" stop="20200107192000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Aquaman</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107192000 +0000" stop="20200107213000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">BlacKkKlansman - O Infiltrado</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107213000 +0000" stop="20200107232000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">O Mistério da Ilha Flannan</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20200107232000 +0000" stop="20200107233000 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Cinetendinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E326</episode-num>
-  </programme>
-  <programme start="20200107233000 +0000" stop="20200108011500 +0000" channel="PT: TVCINE 3 FHD">
-    <title lang="pt">Arranha-Céus (2018)</title>
+  <programme start="20200107223000 +0000" stop="20200108000500 +0000" channel="PT: TVCINE 3 FHD">
+    <title lang="pt">Amar-te à Meia-Noite</title>
     <category lang="pt">filmes</category>
   </programme>
   <programme start="20200107002500 +0000" stop="20200107023500 +0000" channel="PT: TVCine 3 LOW BITRATE">
@@ -13190,57 +13982,56 @@
     <title lang="pt">Resgate Bilionário</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107012000 +0000" stop="20200107032000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">A Música do Silêncio</title>
+  <programme start="20200107005500 +0000" stop="20200107025500 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">A Praia</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107032000 +0000" stop="20200107060000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Silvio e os Outros</title>
+  <programme start="20200107025500 +0000" stop="20200107045000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Guerra dos Mundos</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107074000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">A Cada Dia</title>
+  <programme start="20200107045000 +0000" stop="20200107065000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Prece Ao Nascer do Dia</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107074000 +0000" stop="20200107091000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Insónia Até ao Natal</title>
+  <programme start="20200107065000 +0000" stop="20200107085000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">O Grande Lebowski</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107091000 +0000" stop="20200107112500 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Monstros Fantásticos: Os Crimes de Grindelwald</title>
+  <programme start="20200107085000 +0000" stop="20200107104500 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Para Além dos Limites</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107112500 +0000" stop="20200107131500 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Uma Guerra Pessoal</title>
+  <programme start="20200107104500 +0000" stop="20200107124500 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">A Praia</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107131500 +0000" stop="20200107151500 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Vingança Perfeita</title>
+  <programme start="20200107124500 +0000" stop="20200107143000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Taxi 5</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107151500 +0000" stop="20200107170000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Meg: Tubarão Gigante</title>
+  <programme start="20200107143000 +0000" stop="20200107163000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Guerra dos Mundos</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107170000 +0000" stop="20200107192000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Aquaman</title>
+  <programme start="20200107163000 +0000" stop="20200107180000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Drones Assassinos</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107192000 +0000" stop="20200107213000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">BlacKkKlansman - O Infiltrado</title>
+  <programme start="20200107180000 +0000" stop="20200107193000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Violadores: A Invasão Continua</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107213000 +0000" stop="20200107232000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">O Mistério da Ilha Flannan</title>
+  <programme start="20200107193000 +0000" stop="20200107211500 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">A Rainha dos Malditos</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107232000 +0000" stop="20200107233000 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Cinetendinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E326</episode-num>
+  <programme start="20200107211500 +0000" stop="20200107230000 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Zoe</title>
+    <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200107233000 +0000" stop="20200108011500 +0000" channel="PT: TVCINE 4 FHD">
-    <title lang="pt">Arranha-Céus (2018)</title>
+  <programme start="20200107230000 +0000" stop="20200108004500 +0000" channel="PT: TVCINE 4 FHD">
+    <title lang="pt">Resgate Bilionário</title>
     <category lang="pt">filmes</category>
   </programme>
   <programme start="20200107005500 +0000" stop="20200107025500 +0000" channel="PT: TVCine 4 LOW BITRATE">
@@ -20920,140 +21711,140 @@
     <title lang="pt">Chegou o Ultra HD 4K</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200107001400 +0000" stop="20200107011300 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107001400 +0000" stop="20200107011300 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Alerta Desaparecido</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107011300 +0000" stop="20200107015600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107011300 +0000" stop="20200107015600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">As Primeiras 48 Horas</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S15E15</episode-num>
   </programme>
-  <programme start="20200107015600 +0000" stop="20200107024000 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107015600 +0000" stop="20200107024000 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">As Primeiras 48 Horas</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S15E16</episode-num>
   </programme>
-  <programme start="20200107024000 +0000" stop="20200107032500 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107024000 +0000" stop="20200107032500 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">As Primeiras 48 Horas</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S17E9</episode-num>
   </programme>
-  <programme start="20200107032500 +0000" stop="20200107040600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107032500 +0000" stop="20200107040600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">As Primeiras 48 Horas</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S16E8</episode-num>
   </programme>
-  <programme start="20200107040600 +0000" stop="20200107050600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107040600 +0000" stop="20200107050600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">As Primeiras 48 Horas</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S17E1</episode-num>
   </programme>
-  <programme start="20200107050600 +0000" stop="20200107063200 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107050600 +0000" stop="20200107063200 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">O Massacre De Jonestown</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200107063200 +0000" stop="20200107071500 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107063200 +0000" stop="20200107071500 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">24 Horas Antes De Morrer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107071500 +0000" stop="20200107075800 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107071500 +0000" stop="20200107075800 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">24 Horas Antes De Morrer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E25</episode-num>
   </programme>
-  <programme start="20200107075800 +0000" stop="20200107084100 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107075800 +0000" stop="20200107084100 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">24 Horas Antes De Morrer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E26</episode-num>
   </programme>
-  <programme start="20200107084100 +0000" stop="20200107105200 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107084100 +0000" stop="20200107105200 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Live PD, Ação Policial</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S3E7</episode-num>
   </programme>
-  <programme start="20200107105200 +0000" stop="20200107113300 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107105200 +0000" stop="20200107113300 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Na Mente De Um Serial Killer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107113300 +0000" stop="20200107121600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107113300 +0000" stop="20200107121600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Na Mente De Um Serial Killer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107121600 +0000" stop="20200107130100 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107121600 +0000" stop="20200107130100 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Na Mente De Um Serial Killer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20200107130100 +0000" stop="20200107134400 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107130100 +0000" stop="20200107134400 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Na Mente De Um Serial Killer</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E4</episode-num>
   </programme>
-  <programme start="20200107134400 +0000" stop="20200107142800 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107134400 +0000" stop="20200107142800 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Jeffrey Dahmer, O Canibal De Milwaukee</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107142800 +0000" stop="20200107151300 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107142800 +0000" stop="20200107151300 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Jeffrey Dahmer, O Canibal De Milwaukee</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107151300 +0000" stop="20200107155800 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107151300 +0000" stop="20200107155800 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Morte No Campus</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107155800 +0000" stop="20200107164400 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107155800 +0000" stop="20200107164400 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Morte No Campus</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107164400 +0000" stop="20200107172900 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107164400 +0000" stop="20200107172900 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Morte No Campus</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20200107172900 +0000" stop="20200107185600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107172900 +0000" stop="20200107185600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">O Massacre De Jonestown</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200107185600 +0000" stop="20200107193800 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107185600 +0000" stop="20200107193800 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Brigada De Homicídios: Atlanta</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20200107193800 +0000" stop="20200107202000 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107193800 +0000" stop="20200107202000 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Brigada De Homicídios: Atlanta</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200107210300 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107202000 +0000" stop="20200107210300 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Segredos da Morgue</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E2</episode-num>
   </programme>
-  <programme start="20200107210300 +0000" stop="20200107214600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107210300 +0000" stop="20200107214600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Segredos da Morgue</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20200107214600 +0000" stop="20200107223000 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107214600 +0000" stop="20200107223000 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Segredos da Morgue</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E4</episode-num>
   </programme>
-  <programme start="20200107223000 +0000" stop="20200107232000 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107223000 +0000" stop="20200107232000 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Quem é o Assassino?</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E47</episode-num>
   </programme>
-  <programme start="20200107232000 +0000" stop="20200108001600 +0000" channel="PT: CRIME INVESTIGATION">
+  <programme start="20200107232000 +0000" stop="20200108001600 +0000" channel="PT: CRIME   INVESTIGATION">
     <title lang="pt">Quem é o Assassino?</title>
     <category lang="pt">series</category>
     <episode-num system="xmltv_ns">S1E48</episode-num>
@@ -24882,135 +25673,267 @@
     <title lang="pt">Corrupted Beauty</title>
     <category lang="pt">adultos</category>
   </programme>
-  <programme start="20200107000000 +0000" stop="20200107004500 +0000" channel="PT: A BOLA">
+  <programme start="20200107000000 +0000" stop="20200107004500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Remate Final</title>
     <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107004500 +0000" stop="20200107023000 +0000" channel="PT: A BOLA">
+  <programme start="20200107004500 +0000" stop="20200107023000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Entrevista: Bruno Lage</title>
     <desc lang="pt">Programa de entrevistas com várias personalidades do mundo do desporto.... Programa de entrevistas com várias personalidades do mundo do desporto(n)</desc>
   </programme>
-  <programme start="20200107023000 +0000" stop="20200107033000 +0000" channel="PT: A BOLA">
+  <programme start="20200107023000 +0000" stop="20200107033000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Amigos Da Bola</title>
     <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
   </programme>
-  <programme start="20200107044500 +0000" stop="20200107053000 +0000" channel="PT: A BOLA">
+  <programme start="20200107044500 +0000" stop="20200107053000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Remate Final</title>
     <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107053000 +0000" stop="20200107060000 +0000" channel="PT: A BOLA">
+  <programme start="20200107053000 +0000" stop="20200107060000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Compacto Desportivo</title>
     <desc lang="pt">Atletismo: 20km de Almeirim... Atletismo: 20km de Almeirim(n)</desc>
   </programme>
-  <programme start="20200107060000 +0000" stop="20200107061500 +0000" channel="PT: A BOLA">
+  <programme start="20200107060000 +0000" stop="20200107061500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Flashnews</title>
     <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
   </programme>
-  <programme start="20200107064500 +0000" stop="20200107070000 +0000" channel="PT: A BOLA">
+  <programme start="20200107064500 +0000" stop="20200107070000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Fairplay Curto</title>
     <desc lang="pt">Porque a vida deve ser levada com desportivismo, alguns vídeos divertidos do mundo do desporto que estão disponíveis na internet.... Porque a vida deve ser levada com desportivismo, alguns vídeos divertidos do mundo do desporto que estão disponíveis na internet(n)</desc>
   </programme>
-  <programme start="20200107070000 +0000" stop="20200107074500 +0000" channel="PT: A BOLA">
+  <programme start="20200107070000 +0000" stop="20200107074500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Remate Final</title>
     <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107074500 +0000" stop="20200107080000 +0000" channel="PT: A BOLA">
+  <programme start="20200107074500 +0000" stop="20200107080000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Off</title>
     <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
   </programme>
-  <programme start="20200107081500 +0000" stop="20200107084500 +0000" channel="PT: A BOLA">
+  <programme start="20200107081500 +0000" stop="20200107084500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Move It</title>
     <desc lang="pt">O programa “Move it” funciona como uma aula orientada pelo preparador físico, Pedro Correia, para o fazer sair da zona de conforto e mexer-se. Os exercícios propostos têm em atenção a crescen... O programa “Move it” funciona como uma aula orientada pelo preparador físico, Pedro Correia, para o fazer sair da zona de conforto e mexer-se. Os exercícios propostos têm em atenção a crescente falta de tempo nos dias que correm e a necessidade u(n)</desc>
   </programme>
-  <programme start="20200107084500 +0000" stop="20200107090000 +0000" channel="PT: A BOLA">
+  <programme start="20200107084500 +0000" stop="20200107090000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Off</title>
     <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
   </programme>
-  <programme start="20200107090000 +0000" stop="20200107091500 +0000" channel="PT: A BOLA">
+  <programme start="20200107090000 +0000" stop="20200107091500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Flashnews</title>
     <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
   </programme>
-  <programme start="20200107091500 +0000" stop="20200107094500 +0000" channel="PT: A BOLA">
+  <programme start="20200107091500 +0000" stop="20200107094500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Com Todo o Gosto</title>
     <desc lang="pt">Em ‘Com todo o gosto’, a nutricionista Mafalda Rodrigues de Almeida vai confecionar diferentes pratos que pode aliar a um estilo de vida saudável, mas que se destinam também a pessoas com determ... Em ‘Com todo o gosto’, a nutricionista Mafalda Rodrigues de Almeida vai confecionar diferentes pratos que pode aliar a um estilo de vida saudável, mas que se destinam também a pessoas com determinadas restrições ou intolerâncias alimentares. Por?(n)</desc>
   </programme>
-  <programme start="20200107094500 +0000" stop="20200107095000 +0000" channel="PT: A BOLA">
+  <programme start="20200107094500 +0000" stop="20200107095000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Off</title>
     <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
   </programme>
-  <programme start="20200107095000 +0000" stop="20200107100500 +0000" channel="PT: A BOLA">
+  <programme start="20200107095000 +0000" stop="20200107100500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Flashnews</title>
     <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
   </programme>
-  <programme start="20200107100500 +0000" stop="20200107110000 +0000" channel="PT: A BOLA">
+  <programme start="20200107100500 +0000" stop="20200107110000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Amigos Da Bola</title>
     <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
   </programme>
-  <programme start="20200107110000 +0000" stop="20200107111500 +0000" channel="PT: A BOLA">
+  <programme start="20200107110000 +0000" stop="20200107111500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola das 11</title>
     <desc lang="pt">Pelas 11h00, fique a par das principais informações que marcam a atualidade desportiva e no mundo.... Pelas 11h00, fique a par das principais informações que marcam a atualidade desportiva e no mundo(n)</desc>
   </programme>
-  <programme start="20200107111500 +0000" stop="20200107115500 +0000" channel="PT: A BOLA">
+  <programme start="20200107111500 +0000" stop="20200107115500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Revista de Imprensa Internacional</title>
     <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira.... André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
   </programme>
-  <programme start="20200107115500 +0000" stop="20200107125500 +0000" channel="PT: A BOLA">
+  <programme start="20200107115500 +0000" stop="20200107125500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola do Meio Dia</title>
     <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107125500 +0000" stop="20200107140000 +0000" channel="PT: A BOLA">
+  <programme start="20200107125500 +0000" stop="20200107140000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola da Uma</title>
     <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107140000 +0000" stop="20200107141000 +0000" channel="PT: A BOLA">
+  <programme start="20200107140000 +0000" stop="20200107141000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola das 2</title>
     <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107141000 +0000" stop="20200107150500 +0000" channel="PT: A BOLA">
+  <programme start="20200107141000 +0000" stop="20200107150500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Tribuna de Honra</title>
     <desc lang="pt">Moderado por José Manuel Delgado, debate da atualidade desportiva com António Bagão Félix (Benfica), Pedro Marques Lopes (FC Porto) e Sérgio Abrantes (Sporting).... Moderado por José Manuel Delgado, debate da atualidade desportiva com António Bagão Félix (Benfica), Pedro Marques Lopes (FC Porto) e Sérgio Abrantes (Sporting)(n)</desc>
   </programme>
-  <programme start="20200107150500 +0000" stop="20200107151500 +0000" channel="PT: A BOLA">
+  <programme start="20200107150500 +0000" stop="20200107151500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Auto Foco Curtas</title>
     <desc lang="pt">Espaço dedicado às últimas novidades do mundo automóvel.... Espaço dedicado às últimas novidades do mundo automóvel(n)</desc>
   </programme>
-  <programme start="20200107151500 +0000" stop="20200107161500 +0000" channel="PT: A BOLA">
+  <programme start="20200107151500 +0000" stop="20200107161500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Amigos Da Bola</title>
     <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
   </programme>
-  <programme start="20200107161500 +0000" stop="20200107172000 +0000" channel="PT: A BOLA">
+  <programme start="20200107161500 +0000" stop="20200107172000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola da Tarde</title>
     <desc lang="pt">Espaço informativo da tarde.... Espaço informativo da tarde(n)</desc>
   </programme>
-  <programme start="20200107172000 +0000" stop="20200107180000 +0000" channel="PT: A BOLA">
+  <programme start="20200107172000 +0000" stop="20200107180000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Revista de Imprensa Internacional</title>
     <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira.... André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
   </programme>
-  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: A BOLA">
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola das 6</title>
     <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: A BOLA">
+  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Desporto Motorizado</title>
     <desc lang="pt">O Campeonato de Portugal de Montanha JC Group regressou ao Douro Vinhateiro para a 5ª Rampa de Santa Marta com João Fonseca a ser o grande vencedor.... O Campeonato de Portugal de Montanha JC Group regressou ao Douro Vinhateiro para a 5ª Rampa de Santa Marta com João Fonseca a ser o grande vencedor(n)</desc>
   </programme>
-  <programme start="20200107190000 +0000" stop="20200107195500 +0000" channel="PT: A BOLA">
+  <programme start="20200107190000 +0000" stop="20200107195500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola das 7</title>
     <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
   </programme>
-  <programme start="20200107195500 +0000" stop="20200107202000 +0000" channel="PT: A BOLA">
+  <programme start="20200107195500 +0000" stop="20200107202000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Bola das 8</title>
     <desc lang="pt">Espaço informativo diário que lhe conta tudo o que se passa no desporto e no mundo.... Espaço informativo diário que lhe conta tudo o que se passa no desporto e no mundo(n)</desc>
   </programme>
-  <programme start="20200107202000 +0000" stop="20200107205000 +0000" channel="PT: A BOLA">
+  <programme start="20200107202000 +0000" stop="20200107205000 +0000" channel="PT: ABOLA TV">
     <title lang="pt">Motores</title>
     <desc lang="pt">Esta semana no Motores, a partida de Ricardo Porém para o Dakar e o resumo da temporada do Campeonato de Portugal de Karting Kia.... Esta semana no Motores, a partida de Ricardo Porém para o Dakar e o resumo da temporada do Campeonato de Portugal de Karting Kia(n)</desc>
   </programme>
-  <programme start="20200107205000 +0000" stop="20200107214500 +0000" channel="PT: A BOLA">
+  <programme start="20200107205000 +0000" stop="20200107214500 +0000" channel="PT: ABOLA TV">
     <title lang="pt">A Sobrevivente</title>
     <desc lang="pt">No primeiro programa, as atletas vão lutar Huka Huka com a tribo Kamaiura no Brasil. Durante 51 semanas do ano das mulheres da tribo têm uma vida tranquila e monótona, cozinhando, limpando e cuidan... No primeiro programa, as atletas vão lutar Huka Huka com a tribo Kamaiura no Brasil. Durante 51 semanas do ano das mulheres da tribo têm uma vida tranquila e monótona, cozinhando, limpando e cuidando das crianças(n)</desc>
   </programme>
-  <programme start="20200107214500 +0000" stop="20200107233000 +0000" channel="PT: A BOLA">
+  <programme start="20200107214500 +0000" stop="20200107233000 +0000" channel="PT: ABOLA TV">
+    <title lang="pt">A Bola da Noite</title>
+    <desc lang="pt">Espaço informativo da noite.... Espaço informativo da noite(n)</desc>
+  </programme>
+  <programme start="20200107000000 +0000" stop="20200107004500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107004500 +0000" stop="20200107023000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Entrevista: Bruno Lage</title>
+    <desc lang="pt">Programa de entrevistas com várias personalidades do mundo do desporto.... Programa de entrevistas com várias personalidades do mundo do desporto(n)</desc>
+  </programme>
+  <programme start="20200107023000 +0000" stop="20200107033000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Amigos Da Bola</title>
+    <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
+  </programme>
+  <programme start="20200107044500 +0000" stop="20200107053000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107053000 +0000" stop="20200107060000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Compacto Desportivo</title>
+    <desc lang="pt">Atletismo: 20km de Almeirim... Atletismo: 20km de Almeirim(n)</desc>
+  </programme>
+  <programme start="20200107060000 +0000" stop="20200107061500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20200107064500 +0000" stop="20200107070000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Fairplay Curto</title>
+    <desc lang="pt">Porque a vida deve ser levada com desportivismo, alguns vídeos divertidos do mundo do desporto que estão disponíveis na internet.... Porque a vida deve ser levada com desportivismo, alguns vídeos divertidos do mundo do desporto que estão disponíveis na internet(n)</desc>
+  </programme>
+  <programme start="20200107070000 +0000" stop="20200107074500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107074500 +0000" stop="20200107080000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+  </programme>
+  <programme start="20200107081500 +0000" stop="20200107084500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Move It</title>
+    <desc lang="pt">O programa “Move it” funciona como uma aula orientada pelo preparador físico, Pedro Correia, para o fazer sair da zona de conforto e mexer-se. Os exercícios propostos têm em atenção a crescen... O programa “Move it” funciona como uma aula orientada pelo preparador físico, Pedro Correia, para o fazer sair da zona de conforto e mexer-se. Os exercícios propostos têm em atenção a crescente falta de tempo nos dias que correm e a necessidade u(n)</desc>
+  </programme>
+  <programme start="20200107084500 +0000" stop="20200107090000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+  </programme>
+  <programme start="20200107090000 +0000" stop="20200107091500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20200107091500 +0000" stop="20200107094500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Com Todo o Gosto</title>
+    <desc lang="pt">Em ‘Com todo o gosto’, a nutricionista Mafalda Rodrigues de Almeida vai confecionar diferentes pratos que pode aliar a um estilo de vida saudável, mas que se destinam também a pessoas com determ... Em ‘Com todo o gosto’, a nutricionista Mafalda Rodrigues de Almeida vai confecionar diferentes pratos que pode aliar a um estilo de vida saudável, mas que se destinam também a pessoas com determinadas restrições ou intolerâncias alimentares. Por?(n)</desc>
+  </programme>
+  <programme start="20200107094500 +0000" stop="20200107095000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora ... Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+  </programme>
+  <programme start="20200107095000 +0000" stop="20200107100500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia.... A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20200107100500 +0000" stop="20200107110000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Amigos Da Bola</title>
+    <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
+  </programme>
+  <programme start="20200107110000 +0000" stop="20200107111500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola das 11</title>
+    <desc lang="pt">Pelas 11h00, fique a par das principais informações que marcam a atualidade desportiva e no mundo.... Pelas 11h00, fique a par das principais informações que marcam a atualidade desportiva e no mundo(n)</desc>
+  </programme>
+  <programme start="20200107111500 +0000" stop="20200107115500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Revista de Imprensa Internacional</title>
+    <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira.... André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
+  </programme>
+  <programme start="20200107115500 +0000" stop="20200107125500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola do Meio Dia</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo.... Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107125500 +0000" stop="20200107140000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola da Uma</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107140000 +0000" stop="20200107141000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola das 2</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107141000 +0000" stop="20200107150500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Tribuna de Honra</title>
+    <desc lang="pt">Moderado por José Manuel Delgado, debate da atualidade desportiva com António Bagão Félix (Benfica), Pedro Marques Lopes (FC Porto) e Sérgio Abrantes (Sporting).... Moderado por José Manuel Delgado, debate da atualidade desportiva com António Bagão Félix (Benfica), Pedro Marques Lopes (FC Porto) e Sérgio Abrantes (Sporting)(n)</desc>
+  </programme>
+  <programme start="20200107150500 +0000" stop="20200107151500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Auto Foco Curtas</title>
+    <desc lang="pt">Espaço dedicado às últimas novidades do mundo automóvel.... Espaço dedicado às últimas novidades do mundo automóvel(n)</desc>
+  </programme>
+  <programme start="20200107151500 +0000" stop="20200107161500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Amigos Da Bola</title>
+    <desc lang="pt">Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista... Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia prometem vestir a camisola dos ‘grandes’ mas nunca perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perde(n)</desc>
+  </programme>
+  <programme start="20200107161500 +0000" stop="20200107172000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola da Tarde</title>
+    <desc lang="pt">Espaço informativo da tarde.... Espaço informativo da tarde(n)</desc>
+  </programme>
+  <programme start="20200107172000 +0000" stop="20200107180000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Revista de Imprensa Internacional</title>
+    <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira.... André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
+  </programme>
+  <programme start="20200107180000 +0000" stop="20200107183000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola das 6</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107183000 +0000" stop="20200107190000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Desporto Motorizado</title>
+    <desc lang="pt">O Campeonato de Portugal de Montanha JC Group regressou ao Douro Vinhateiro para a 5ª Rampa de Santa Marta com João Fonseca a ser o grande vencedor.... O Campeonato de Portugal de Montanha JC Group regressou ao Douro Vinhateiro para a 5ª Rampa de Santa Marta com João Fonseca a ser o grande vencedor(n)</desc>
+  </programme>
+  <programme start="20200107190000 +0000" stop="20200107195500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola das 7</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo.... Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+  </programme>
+  <programme start="20200107195500 +0000" stop="20200107202000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Bola das 8</title>
+    <desc lang="pt">Espaço informativo diário que lhe conta tudo o que se passa no desporto e no mundo.... Espaço informativo diário que lhe conta tudo o que se passa no desporto e no mundo(n)</desc>
+  </programme>
+  <programme start="20200107202000 +0000" stop="20200107205000 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">Motores</title>
+    <desc lang="pt">Esta semana no Motores, a partida de Ricardo Porém para o Dakar e o resumo da temporada do Campeonato de Portugal de Karting Kia.... Esta semana no Motores, a partida de Ricardo Porém para o Dakar e o resumo da temporada do Campeonato de Portugal de Karting Kia(n)</desc>
+  </programme>
+  <programme start="20200107205000 +0000" stop="20200107214500 +0000" channel="PT: A BOLA TV HD">
+    <title lang="pt">A Sobrevivente</title>
+    <desc lang="pt">No primeiro programa, as atletas vão lutar Huka Huka com a tribo Kamaiura no Brasil. Durante 51 semanas do ano das mulheres da tribo têm uma vida tranquila e monótona, cozinhando, limpando e cuidan... No primeiro programa, as atletas vão lutar Huka Huka com a tribo Kamaiura no Brasil. Durante 51 semanas do ano das mulheres da tribo têm uma vida tranquila e monótona, cozinhando, limpando e cuidando das crianças(n)</desc>
+  </programme>
+  <programme start="20200107214500 +0000" stop="20200107233000 +0000" channel="PT: A BOLA TV HD">
     <title lang="pt">A Bola da Noite</title>
     <desc lang="pt">Espaço informativo da noite.... Espaço informativo da noite(n)</desc>
   </programme>
