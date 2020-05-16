@@ -377,6 +377,9 @@ http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7242
 http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4486
 
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="***********PORTUGAL**************" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/portugal_flags_flag_17054.png" group-title="Lista Sandra",***********PORTUGAL**************
 http://ip.platevpc.xyz:8080/nevessandra/1997756/2
 #EXTINF:-1 tvg-id="" tvg-name="PT: INFORMAÇÃO COVID-19 " tvg-logo="http://picon.webhop.net/logo/corona.png" group-title="Lista Sandra",PT: INFORMAÇÃO COVID-19 
@@ -830,4 +833,459 @@ http://ip.platevpc.xyz:8080/nevessandra/1997756/34
 #EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="" group-title="Lista Sandra",PT: FATIMA TV
 http://ip.platevpc.xyz:8080/nevessandra/1997756/32
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="***********PORTUGAL**************" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/portugal_flags_flag_17054.png" group-title="Lista Paulo",***********PORTUGAL**************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/2
+#EXTINF:-1 tvg-id="" tvg-name="PT: INFORMAÇÃO COVID-19 " tvg-logo="http://picon.webhop.net/logo/corona.png" group-title="Lista Paulo",PT: INFORMAÇÃO COVID-19 
+http://ip.platevpc.xyz:8080/pn_sn/1665576/12272
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%201.png" group-title="Lista Paulo",PT: RTP 1
+http://ip.platevpc.xyz:8080/pn_sn/1665576/3
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%201%20HD.png" group-title="Lista Paulo",PT: RTP 1 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/4
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%201%20HD.png" group-title="Lista Paulo",PT: RTP 1 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/5
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="PT: RTP 2" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%202.png" group-title="Lista Paulo",PT: RTP 2
+http://ip.platevpc.xyz:8080/pn_sn/1665576/6
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="PT: RTP 2 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%202%20HD.png" group-title="Lista Paulo",PT: RTP 2 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/7
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="PT: RTP 2 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%202%20HD.png" group-title="Lista Paulo",PT: RTP 2 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/8
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC.png" group-title="Lista Paulo",PT: SIC
+http://ip.platevpc.xyz:8080/pn_sn/1665576/9
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20HD.png" group-title="Lista Paulo",PT: SIC HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/10
+#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20HD.png" group-title="Lista Paulo",PT: SIC FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/11
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI.png" group-title="Lista Paulo",PT: TVI
+http://ip.platevpc.xyz:8080/pn_sn/1665576/12
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%20HD.png" group-title="Lista Paulo",PT: TVI HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/13
+#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%20HD.png" group-title="Lista Paulo",PT: TVI FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/597
+#EXTINF:-1 tvg-id="CMTV PT" tvg-name="PT: CM TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CMTV.png" group-title="Lista Paulo",PT: CM TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/17
+#EXTINF:-1 tvg-id="CMTV PT" tvg-name="PT: CMTV HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CMTV%20HD.png" group-title="Lista Paulo",PT: CMTV HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/18
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="PT: RTP 3" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%203.png" group-title="Lista Paulo",PT: RTP 3
+http://ip.platevpc.xyz:8080/pn_sn/1665576/14
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="PT: RTP 3 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%203.png" group-title="Lista Paulo",PT: RTP 3 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/15
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="PT: TVI 24" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%2024.png" group-title="Lista Paulo",PT: TVI 24
+http://ip.platevpc.xyz:8080/pn_sn/1665576/16
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="PT: TVI24 FHD" tvg-logo="http://picon.webhop.net/logo/portugal/tvi_pt_24.png" group-title="Lista Paulo",PT: TVI24 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/7348
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20NOTICIAS.png" group-title="Lista Paulo",PT: SIC NOTICIAS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/19
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="PT: SIC NOTICIAS HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20NOTICIAS%20HD.png" group-title="Lista Paulo",PT: SIC NOTICIAS HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/20
+#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="PT: SIC MULHER" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20MULHER.png" group-title="Lista Paulo",PT: SIC MULHER
+http://ip.platevpc.xyz:8080/pn_sn/1665576/21
+#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="PT: SIC MULHER HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20MULHER.png" group-title="Lista Paulo",PT: SIC MULHER HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/22
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="PT: SIC CARAS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20CARAS.png" group-title="Lista Paulo",PT: SIC CARAS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/25
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="PT: SIC RADICAL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20RADICAL.png" group-title="Lista Paulo",PT: SIC RADICAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/23
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="PT: SIC RADICAL HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20RADICAL%20HD.png" group-title="Lista Paulo",PT: SIC RADICAL HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/24
+#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="PT: 24 KITCHEN" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/24%20KITCHEN%20HD.png" group-title="Lista Paulo",PT: 24 KITCHEN
+http://ip.platevpc.xyz:8080/pn_sn/1665576/39
+#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/24%20KITCHEN%20HD.png" group-title="Lista Paulo",PT: 24 KITCHEN HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/40
+#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="PT: PORTO CANAL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/PORTO%20CANAL.png" group-title="Lista Paulo",PT: PORTO CANAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/30
+#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="PT: PORTO CANAL HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/PORTO%20CANAL.png" group-title="Lista Paulo",PT: PORTO CANAL HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/31
+#EXTINF:-1 tvg-id="GLOBO PREMIUM" tvg-name="PT: GLOBO PORTUGAL HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TV%20GLOBO%20PORTUGAL.png" group-title="Lista Paulo",PT: GLOBO PORTUGAL HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/37
+#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="PT: GLOBO NOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TV%20GLOBO%20PREMIUM.png" group-title="Lista Paulo",PT: GLOBO NOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/38
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="PT: GLOBO" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TV%20GLOBO%20PREMIUM.png" group-title="Lista Paulo",PT: GLOBO
+http://ip.platevpc.xyz:8080/pn_sn/1665576/36
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="PT: RTP MEMORIA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%20MEMORIA.png" group-title="Lista Paulo",PT: RTP MEMORIA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/29
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="PT: RTP MADEIRA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%20MADEIRA.png" group-title="Lista Paulo",PT: RTP MADEIRA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/27
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="PT: RTP AFRICA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%20%c3%83%c2%81FRICA.png" group-title="Lista Paulo",PT: RTP AFRICA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/28
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="PT: RTP ACORES" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/RTP%20A%c3%87ORES.png" group-title="Lista Paulo",PT: RTP ACORES
+http://ip.platevpc.xyz:8080/pn_sn/1665576/26
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="PT: TVI REALITY" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%20REALITY.png" group-title="Lista Paulo",PT: TVI REALITY
+http://ip.platevpc.xyz:8080/pn_sn/1665576/41
+#EXTINF:-1 tvg-id="" tvg-name="******* PT EXCLUSIVO **********" tvg-logo="" group-title="Lista Paulo",******* PT EXCLUSIVO **********
+http://ip.platevpc.xyz:8080/pn_sn/1665576/847
+#EXTINF:-1 tvg-id="" tvg-name="PT: NetFlix Television (EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",PT: NetFlix Television (EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/920
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARVEL (EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",PT: MARVEL (EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/852
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIG BROTHER BRASIL (EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",BR: BIG BROTHER BRASIL (EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/7325
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIG BROTHER BRASIL MOSAICO(EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",BR: BIG BROTHER BRASIL MOSAICO(EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/7326
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM AND JERRY (EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",PT: TOM AND JERRY (EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/870
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM SAWYER (EXCLUSIVO)" tvg-logo="" group-title="Lista Paulo",PT: TOM SAWYER (EXCLUSIVO)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/869
+#EXTINF:-1 tvg-id="" tvg-name="************** FILMES/SERIES **************" tvg-logo="" group-title="Lista Paulo",************** FILMES/SERIES **************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/46
+#EXTINF:-1 tvg-id="TVCINE 1" tvg-name="PT: TV CINE TOP" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Top.png" group-title="Lista Paulo",PT: TV CINE TOP
+http://ip.platevpc.xyz:8080/pn_sn/1665576/47
+#EXTINF:-1 tvg-id="TVCINE 1" tvg-name="PT: TV CINE TOP HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Top_HD.png" group-title="Lista Paulo",PT: TV CINE TOP HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/48
+#EXTINF:-1 tvg-id="TVCINE 1" tvg-name="PT: TV CINE TOP FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Top_HD.png" group-title="Lista Paulo",PT: TV CINE TOP FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/49
+#EXTINF:-1 tvg-id="TVCINE 2" tvg-name="PT: TV CINE EDITION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Edition.png" group-title="Lista Paulo",PT: TV CINE EDITION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/50
+#EXTINF:-1 tvg-id="TVCINE 2" tvg-name="PT: TV CINE EDITION HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Edition_HD.png" group-title="Lista Paulo",PT: TV CINE EDITION HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/51
+#EXTINF:-1 tvg-id="TVCINE 2" tvg-name="PT: TV CINE EDITION FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Edition_HD.png" group-title="Lista Paulo",PT: TV CINE EDITION FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/52
+#EXTINF:-1 tvg-id="TVCINE 3" tvg-name="PT: TV CINE EMOTION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Emotion.png" group-title="Lista Paulo",PT: TV CINE EMOTION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/53
+#EXTINF:-1 tvg-id="TVCINE 3" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Emotion_HD.png" group-title="Lista Paulo",PT: TV CINE EMOTION HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/54
+#EXTINF:-1 tvg-id="TVCINE 3" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Emotion_HD.png" group-title="Lista Paulo",PT: TV CINE EMOTION FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/55
+#EXTINF:-1 tvg-id="TVCINE 4" tvg-name="PT: TV CINE ACTION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Action.png" group-title="Lista Paulo",PT: TV CINE ACTION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/56
+#EXTINF:-1 tvg-id="TVCINE 4" tvg-name="PT: TV CINE ACTION HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Action_HD.png" group-title="Lista Paulo",PT: TV CINE ACTION HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/57
+#EXTINF:-1 tvg-id="TVCINE 4" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TvCine_Action_HD.png" group-title="Lista Paulo",PT: TV CINE ACTION FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/58
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="PT: NOS STUDIOS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/STUDIOS%20HD.png" group-title="Lista Paulo",PT: NOS STUDIOS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/59
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="PT: NOS STUDIO HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/STUDIOS%20HD.png" group-title="Lista Paulo",PT: NOS STUDIO HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/60
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="PT: NOS STUDIO FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/STUDIOS%20HD.png" group-title="Lista Paulo",PT: NOS STUDIO FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/61
+#EXTINF:-1 tvg-id="AMC" tvg-name="PT: AMC" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AMC.png" group-title="Lista Paulo",PT: AMC
+http://ip.platevpc.xyz:8080/pn_sn/1665576/66
+#EXTINF:-1 tvg-id="AMC" tvg-name="PT: AMC HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AMC%20HD.png" group-title="Lista Paulo",PT: AMC HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/67
+#EXTINF:-1 tvg-id="AMC" tvg-name="PT: AMC FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AMC%20HD.png" group-title="Lista Paulo",PT: AMC FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/68
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: HOLLYWOOD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/HOLLYWOOD.png" group-title="Lista Paulo",PT: HOLLYWOOD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/62
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: HOLLYWOOD HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/HOLLYWOOD%20HD.png" group-title="Lista Paulo",PT: HOLLYWOOD HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/63
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/HOLLYWOOD%20HD.png" group-title="Lista Paulo",PT: HOLLYWOOD FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/4778
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="PT: CINEMUNDO" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CINEMUNDO.png" group-title="Lista Paulo",PT: CINEMUNDO
+http://ip.platevpc.xyz:8080/pn_sn/1665576/64
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="PT: CINEMUNDO HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CINEMUNDO.png" group-title="Lista Paulo",PT: CINEMUNDO HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/65
+#EXTINF:-1 tvg-id="SYFY" tvg-name="PT: SYFY" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SYFY%20HD.png" group-title="Lista Paulo",PT: SYFY
+http://ip.platevpc.xyz:8080/pn_sn/1665576/93
+#EXTINF:-1 tvg-id="SYFY" tvg-name="PT: SYFY HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SYFY%20HD.png" group-title="Lista Paulo",PT: SYFY HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/94
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN.png" group-title="Lista Paulo",PT: AXN
+http://ip.platevpc.xyz:8080/pn_sn/1665576/81
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20HD.png" group-title="Lista Paulo",PT: AXN HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/82
+#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20HD.png" group-title="Lista Paulo",PT: AXN FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/83
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="PT: AXN WHITE" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20WHITE.png" group-title="Lista Paulo",PT: AXN WHITE
+http://ip.platevpc.xyz:8080/pn_sn/1665576/87
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="PT: AXN WHITE HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20WHITE%20HD.png" group-title="Lista Paulo",PT: AXN WHITE HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/88
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="PT: AXN WHITE FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20WHITE%20HD.png" group-title="Lista Paulo",PT: AXN WHITE FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/89
+#EXTINF:-1 tvg-id="AXN BLACK" tvg-name="PT: AXN MOVIES" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20BLACK%20HD%20(%20NET%20FRACA%20).png" group-title="Lista Paulo",PT: AXN MOVIES
+http://ip.platevpc.xyz:8080/pn_sn/1665576/84
+#EXTINF:-1 tvg-id="AXN BLACK" tvg-name="PT: AXN MOVIES HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20Black%20HD.png" group-title="Lista Paulo",PT: AXN MOVIES HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/85
+#EXTINF:-1 tvg-id="AXN BLACK" tvg-name="PT: AXN MOVIES FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AXN%20Black%20HD.png" group-title="Lista Paulo",PT: AXN MOVIES FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/86
+#EXTINF:-1 tvg-id="FOX" tvg-name="PT: FOX" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX.png" group-title="Lista Paulo",PT: FOX
+http://ip.platevpc.xyz:8080/pn_sn/1665576/69
+#EXTINF:-1 tvg-id="FOX" tvg-name="PT: FOX HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20HD.png" group-title="Lista Paulo",PT: FOX HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/70
+#EXTINF:-1 tvg-id="FOX" tvg-name="PT: FOX FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20HD.png" group-title="Lista Paulo",PT: FOX FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/71
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="PT: FOX MOVIES" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20MOVIES%20HD.png" group-title="Lista Paulo",PT: FOX MOVIES
+http://ip.platevpc.xyz:8080/pn_sn/1665576/77
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="PT: FOX MOVIES HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20MOVIES%20HD.png" group-title="Lista Paulo",PT: FOX MOVIES HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/78
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="PT: FOX LIFE" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20LIFE%20HD.png" group-title="Lista Paulo",PT: FOX LIFE
+http://ip.platevpc.xyz:8080/pn_sn/1665576/72
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="PT: FOX LIFE HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20LIFE%20HD.png" group-title="Lista Paulo",PT: FOX LIFE HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/73
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX CRIME" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20CRIME.png" group-title="Lista Paulo",PT: FOX CRIME
+http://ip.platevpc.xyz:8080/pn_sn/1665576/74
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX CRIME HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20CRIME%20HD.png" group-title="Lista Paulo",PT: FOX CRIME HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/75
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX CRIME FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20CRIME%20HD.png" group-title="Lista Paulo",PT: FOX CRIME FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/76
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="PT: FOX COMEDY" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20COMEDY.png" group-title="Lista Paulo",PT: FOX COMEDY
+http://ip.platevpc.xyz:8080/pn_sn/1665576/79
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="PT: FOX COMEDY HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOX%20COMEDY%20HD.png" group-title="Lista Paulo",PT: FOX COMEDY HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/80
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="PT: TVI FICCAO" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%20FIC%c3%87AO.png" group-title="Lista Paulo",PT: TVI FICCAO
+http://ip.platevpc.xyz:8080/pn_sn/1665576/97
+#EXTINF:-1 tvg-id="CEURCHD" tvg-name="PT: Eurochannel" tvg-logo="http://picon.webhop.net/logo/portugal/eurochannel_lam.png" group-title="Lista Paulo",PT: Eurochannel
+http://ip.platevpc.xyz:8080/pn_sn/1665576/6559
+#EXTINF:-1 tvg-id="" tvg-name="**************DESPORTO******************" tvg-logo="" group-title="Lista Paulo",**************DESPORTO******************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/98
+#EXTINF:-1 tvg-id="SPORT TV 4K UHD" tvg-name="PT: SPORTTV 4K UHD" tvg-logo="" group-title="Lista Paulo",PT: SPORTTV 4K UHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/102
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT: CANAL 11" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CANAL%2011.png" group-title="Lista Paulo",PT: CANAL 11
+http://ip.platevpc.xyz:8080/pn_sn/1665576/99
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT: CANAL 11 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CANAL%2011.png" group-title="Lista Paulo",PT: CANAL 11 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/100
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CANAL%2011.png" group-title="Lista Paulo",PT: CANAL 11 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/101
+#EXTINF:-1 tvg-id="SPORT TV +" tvg-name="PT: SPORT TV +" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%20+.png" group-title="Lista Paulo",PT: SPORT TV +
+http://ip.platevpc.xyz:8080/pn_sn/1665576/103
+#EXTINF:-1 tvg-id="SPORT TV +" tvg-name="PT: SPORT TV + HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%20+%20FHD.png" group-title="Lista Paulo",PT: SPORT TV + HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/104
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: SPORT TV 1" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%201.png" group-title="Lista Paulo",PT: SPORT TV 1
+http://ip.platevpc.xyz:8080/pn_sn/1665576/105
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%201%20HD%20(%20NET%20FRACA%20).png" group-title="Lista Paulo",PT: SPORT TV 1 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/106
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%201%20FULL%20HD.png" group-title="Lista Paulo",PT: SPORT TV 1 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/107
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: SPORT TV 2" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%202.png" group-title="Lista Paulo",PT: SPORT TV 2
+http://ip.platevpc.xyz:8080/pn_sn/1665576/108
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%202%20FULL%20HD.png" group-title="Lista Paulo",PT: SPORT TV 2 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/109
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%202%20FULL%20HD.png" group-title="Lista Paulo",PT: SPORT TV 2 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/110
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: SPORT TV 3" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%203.png" group-title="Lista Paulo",PT: SPORT TV 3
+http://ip.platevpc.xyz:8080/pn_sn/1665576/111
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%203%20FULL%20HD.png" group-title="Lista Paulo",PT: SPORT TV 3 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/112
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%203%20FULL%20HD.png" group-title="Lista Paulo",PT: SPORT TV 3 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/113
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT: SPORT TV 4" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%204.png" group-title="Lista Paulo",PT: SPORT TV 4
+http://ip.platevpc.xyz:8080/pn_sn/1665576/114
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%204%20HD.png" group-title="Lista Paulo",PT: SPORT TV 4 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/115
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="PT: SPORT TV 5" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%205.png" group-title="Lista Paulo",PT: SPORT TV 5
+http://ip.platevpc.xyz:8080/pn_sn/1665576/116
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTV%205%20HD.png" group-title="Lista Paulo",PT: SPORT TV 5 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/117
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEVEN SPORT 1 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport1.png" group-title="Lista Paulo",PT: ELEVEN SPORT 1 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/120
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEVEN SPORT 1 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport1.png" group-title="Lista Paulo",PT: ELEVEN SPORT 1 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/119
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport1.png" group-title="Lista Paulo",PT: ELEVEN SPORTS 1 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/118
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEVEN SPORT 2 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport2.png" group-title="Lista Paulo",PT: ELEVEN SPORT 2 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/123
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport2.png" group-title="Lista Paulo",PT: ELEVEN SPORT 2 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/122
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport2.png" group-title="Lista Paulo",PT: ELEVEN SPORTS 2 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/121
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEVEN SPORT 3 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport3.png" group-title="Lista Paulo",PT: ELEVEN SPORT 3 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/126
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEVEN SPORT 3 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport3.png" group-title="Lista Paulo",PT: ELEVEN SPORT 3 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/125
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEVEN SPORTS  3 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport3.png" group-title="Lista Paulo",PT: ELEVEN SPORTS  3 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/124
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEVEN SPORT 4 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport4.png" group-title="Lista Paulo",PT: ELEVEN SPORT 4 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/129
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport4.png" group-title="Lista Paulo",PT: ELEVEN SPORT 4 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/128
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport4.png" group-title="Lista Paulo",PT: ELEVEN SPORTS 4 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/127
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT: ELEVEN SPORT 5 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport5.png" group-title="Lista Paulo",PT: ELEVEN SPORT 5 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/132
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport5.png" group-title="Lista Paulo",PT: ELEVEN SPORT 5 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/131
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport5.png" group-title="Lista Paulo",PT: ELEVEN SPORTS 5 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/130
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT: ELEVEN SPORT 6 LOW" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport6.png" group-title="Lista Paulo",PT: ELEVEN SPORT 6 LOW
+http://ip.platevpc.xyz:8080/pn_sn/1665576/135
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport6.png" group-title="Lista Paulo",PT: ELEVEN SPORT 6 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/134
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/elevensport6.png" group-title="Lista Paulo",PT: ELEVEN SPORTS 6 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/133
+#EXTINF:-1 tvg-id="BENFICA TV" tvg-name="PT: BTV 1" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BTV%201.png" group-title="Lista Paulo",PT: BTV 1
+http://ip.platevpc.xyz:8080/pn_sn/1665576/136
+#EXTINF:-1 tvg-id="BENFICA TV" tvg-name="PT: BTV 1 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BTV%201%20HD.png" group-title="Lista Paulo",PT: BTV 1 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/137
+#EXTINF:-1 tvg-id="BENFICA TV" tvg-name="PT: BTV 1 FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BTV%201%20HD.png" group-title="Lista Paulo",PT: BTV 1 FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/138
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="PT: SPORTING TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTING%20TV.png" group-title="Lista Paulo",PT: SPORTING TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/141
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="PT: SPORTING TV HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SPORTING%20HD.png" group-title="Lista Paulo",PT: SPORTING TV HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/140
+#EXTINF:-1 tvg-id="NBA HD" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="Lista Paulo",PT: SPORT TV NBA HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/149
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="PT: ABOLA TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BOLA%20TV.png" group-title="Lista Paulo",PT: ABOLA TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/139
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="PT: A BOLA TV HD " tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BOLA%20TV.png" group-title="Lista Paulo",PT: A BOLA TV HD 
+http://ip.platevpc.xyz:8080/pn_sn/1665576/6537
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-name="PT: REAL MADRID" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/REAL%20MADRID.png" group-title="Lista Paulo",PT: REAL MADRID
+http://ip.platevpc.xyz:8080/pn_sn/1665576/143
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="PT: EUROSPORT 1" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/EUROSPORT%201.png" group-title="Lista Paulo",PT: EUROSPORT 1
+http://ip.platevpc.xyz:8080/pn_sn/1665576/146
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/EUROSPORT%201%20HD.png" group-title="Lista Paulo",PT: EUROSPORT 1 HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/147
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="PT: EUROSPORT 2" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/EUROSPORT%202.png" group-title="Lista Paulo",PT: EUROSPORT 2
+http://ip.platevpc.xyz:8080/pn_sn/1665576/148
+#EXTINF:-1 tvg-id="PFC" tvg-name="PT: PFC" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/PFC.png" group-title="Lista Paulo",PT: PFC
+http://ip.platevpc.xyz:8080/pn_sn/1665576/145
+#EXTINF:-1 tvg-id="NBA HD" tvg-name="PT: NBA TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/NBA.png" group-title="Lista Paulo",PT: NBA TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/142
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="PT: MOTORVISION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/MOTORVISION%20HD.png" group-title="Lista Paulo",PT: MOTORVISION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/150
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="PT: KOMBAT SPORT" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/KOMBAT%20SPORT.png" group-title="Lista Paulo",PT: KOMBAT SPORT
+http://ip.platevpc.xyz:8080/pn_sn/1665576/154
+#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FIGHT%20NETWORK%20%20HD.png" group-title="Lista Paulo",PT: FIGHT NETWORK FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/155
+#EXTINF:-1 tvg-id="CACA E PESCA" tvg-name="PT: CACA E PESCA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CA%c3%87A%20E%20PESCA.png" group-title="Lista Paulo",PT: CACA E PESCA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/152
+#EXTINF:-1 tvg-id="CACAVISION" tvg-name="PT: CACAVISION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CA%c3%87AVISION.png" group-title="Lista Paulo",PT: CACAVISION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/151
+#EXTINF:-1 tvg-id="TOROS" tvg-name="PT: TOROS TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TOROS.png" group-title="Lista Paulo",PT: TOROS TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/153
+#EXTINF:-1 tvg-id="" tvg-name="************* CULTURA ************" tvg-logo="" group-title="Lista Paulo",************* CULTURA ************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/168
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="Lista Paulo",PT: NATIONAL GEOGRAPHIC HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/169
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/DISCOVERY%20CHANNEL.png" group-title="Lista Paulo",PT: DISCOVERY CHANNEL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/172
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/DISCOVERY%20CHANNEL.png" group-title="Lista Paulo",PT: DISCOVERY CHANNEL HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/173
+#EXTINF:-1 tvg-id="" tvg-name="PT:  INVESTIGATION DISCOVERY HD" tvg-logo="http://picon.webhop.net/logo/uk/investigation_discovery_us.png" group-title="Lista Paulo",PT:  INVESTIGATION DISCOVERY HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/7347
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="PT: ID IVESTIGATION DISCOVERY" tvg-logo="" group-title="Lista Paulo",PT: ID IVESTIGATION DISCOVERY
+http://ip.platevpc.xyz:8080/pn_sn/1665576/9811
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="PT: ID INVESTIGATION DISCOVERY FHD" tvg-logo="http://picon.webhop.net/logo/uk/investigation_discovery_us.png" group-title="Lista Paulo",PT: ID INVESTIGATION DISCOVERY FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/175
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="PT: NAT GEO WILD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/NAT%20GEO%20WILD.png" group-title="Lista Paulo",PT: NAT GEO WILD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/170
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TRAVEL%20CHANNEL%20HD.png" group-title="Lista Paulo",PT: TRAVEL CHANNEL HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/178
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="PT: CRIME   INVESTIGATION" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CRIME%20INVESTIGATION.png" group-title="Lista Paulo",PT: CRIME   INVESTIGATION
+http://ip.platevpc.xyz:8080/pn_sn/1665576/176
+#EXTINF:-1 tvg-id="ODIS" tvg-name="PT: ODISSEIA HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/ODISSEIA.png" group-title="Lista Paulo",PT: ODISSEIA HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/183
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="PT: BLAZE TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BLAZE.png" group-title="Lista Paulo",PT: BLAZE TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/180
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="PT: BLAZE TV HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BLAZE%20HD.png" group-title="Lista Paulo",PT: BLAZE TV HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/181
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="PT: HISTORIA" tvg-logo="http://picon.webhop.net/logo/portugal/historia_pt.png" group-title="Lista Paulo",PT: HISTORIA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/187
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="PT: CBS REALITY" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CBS%20REALITY.png" group-title="Lista Paulo",PT: CBS REALITY
+http://ip.platevpc.xyz:8080/pn_sn/1665576/95
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="PT: FOOD NETWORK" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FOOD%20NETWORK%20HD.png" group-title="Lista Paulo",PT: FOOD NETWORK
+http://ip.platevpc.xyz:8080/pn_sn/1665576/184
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="PT: FINE LIVING NETWORK" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FINE%20LIVING%20NETWORK%20HD.png" group-title="Lista Paulo",PT: FINE LIVING NETWORK
+http://ip.platevpc.xyz:8080/pn_sn/1665576/177
+#EXTINF:-1 tvg-id="Outdoor" tvg-name="PT: OUTDOOR CHANNEL FHD" tvg-logo="" group-title="Lista Paulo",PT: OUTDOOR CHANNEL FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/179
+#EXTINF:-1 tvg-id="LUXE TV" tvg-name="PT: LUXE TV HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/LUXE%20TV%20HD.png" group-title="Lista Paulo",PT: LUXE TV HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/96
+#EXTINF:-1 tvg-id="FTV" tvg-name="PT: FASHION TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FASHION%20TV.png" group-title="Lista Paulo",PT: FASHION TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/193
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="PT: ODISSEIA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/ODISSEIA.png" group-title="Lista Paulo",PT: ODISSEIA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/182
+#EXTINF:-1 tvg-id="DOG TV" tvg-name="PT: DOG TV FHD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/DOG%20TV.png" group-title="Lista Paulo",PT: DOG TV FHD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/188
+#EXTINF:-1 tvg-id="MY CUISINE" tvg-name="PT: MY CUISINE" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/MY%20CUISINE%20HD.png" group-title="Lista Paulo",PT: MY CUISINE
+http://ip.platevpc.xyz:8080/pn_sn/1665576/185
+#EXTINF:-1 tvg-id="E! PT" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/E!%20ENTERTAINMENT.png" group-title="Lista Paulo",PT: E! ENTERTAINMENT
+http://ip.platevpc.xyz:8080/pn_sn/1665576/35
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="PT: FUEL TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FUEL%20TV.png" group-title="Lista Paulo",PT: FUEL TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/189
+#EXTINF:-1 tvg-id="" tvg-name="************* INFANTIL ************" tvg-logo="" group-title="Lista Paulo",************* INFANTIL ************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/156
+#EXTINF:-1 tvg-id="SIC K" tvg-name="PT: SIC K" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SIC%20KIDS.png" group-title="Lista Paulo",PT: SIC K
+http://ip.platevpc.xyz:8080/pn_sn/1665576/166
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/DISNEY%20JUNIOR.png" group-title="Lista Paulo",PT: DISNEY JUNIOR
+http://ip.platevpc.xyz:8080/pn_sn/1665576/162
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/DISNEY%20CHANNEL.png" group-title="Lista Paulo",PT: DISNEY CHANNEL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/161
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CARTOON%20NETWORK.png" group-title="Lista Paulo",PT: CARTOON NETWORK
+http://ip.platevpc.xyz:8080/pn_sn/1665576/163
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="PT: CANAL Q" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CANAL%20Q.png" group-title="Lista Paulo",PT: CANAL Q
+http://ip.platevpc.xyz:8080/pn_sn/1665576/167
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PT: CANAL PANDA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CANAL%20PANDA.png" group-title="Lista Paulo",PT: CANAL PANDA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/160
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="PT: BIGGS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BIGGS.png" group-title="Lista Paulo",PT: BIGGS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/159
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="PT: NICKELODEON" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/NICKELODEON.png" group-title="Lista Paulo",PT: NICKELODEON
+http://ip.platevpc.xyz:8080/pn_sn/1665576/158
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="PT: NICK JR." tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/NICK%20JR.png" group-title="Lista Paulo",PT: NICK JR.
+http://ip.platevpc.xyz:8080/pn_sn/1665576/157
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="PT: BOOMERANG" tvg-logo="http://picon.webhop.net/logo/France-Sorcier/boomerang_global.png" group-title="Lista Paulo",PT: BOOMERANG
+http://ip.platevpc.xyz:8080/pn_sn/1665576/1297
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="PT: BABY TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BABY%20TV.png" group-title="Lista Paulo",PT: BABY TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/165
+#EXTINF:-1 tvg-id="JIM JAM" tvg-name="PT: JIM JAM" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/JIMJAM.png" group-title="Lista Paulo",PT: JIM JAM
+http://ip.platevpc.xyz:8080/pn_sn/1665576/164
+#EXTINF:-1 tvg-id="" tvg-name="************* MUSICA ************" tvg-logo="" group-title="Lista Paulo",************* MUSICA ************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/213
+#EXTINF:-1 tvg-id="VH1" tvg-name="PT: VH1" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/VH1.png" group-title="Lista Paulo",PT: VH1
+http://ip.platevpc.xyz:8080/pn_sn/1665576/216
+#EXTINF:-1 tvg-id="MTV" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/MTV%20PORTUGAL.png" group-title="Lista Paulo",PT: MTV PORTUGAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/215
+#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="PT: TRACE URBAN" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TRACE%20TV.png" group-title="Lista Paulo",PT: TRACE URBAN
+http://ip.platevpc.xyz:8080/pn_sn/1665576/218
+#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="PT: AFRO MUSIC" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AFRO%20MUSIC.png" group-title="Lista Paulo",PT: AFRO MUSIC
+http://ip.platevpc.xyz:8080/pn_sn/1665576/219
+#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="PT: TRACE TOCA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TRACE%20TOCA.png" group-title="Lista Paulo",PT: TRACE TOCA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/217
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="PT: MCM POP" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/MCM%20POP.png" group-title="Lista Paulo",PT: MCM POP
+http://ip.platevpc.xyz:8080/pn_sn/1665576/214
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOP LATINO" tvg-logo="" group-title="Lista Paulo",PT: TOP LATINO
+http://ip.platevpc.xyz:8080/pn_sn/1665576/12322
+#EXTINF:-1 tvg-id="" tvg-name="PT: kiss tv" tvg-logo="http://picon.webhop.net/logo/romania/kiss_tv_ro.png" group-title="Lista Paulo",PT: kiss tv
+http://ip.platevpc.xyz:8080/pn_sn/1665576/4793
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TROPICAL" tvg-logo="" group-title="Lista Paulo",PT: TRACE TROPICAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/577
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE NAIJA" tvg-logo="" group-title="Lista Paulo",PT: TRACE NAIJA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/578
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="PT: MEZZO" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/MEZZO.png" group-title="Lista Paulo",PT: MEZZO
+http://ip.platevpc.xyz:8080/pn_sn/1665576/222
+#EXTINF:-1 tvg-id="" tvg-name="***********INTERNACIONAIS**************" tvg-logo="" group-title="Lista Paulo",***********INTERNACIONAIS**************
+http://ip.platevpc.xyz:8080/pn_sn/1665576/194
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="http://picon.webhop.net/logo/portugal/rtp_internacional.png" group-title="Lista Paulo",PT: RTP INTERNACIONAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/4843
+#EXTINF:-1 tvg-id="TVE" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVE%20INTERNACIONAL.png" group-title="Lista Paulo",PT: TVE INTERNACIONAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/206
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV CABO VERDE" tvg-logo="http://logo.ktnbox.com/logoservices/img/tcv_cv.png" group-title="Lista Paulo",PT: TCV CABO VERDE
+http://ip.platevpc.xyz:8080/pn_sn/1665576/12368
+#EXTINF:-1 tvg-id="TPA" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TPA%20INTERNACIONAL.png" group-title="Lista Paulo",PT: TPA INTERNACIONAL
+http://ip.platevpc.xyz:8080/pn_sn/1665576/190
+#EXTINF:-1 tvg-id="TVE" tvg-name="PT: TVE 24h" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TVI%2024.png" group-title="Lista Paulo",PT: TVE 24h
+http://ip.platevpc.xyz:8080/pn_sn/1665576/205
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="PT: CANCAO NOVA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CAN%c3%87AO%20NOVA.png" group-title="Lista Paulo",PT: CANCAO NOVA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/195
+#EXTINF:-1 tvg-id="BBC WORLD" tvg-name="PT: BBC WORLD NEWS" tvg-logo="" group-title="Lista Paulo",PT: BBC WORLD NEWS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/208
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="PT: BLOOMBERG" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BLOOMBERG.png" group-title="Lista Paulo",PT: BLOOMBERG
+http://ip.platevpc.xyz:8080/pn_sn/1665576/201
+#EXTINF:-1 tvg-id="ARTV" tvg-name="PT: AR TV" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/AR%20TV.png" group-title="Lista Paulo",PT: AR TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/200
+#EXTINF:-1 tvg-id="TLC" tvg-name="PT: TLC" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TLC.png" group-title="Lista Paulo",PT: TLC
+http://ip.platevpc.xyz:8080/pn_sn/1665576/186
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-name="PT: SKY NEWS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SKY%20NEWS.png" group-title="Lista Paulo",PT: SKY NEWS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/203
+#EXTINF:-1 tvg-id="CNN" tvg-name="PT: CNN" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/CNN.png" group-title="Lista Paulo",PT: CNN
+http://ip.platevpc.xyz:8080/pn_sn/1665576/202
+#EXTINF:-1 tvg-id="TV5" tvg-name="PT: TV5 MONDE" tvg-logo="" group-title="Lista Paulo",PT: TV5 MONDE
+http://ip.platevpc.xyz:8080/pn_sn/1665576/211
+#EXTINF:-1 tvg-id="TV Record PT" tvg-name="PT: TV RECORD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TV%20RECORD.png" group-title="Lista Paulo",PT: TV RECORD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/33
+#EXTINF:-1 tvg-id="TVGALIZA" tvg-name="PT: TV GALICIA" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/TV%20GALICIA.png" group-title="Lista Paulo",PT: TV GALICIA
+http://ip.platevpc.xyz:8080/pn_sn/1665576/204
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/ZAP%20VIVA.png" group-title="Lista Paulo",PT: ZAP VIVA HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/191
+#EXTINF:-1 tvg-id="LOCALVISAO TV" tvg-name="PT: LOCALVISAO TV HD" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/LOCALVISAO%20TV%20HD.png" group-title="Lista Paulo",PT: LOCALVISAO TV HD
+http://ip.platevpc.xyz:8080/pn_sn/1665576/192
+#EXTINF:-1 tvg-id="M6" tvg-name="PT: M6" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/M6.png" group-title="Lista Paulo",PT: M6
+http://ip.platevpc.xyz:8080/pn_sn/1665576/210
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="PT: KURIAKOS" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/KURIAKOS%20TV.png" group-title="Lista Paulo",PT: KURIAKOS
+http://ip.platevpc.xyz:8080/pn_sn/1665576/209
+#EXTINF:-1 tvg-id="FRANCE 24" tvg-name="PT: FRANCE_24 (I)" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/FRANCE%2024.png" group-title="Lista Paulo",PT: FRANCE_24 (I)
+http://ip.platevpc.xyz:8080/pn_sn/1665576/207
+#EXTINF:-1 tvg-id="BBC Entertainment PT" tvg-name="PT: BBC ENTERTAINMENT" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/BBC%20ENTERTAINMENT.png" group-title="Lista Paulo",PT: BBC ENTERTAINMENT
+http://ip.platevpc.xyz:8080/pn_sn/1665576/34
+#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="" group-title="Lista Paulo",PT: FATIMA TV
+http://ip.platevpc.xyz:8080/pn_sn/1665576/32
 
