@@ -1,376 +1,1021 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Genericos-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Genericos-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Genericos-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Genericos-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="Rtp 1" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="Lista Nova",Rtp 1
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7231
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="Rtp 1" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="Daniel IPTV",Rtp 1
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7231
 
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="Rtp 2" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Lista Nova",Rtp 2
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81072
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="Rtp 2" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Daniel IPTV",Rtp 2
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81072
 
-#EXTINF:-1 tvg-id="Sic.pt" tvg-name="Sic" tvg-logo="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="Lista Nova",Sic
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7232
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="Sic" tvg-logo="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="Daniel IPTV",Sic
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7232
 
-#EXTINF:-1 tvg-id="" tvg-name="Sic Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/07/SIC_Internacional_logo_2018.png" group-title="Lista Nova",Sic Internacional
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18578
+#EXTINF:-1 tvg-id="" tvg-name="Sic Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/07/SIC_Internacional_logo_2018.png" group-title="Daniel IPTV",Sic Internacional
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18578
 
-#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="Tvi" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Lista Nova",Tvi
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7234
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="Tvi" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Daniel IPTV",Tvi
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7234
 
-#EXTINF:-1 tvg-id="TVIInt.pt" tvg-name="Tvi Internacional" tvg-logo="https://3.bp.blogspot.com/-8ulq0soc2hw/WDrqLkBzWpI/AAAAAAAAFhs/vIQDwB22VEUTHvXToCmNfoTzRTPxJgSmgCLcB/s1600/TVR%2BInternational%2Blogo.png" group-title="Lista Nova",Tvi Internacional
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18579
+#EXTINF:-1 tvg-id="TVIInt.pt" tvg-name="Tvi Internacional" tvg-logo="https://3.bp.blogspot.com/-8ulq0soc2hw/WDrqLkBzWpI/AAAAAAAAFhs/vIQDwB22VEUTHvXToCmNfoTzRTPxJgSmgCLcB/s1600/TVR%2BInternational%2Blogo.png" group-title="Daniel IPTV",Tvi Internacional
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18579
 
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="Tvi Ficcao" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="Lista Nova",Tvi Ficcao 
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/113948
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="Tvi Ficcao" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="Daniel IPTV",Tvi Ficcao 
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113948
 
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="Tvi Reality" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Lista Nova",Tvi Reality
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1666
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="Tvi Reality" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Daniel IPTV",Tvi Reality
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1666
 
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality Mosaico" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Lista Nova",Tvi Reality Mosaico
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/26560
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality Mosaico" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Daniel IPTV",Tvi Reality Mosaico
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/26560
 
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Sic Mulher" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Lista Nova",Sic Mulher
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18560
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Sic Mulher" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Daniel IPTV",Sic Mulher
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18560
 
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="Sic Caras" tvg-logo="https://2.bp.blogspot.com/-NrblaKSph0A/WDrqHJfIluI/AAAAAAAAFek/4AbZsIRPtXEn3BO4wXSAfCEl6-GBozfKwCLcB/s1600/SIC%2BCaras%2Blogo.png" group-title="Lista Nova",Sic Caras
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81073
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="Sic Caras" tvg-logo="https://2.bp.blogspot.com/-NrblaKSph0A/WDrqHJfIluI/AAAAAAAAFek/4AbZsIRPtXEn3BO4wXSAfCEl6-GBozfKwCLcB/s1600/SIC%2BCaras%2Blogo.png" group-title="Daniel IPTV",Sic Caras
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81073
 
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Sic Radical" tvg-logo="https://3.bp.blogspot.com/-RAEZW_ZCU5k/WDtdedvYE8I/AAAAAAAAFkM/ocxKsHycLQIiFNzKjSKKDlFN-vPAzywEgCLcB/s1600/SIC%2BRadical%2Blogo%2B3.png" group-title="Lista Nova",Sic Radical
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/19886
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Sic Radical" tvg-logo="https://3.bp.blogspot.com/-RAEZW_ZCU5k/WDtdedvYE8I/AAAAAAAAFkM/ocxKsHycLQIiFNzKjSKKDlFN-vPAzywEgCLcB/s1600/SIC%2BRadical%2Blogo%2B3.png" group-title="Daniel IPTV",Sic Radical
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19886
 
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://4.bp.blogspot.com/-xI_ZG3q49Vw/UzrSTKb-6JI/AAAAAAAAElQ/8h1YD_vJsGg/s1600/Canal+Q+logo.png" group-title="Lista Nova",Canal Q
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1733
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://4.bp.blogspot.com/-xI_ZG3q49Vw/UzrSTKb-6JI/AAAAAAAAElQ/8h1YD_vJsGg/s1600/Canal+Q+logo.png" group-title="Daniel IPTV",Canal Q
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1733
 
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://3.bp.blogspot.com/-CISRnm7RMJ8/WDtdcW7Ej_I/AAAAAAAAFjI/elGqTy8dJSYl_ec4PHOfGt3FD2qEMEZkACLcB/s1600/Porto%2BCanal%2Blogo.png" group-title="Lista Nova",Porto Canal
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18559
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://3.bp.blogspot.com/-CISRnm7RMJ8/WDtdcW7Ej_I/AAAAAAAAFjI/elGqTy8dJSYl_ec4PHOfGt3FD2qEMEZkACLcB/s1600/Porto%2BCanal%2Blogo.png" group-title="Daniel IPTV",Porto Canal
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18559
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="Rtp Africa" tvg-logo="https://3.bp.blogspot.com/-vFgPhPLP_Q0/WEcxgtXsi3I/AAAAAAAAFmI/O4VBAfCzcwQIlrHFRi7L9MnoWhjHPo7xgCLcB/s1600/RTP%2B%25C3%2581frica%2Blogo.png" group-title="Lista Nova",Rtp Africa
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1690
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="Rtp Africa" tvg-logo="https://3.bp.blogspot.com/-vFgPhPLP_Q0/WEcxgtXsi3I/AAAAAAAAFmI/O4VBAfCzcwQIlrHFRi7L9MnoWhjHPo7xgCLcB/s1600/RTP%2B%25C3%2581frica%2Blogo.png" group-title="Daniel IPTV",Rtp Africa
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1690
 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="Rtp Acores" tvg-logo="https://4.bp.blogspot.com/-iHzHEzfVMJk/VSZNpqG1grI/AAAAAAAAEu8/fHHbrcZhPPg/s1600/RTP%2BA%C3%A7ores%2Blogo.png" group-title="Lista Nova",Rtp Acores
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3265
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="Rtp Acores" tvg-logo="https://4.bp.blogspot.com/-iHzHEzfVMJk/VSZNpqG1grI/AAAAAAAAEu8/fHHbrcZhPPg/s1600/RTP%2BA%C3%A7ores%2Blogo.png" group-title="Daniel IPTV",Rtp Acores
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3265
 
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="Rtp Memoria" tvg-logo="https://2.bp.blogspot.com/-gFy8Sm_CrdY/WB3MLdJbpQI/AAAAAAAAFSE/gao_3vO_CykwmeYgDS5EY0cPh5JuOMilwCLcB/s1600/RTP%2BMem%25C3%25B3ria%2Blogo.png" group-title="Lista Nova",Rtp Memoria
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4484
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="Rtp Memoria" tvg-logo="https://2.bp.blogspot.com/-gFy8Sm_CrdY/WB3MLdJbpQI/AAAAAAAAFSE/gao_3vO_CykwmeYgDS5EY0cPh5JuOMilwCLcB/s1600/RTP%2BMem%25C3%25B3ria%2Blogo.png" group-title="Daniel IPTV",Rtp Memoria
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4484
 
-#EXTINF:-1 tvg-id="RTPI.pt" tvg-name="Rtp Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Futuro_Log%C3%B3tipo_-_RTP_Internacional.jpg" group-title="Lista Nova",Rtp Internacional
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3744
+#EXTINF:-1 tvg-id="RTPI.pt" tvg-name="Rtp Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Futuro_Log%C3%B3tipo_-_RTP_Internacional.jpg" group-title="Daniel IPTV",Rtp Internacional
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3744
 
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="Rtp Madeira" tvg-logo="https://3.bp.blogspot.com/-l_OXNAtf-4Y/VSZNq4DVAAI/AAAAAAAAEvQ/uSOh6Jcle90/s1600/RTP%2BMadeira%2Blogo.png" group-title="Lista Nova",Rtp Madeira
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3266
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="Rtp Madeira" tvg-logo="https://3.bp.blogspot.com/-l_OXNAtf-4Y/VSZNq4DVAAI/AAAAAAAAEvQ/uSOh6Jcle90/s1600/RTP%2BMadeira%2Blogo.png" group-title="Daniel IPTV",Rtp Madeira
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3266
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Noticias-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Noticias-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Noticias-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Noticias-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="Sic Noticias" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="Lista Nova",Sic Noticias
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18561
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="Sic Noticias" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="Daniel IPTV",Sic Noticias
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18561
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="Tvi 24" tvg-logo="https://3.bp.blogspot.com/-lB_jjcWiaT0/WB3MLhyulgI/AAAAAAAAFSQ/uFgEgtm5XjMgVZOpEePrb7f46y8cbvGpACLcB/s1600/TVI%2B24%2Blogo.png" group-title="Lista Nova",Tvi 24
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/113947
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="Tvi 24" tvg-logo="https://3.bp.blogspot.com/-lB_jjcWiaT0/WB3MLhyulgI/AAAAAAAAFSQ/uFgEgtm5XjMgVZOpEePrb7f46y8cbvGpACLcB/s1600/TVI%2B24%2Blogo.png" group-title="Daniel IPTV",Tvi 24
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113947
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="Cmtv" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="Lista Nova",Cmtv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7235
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="Cmtv" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="Daniel IPTV",Cmtv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7235
 
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="Rtp 3" tvg-logo="https://4.bp.blogspot.com/-8eqWCHiV1W0/WB3MLTgYdQI/AAAAAAAAFR8/wIeUHRr5eWU4UteiYhuy5KPnn55_jl0AwCLcB/s1600/RTP%2B3%2Blogo.png" group-title="Lista Nova",Rtp 3
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81071
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="Rtp 3" tvg-logo="https://4.bp.blogspot.com/-8eqWCHiV1W0/WB3MLTgYdQI/AAAAAAAAFR8/wIeUHRr5eWU4UteiYhuy5KPnn55_jl0AwCLcB/s1600/RTP%2B3%2Blogo.png" group-title="Daniel IPTV",Rtp 3
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81071
 
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="Artv Parlamento" tvg-logo="https://4.bp.blogspot.com/-uVYgNihndvE/WDrqAfaphXI/AAAAAAAAFaI/HrWb5SN38pYXLHzCrJr7BduLZcSGZ2i8ACLcB/s1600/AR%2BTV%2Blogo.png" group-title="Lista Nova",Artv Parlamento
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4493
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="Artv Parlamento" tvg-logo="https://4.bp.blogspot.com/-uVYgNihndvE/WDrqAfaphXI/AAAAAAAAFaI/HrWb5SN38pYXLHzCrJr7BduLZcSGZ2i8ACLcB/s1600/AR%2BTV%2Blogo.png" group-title="Daniel IPTV",Artv Parlamento
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4493
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Desporto-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Desporto-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Desporto-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Desporto-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg" group-title="Lista Nova",Canal 11
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/92824
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg" group-title="Daniel IPTV",Canal 11
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/92824
 
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport Tv +" tvg-logo="https://2.bp.blogspot.com/-e0GDx24F1bU/WDrqHkQIbmI/AAAAAAAAFe8/qRpP0X9Kdh41LIGAN8PgeGL282w0i20BQCLcB/s1600/Sport%2BTV%2B%252B%2Blogo.png" group-title="Lista Nova",Sport Tv +
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7238
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport Tv +" tvg-logo="https://2.bp.blogspot.com/-e0GDx24F1bU/WDrqHkQIbmI/AAAAAAAAFe8/qRpP0X9Kdh41LIGAN8PgeGL282w0i20BQCLcB/s1600/Sport%2BTV%2B%252B%2Blogo.png" group-title="Daniel IPTV",Sport Tv +
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7238
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport Tv 1" tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="Lista Nova",Sport Tv 1
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1736
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport Tv 1" tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="Daniel IPTV",Sport Tv 1
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1736
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport Tv 2" tvg-logo="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png" group-title="Lista Nova",Sport Tv 2
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1737
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport Tv 2" tvg-logo="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png" group-title="Daniel IPTV",Sport Tv 2
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1737
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport Tv 3" tvg-logo="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png" group-title="Lista Nova",Sport Tv 3
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1738
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport Tv 3" tvg-logo="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png" group-title="Daniel IPTV",Sport Tv 3
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1738
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport Tv 4" tvg-logo="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="Lista Nova",Sport Tv 4
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1739
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport Tv 4" tvg-logo="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="Daniel IPTV",Sport Tv 4
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1739
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport Tv 5" tvg-logo="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png" group-title="Lista Nova",Sport Tv 5
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1740
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport Tv 5" tvg-logo="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png" group-title="Daniel IPTV",Sport Tv 5
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1740
 
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ElevenSports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Lista Nova",ElevenSports 1
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31399
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ElevenSports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Daniel IPTV",ElevenSports 1
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31399
 
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ElevenSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Lista Nova",ElevenSports 2
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31398
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ElevenSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Daniel IPTV",ElevenSports 2
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31398
 
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ElevenSports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Lista Nova",ElevenSports 3
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31397
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ElevenSports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Daniel IPTV",ElevenSports 3
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31397
 
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ElevenSports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Lista Nova",ElevenSports 4
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31396
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ElevenSports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Daniel IPTV",ElevenSports 4
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31396
 
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ElevenSports 5" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="Lista Nova",ElevenSports 5
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31395
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ElevenSports 5" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="Daniel IPTV",ElevenSports 5
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31395
 
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ElevenSports 6" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="Lista Nova",ElevenSports 6
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/31394
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ElevenSports 6" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="Daniel IPTV",ElevenSports 6
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31394
 
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica Tv" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Lista Nova",Benfica Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/8668
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica Tv" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Daniel IPTV",Benfica Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/8668
 
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting Tv" tvg-logo="https://1.bp.blogspot.com/-3RTMhZnf9Yg/WDrqJyE_fsI/AAAAAAAAFgc/fYpredhujLUZWZ-ZM2ZSMjFOdx-U9C4bgCLcB/s1600/Sporting%2BTV%2Blogo.png" group-title="Lista Nova",Sporting Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7239
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting Tv" tvg-logo="https://1.bp.blogspot.com/-3RTMhZnf9Yg/WDrqJyE_fsI/AAAAAAAAFgc/fYpredhujLUZWZ-ZM2ZSMjFOdx-U9C4bgCLcB/s1600/Sporting%2BTV%2Blogo.png" group-title="Daniel IPTV",Sporting Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7239
 
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola Tv" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Lista Nova",A Bola Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/113945
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola Tv" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Daniel IPTV",A Bola Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113945
 
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="https://4.bp.blogspot.com/-AXqRNtkY1w0/TyVblYP4bsI/AAAAAAAABO4/s-ZYqUanhR4/s1600/PFC+logo+2.png" group-title="Lista Nova",PFC
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1747
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="https://4.bp.blogspot.com/-AXqRNtkY1w0/TyVblYP4bsI/AAAAAAAABO4/s-ZYqUanhR4/s1600/PFC+logo+2.png" group-title="Daniel IPTV",PFC
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1747
 
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport Tv NBA" tvg-logo="https://1.bp.blogspot.com/-xKnABmQLrqE/WKi0SaihA2I/AAAAAAAAFpM/vRAXrG6olzgwsrYihb5tk8ZOAI62giQ2ACLcB/s1600/NBA%2BTV%2Blogo.png" group-title="Lista Nova",Sport Tv NBA
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18558
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport Tv NBA" tvg-logo="https://1.bp.blogspot.com/-xKnABmQLrqE/WKi0SaihA2I/AAAAAAAAFpM/vRAXrG6olzgwsrYihb5tk8ZOAI62giQ2ACLcB/s1600/NBA%2BTV%2Blogo.png" group-title="Daniel IPTV",Sport Tv NBA
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18558
 
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport" tvg-logo="https://4.bp.blogspot.com/-KrcbIz75O_k/WB8tbxwjEMI/AAAAAAAAFUc/0i-74BBKJQIKVrpaVSR5dvq9Tb1xhnpCQCLcB/s1600/Eurosport%2B1%2Blogo.png" group-title="Lista Nova",Eurosport
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7251
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport" tvg-logo="https://4.bp.blogspot.com/-KrcbIz75O_k/WB8tbxwjEMI/AAAAAAAAFUc/0i-74BBKJQIKVrpaVSR5dvq9Tb1xhnpCQCLcB/s1600/Eurosport%2B1%2Blogo.png" group-title="Daniel IPTV",Eurosport
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7251
 
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://4.bp.blogspot.com/-WuQfJ_WoTk0/WB8tcbjsqoI/AAAAAAAAFU0/2O_vNxCd5y8Q6AvtiIgKZAdRHTPf1TZYwCLcB/s1600/Eurosport%2B2%2Blogo.png" group-title="Lista Nova",Eurosport 2
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1746
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://4.bp.blogspot.com/-WuQfJ_WoTk0/WB8tcbjsqoI/AAAAAAAAFU0/2O_vNxCd5y8Q6AvtiIgKZAdRHTPf1TZYwCLcB/s1600/Eurosport%2B2%2Blogo.png" group-title="Daniel IPTV",Eurosport 2
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1746
 
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="https://1.bp.blogspot.com/-eHwzEtjo10Q/UMH5tbV0VjI/AAAAAAAADWE/8SmQWTdqkxk/s1600/Kombat+Sport+logo.png" group-title="Lista Nova",Kombat Sport
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4489
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="https://1.bp.blogspot.com/-eHwzEtjo10Q/UMH5tbV0VjI/AAAAAAAADWE/8SmQWTdqkxk/s1600/Kombat+Sport+logo.png" group-title="Daniel IPTV",Kombat Sport
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4489
 
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network" tvg-logo="https://4.bp.blogspot.com/-PeUMeTaYl00/UT9qu-vGHKI/AAAAAAAAD24/XCVMmdjmghE/s1600/Fight+Network+logo.png" group-title="Lista Nova",Fight Network
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7240
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network" tvg-logo="https://4.bp.blogspot.com/-PeUMeTaYl00/UT9qu-vGHKI/AAAAAAAAD24/XCVMmdjmghE/s1600/Fight+Network+logo.png" group-title="Daniel IPTV",Fight Network
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7240
 
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel Tv" tvg-logo="https://1.bp.blogspot.com/-Wxpg5WnltUQ/WDrqD0r0XOI/AAAAAAAAFcg/_2sCHgRfGakT_gH6CkngiakkMi4YompIwCLcB/s1600/Fuel%2BTV%2Blogo.png" group-title="Lista Nova",Fuel Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1702
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel Tv" tvg-logo="https://1.bp.blogspot.com/-Wxpg5WnltUQ/WDrqD0r0XOI/AAAAAAAAFcg/_2sCHgRfGakT_gH6CkngiakkMi4YompIwCLcB/s1600/Fuel%2BTV%2Blogo.png" group-title="Daniel IPTV",Fuel Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1702
 
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://1.bp.blogspot.com/--CzJQGmT2Qw/VSenjD9Wg6I/AAAAAAAAEy8/iInLY6x32vQ/s1600/Motorvision%2BHD%2Blogo%2B1.png" group-title="Lista Nova",Motorvision
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1748
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://1.bp.blogspot.com/--CzJQGmT2Qw/VSenjD9Wg6I/AAAAAAAAEy8/iInLY6x32vQ/s1600/Motorvision%2BHD%2Blogo%2B1.png" group-title="Daniel IPTV",Motorvision
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1748
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Filmes & Series-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Filmes & Series-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Filmes & Series-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Filmes & Series-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="Tvcine TOP" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Lista Nova",Tvcine TOP
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3745
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="Tvcine TOP" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine TOP
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3745
 
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="Tvcine EDITION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Lista Nova",Tvcine EDITION
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3746
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="Tvcine EDITION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine EDITION
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3746
 
 
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="Tvcine EMOTION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Lista Nova",Tvcine EMOTION
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3747
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="Tvcine EMOTION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine EMOTION
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3747
 
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="Tvcine ACTION" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Lista Nova",Tvcine ACTION
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3748
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="Tvcine ACTION" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine ACTION
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3748
 
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="Nos Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Lista Nova",Nos Studios
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/87555
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="Nos Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Daniel IPTV",Nos Studios
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/87555
 
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="https://1.bp.blogspot.com/-XeUKVzGaHj0/TyVZn-bjBGI/AAAAAAAABB0/2YFaYcRteik/s1600/Canal+Hollywood+logo.png" group-title="Lista Nova",Hollywood
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7230
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="https://1.bp.blogspot.com/-XeUKVzGaHj0/TyVZn-bjBGI/AAAAAAAABB0/2YFaYcRteik/s1600/Canal+Hollywood+logo.png" group-title="Daniel IPTV",Hollywood
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7230
 
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemndo" tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/08/Cinemundo.jpg" group-title="Lista Nova",Cinemundo
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81078
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemndo" tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/08/Cinemundo.jpg" group-title="Daniel IPTV",Cinemundo
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81078
 
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="Amc" tvg-logo="https://3.bp.blogspot.com/-XjQ3rAjTjxo/WB8ta3OQ54I/AAAAAAAAFTo/zQN8MdpJJ7sFuFcPfPUIKrSKbsjpYuI5gCLcB/s1600/AMC.png" group-title="Lista Nova",Amc
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7248
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="Amc" tvg-logo="https://3.bp.blogspot.com/-XjQ3rAjTjxo/WB8ta3OQ54I/AAAAAAAAFTo/zQN8MdpJJ7sFuFcPfPUIKrSKbsjpYuI5gCLcB/s1600/AMC.png" group-title="Daniel IPTV",Amc
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7248
 
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies" tvg-logo="https://1.bp.blogspot.com/-oYok4jdQpAY/TljSPD9IJOI/AAAAAAAAAeM/Pb6F-5b6Pj4/s1600/FOX+Movies.png" group-title="Lista Nova",Fox Movies
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7249
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies" tvg-logo="https://1.bp.blogspot.com/-oYok4jdQpAY/TljSPD9IJOI/AAAAAAAAAeM/Pb6F-5b6Pj4/s1600/FOX+Movies.png" group-title="Daniel IPTV",Fox Movies
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7249
 
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox" tvg-logo="https://2.bp.blogspot.com/-512DxeBRUw8/TljSP6upBTI/AAAAAAAAAeU/zKTes7Z6dzo/s1600/FOX.png" group-title="Lista Nova",Fox
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1718
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox" tvg-logo="https://2.bp.blogspot.com/-512DxeBRUw8/TljSP6upBTI/AAAAAAAAAeU/zKTes7Z6dzo/s1600/FOX.png" group-title="Daniel IPTV",Fox
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1718
 
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime" tvg-logo="https://4.bp.blogspot.com/-vufG2xpw7t8/TyVaueOKOFI/AAAAAAAABHY/T-A3dCGA0js/s1600/Fox+Crime+logo+2.png" group-title="Lista Nova",Fox Crime
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1758
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime" tvg-logo="https://4.bp.blogspot.com/-vufG2xpw7t8/TyVaueOKOFI/AAAAAAAABHY/T-A3dCGA0js/s1600/Fox+Crime+logo+2.png" group-title="Daniel IPTV",Fox Crime
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1758
 
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life" tvg-logo="https://1.bp.blogspot.com/-yI9qvOgfcXo/U96OjnV_1eI/AAAAAAAAEno/XfQxgDnzREY/s1600/FOX+Life.png" group-title="Lista Nova",Fox Life
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1757
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life" tvg-logo="https://1.bp.blogspot.com/-yI9qvOgfcXo/U96OjnV_1eI/AAAAAAAAEno/XfQxgDnzREY/s1600/FOX+Life.png" group-title="Daniel IPTV",Fox Life
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1757
 
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy" tvg-logo="https://3.bp.blogspot.com/-UnvYdJtg-oA/WB8tcivqGaI/AAAAAAAAFVA/1vYPerVCSH4bHvQt8-M-nwhlipDtZOI3QCLcB/s1600/FOX%2BComedy%2Blogo.png" group-title="Lista Nova",Fox Comedy
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/19941
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy" tvg-logo="https://3.bp.blogspot.com/-UnvYdJtg-oA/WB8tcivqGaI/AAAAAAAAFVA/1vYPerVCSH4bHvQt8-M-nwhlipDtZOI3QCLcB/s1600/FOX%2BComedy%2Blogo.png" group-title="Daniel IPTV",Fox Comedy
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19941
 
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="Axn" tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" group-title="Lista Nova",Axn
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1720
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="Axn" tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" group-title="Daniel IPTV",Axn
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1720
 
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="Axn White" tvg-logo="https://4.bp.blogspot.com/-_2PPLA8uGp4/WB8tbCXlBKI/AAAAAAAAFT4/Wud0MVTvK5843gByTq3QETnwW8oZS45ZgCLcB/s1600/AXN%2BWhite.png" group-title="Lista Nova",Axn White
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1759
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="Axn White" tvg-logo="https://4.bp.blogspot.com/-_2PPLA8uGp4/WB8tbCXlBKI/AAAAAAAAFT4/Wud0MVTvK5843gByTq3QETnwW8oZS45ZgCLcB/s1600/AXN%2BWhite.png" group-title="Daniel IPTV",Axn White
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1759
 
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="Axn Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Lista Nova",Axn Movies
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1760
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="Axn Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Daniel IPTV",Axn Movies
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1760
 
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Lista Nova",Syfy
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7246
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Daniel IPTV",Syfy
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7246
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Documentarios-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Documentarios-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Documentarios-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Documentarios-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="nationalgeographic.pt.pt" tvg-name="National Geographic" tvg-logo="https://4.bp.blogspot.com/-SIlhwO8y0pM/TyVbaBWc5ZI/AAAAAAAABNY/aXTPI-A68RM/s1600/National+Geographic+logo.png" group-title="Lista Nova",National Geographic
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1714
+#EXTINF:-1 tvg-id="nationalgeographic.pt.pt" tvg-name="National Geographic" tvg-logo="https://4.bp.blogspot.com/-SIlhwO8y0pM/TyVbaBWc5ZI/AAAAAAAABNY/aXTPI-A68RM/s1600/National+Geographic+logo.png" group-title="Daniel IPTV",National Geographic
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1714
 
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat. Geo. Wild" tvg-logo="https://2.bp.blogspot.com/-TXZQU0EIc6Q/TljSa9rT5RI/AAAAAAAAAg0/1_O03ig9jTE/s1600/Nat+Geo+Wild.png" group-title="Lista Nova",Nat. Geo. Wild
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/20010
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat. Geo. Wild" tvg-logo="https://2.bp.blogspot.com/-TXZQU0EIc6Q/TljSa9rT5RI/AAAAAAAAAg0/1_O03ig9jTE/s1600/Nat+Geo+Wild.png" group-title="Daniel IPTV",Nat. Geo. Wild
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/20010
 
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="https://3.bp.blogspot.com/--eh0vxQMh74/T_WDvyEDLjI/AAAAAAAACQw/A5QpBn-m0TA/s1600/Discovery+Channel.png" group-title="Lista Nova",Discovery Channel
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1765
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="https://3.bp.blogspot.com/--eh0vxQMh74/T_WDvyEDLjI/AAAAAAAACQw/A5QpBn-m0TA/s1600/Discovery+Channel.png" group-title="Daniel IPTV",Discovery Channel
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1765
 
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historia" tvg-logo="https://3.bp.blogspot.com/-Qp9B7KRV-eQ/TljSRgch8UI/AAAAAAAAAew/v7X5eywBp_g/s1600/Hist%25C3%25B3ria.png" group-title="Lista Nova",Canal Historia
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1688
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historia" tvg-logo="https://3.bp.blogspot.com/-Qp9B7KRV-eQ/TljSRgch8UI/AAAAAAAAAew/v7X5eywBp_g/s1600/Hist%25C3%25B3ria.png" group-title="Daniel IPTV",Canal Historia
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1688
 
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="https://4.bp.blogspot.com/-jMW1KKW0ccw/WB3MKkUOk_I/AAAAAAAAFRc/M-8ngoM7xHwqPy8_Q0uaOotPmlj3r068gCLcB/s1600/Odisseia%2Blogo.png" group-title="Lista Nova",Odisseia
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81074
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="https://4.bp.blogspot.com/-jMW1KKW0ccw/WB3MKkUOk_I/AAAAAAAAFRc/M-8ngoM7xHwqPy8_Q0uaOotPmlj3r068gCLcB/s1600/Odisseia%2Blogo.png" group-title="Daniel IPTV",Odisseia
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81074
 
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Id Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="Lista Nova",Id Investigation Discovery
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/57767
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Id Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="Daniel IPTV",Id Investigation Discovery
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/57767
 
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation" tvg-logo="https://3.bp.blogspot.com/-lIUIR5TCx0I/WMBjEBFshdI/AAAAAAAAFsc/qJ6VrnJJHhgcdAqYQ-TJAKcPkYnrk53HQCLcB/s1600/Crime%2B%252B%2BInvestigation%2Blogo.png" group-title="Lista Nova",Crime Investigation
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18554
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation" tvg-logo="https://3.bp.blogspot.com/-lIUIR5TCx0I/WMBjEBFshdI/AAAAAAAAFsc/qJ6VrnJJHhgcdAqYQ-TJAKcPkYnrk53HQCLcB/s1600/Crime%2B%252B%2BInvestigation%2Blogo.png" group-title="Daniel IPTV",Crime Investigation
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18554
 
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caca & Pesca" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="Lista Nova",Caca & Pesca
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1749
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caca & Pesca" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="Daniel IPTV",Caca & Pesca
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1749
 
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Cacavision" tvg-logo="https://1.bp.blogspot.com/-mOotsQMA0Oo/TyVZmNHNsUI/AAAAAAAABBk/MobKaskSmcU/s1600/Ca%C3%A7avision+logo.png" group-title="Lista Nova",Cacavision
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1719
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Cacavision" tvg-logo="https://1.bp.blogspot.com/-mOotsQMA0Oo/TyVZmNHNsUI/AAAAAAAABBk/MobKaskSmcU/s1600/Ca%C3%A7avision+logo.png" group-title="Daniel IPTV",Cacavision
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1719
 
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros Tv" tvg-logo="https://1.bp.blogspot.com/-XopvU8QWNCY/T14V4lF0DOI/AAAAAAAAB5g/z2IkgfqT7Kg/s1600/Toros+TV+logo.png" group-title="Lista Nova",Toros Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1704
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros Tv" tvg-logo="https://1.bp.blogspot.com/-XopvU8QWNCY/T14V4lF0DOI/AAAAAAAAB5g/z2IkgfqT7Kg/s1600/Toros+TV+logo.png" group-title="Daniel IPTV",Toros Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1704
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Kids-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Kids-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Kids-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Kids-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="https://2.bp.blogspot.com/-5rB2Wgh7GhE/U96OiKbTkDI/AAAAAAAAEnU/CSysnheMbvw/s1600/Disney+Channel+logo.png" group-title="Lista Nova",Disney Channel
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1708
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="https://2.bp.blogspot.com/-5rB2Wgh7GhE/U96OiKbTkDI/AAAAAAAAEnU/CSysnheMbvw/s1600/Disney+Channel+logo.png" group-title="Daniel IPTV",Disney Channel
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1708
 
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="https://1.bp.blogspot.com/-K8rWzPcN6KA/UIacmQNWclI/AAAAAAAADBM/Y3MEgY49vk4/s1600/Disney+Junior+logo.png" group-title="Lista Nova",Disney Junior
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1767
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="https://1.bp.blogspot.com/-K8rWzPcN6KA/UIacmQNWclI/AAAAAAAADBM/Y3MEgY49vk4/s1600/Disney+Junior+logo.png" group-title="Daniel IPTV",Disney Junior
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1767
 
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="https://4.bp.blogspot.com/-XXwAfb-Nay8/WDrqBxYDgrI/AAAAAAAAFbQ/G1usyfP3HrUnzB1AAoG4V2f1KNLRZHnWQCLcB/s1600/Canal%2BPanda%2Blogo.png" group-title="Lista Nova",Canal Panda
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1709
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="https://4.bp.blogspot.com/-XXwAfb-Nay8/WDrqBxYDgrI/AAAAAAAAFbQ/G1usyfP3HrUnzB1AAoG4V2f1KNLRZHnWQCLcB/s1600/Canal%2BPanda%2Blogo.png" group-title="Daniel IPTV",Canal Panda
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1709
 
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Panda Biggs" tvg-logo="https://4.bp.blogspot.com/-ryGgij61cQE/UxStD6Kn7MI/AAAAAAAAEes/dlzNPdlMfPg/s1600/Biggs+logo.png" group-title="Lista Nova",Panda Biggs
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1705
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Panda Biggs" tvg-logo="https://4.bp.blogspot.com/-ryGgij61cQE/UxStD6Kn7MI/AAAAAAAAEes/dlzNPdlMfPg/s1600/Biggs+logo.png" group-title="Daniel IPTV",Panda Biggs
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1705
 
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam" tvg-logo="https://2.bp.blogspot.com/-E8pk2e3Wahs/TyVbCOZfVMI/AAAAAAAABKQ/g1fy94tOw7s/s1600/Jim+Jam+logo.png" group-title="Lista Nova",Jim Jam
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1707
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam" tvg-logo="https://2.bp.blogspot.com/-E8pk2e3Wahs/TyVbCOZfVMI/AAAAAAAABKQ/g1fy94tOw7s/s1600/Jim+Jam+logo.png" group-title="Daniel IPTV",Jim Jam
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1707
 
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby Tv" tvg-logo="https://3.bp.blogspot.com/-k9jp1pYeHII/TyVZSb_5W0I/AAAAAAAAA_4/uDRsb8ZJ-Og/s1600/Baby+TV+logo.png" group-title="Lista Nova",Baby Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1769
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby Tv" tvg-logo="https://3.bp.blogspot.com/-k9jp1pYeHII/TyVZSb_5W0I/AAAAAAAAA_4/uDRsb8ZJ-Og/s1600/Baby+TV+logo.png" group-title="Daniel IPTV",Baby Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1769
 
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://4.bp.blogspot.com/-tNBUlBmOrGs/TyVbeFCO9JI/AAAAAAAABN4/_gBoKYiowkg/s1600/Nickelodeon+logo.png" group-title="Lista Nova",Nickelodeon
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1768
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://4.bp.blogspot.com/-tNBUlBmOrGs/TyVbeFCO9JI/AAAAAAAABN4/_gBoKYiowkg/s1600/Nickelodeon+logo.png" group-title="Daniel IPTV",Nickelodeon
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1768
 
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="Lista Nova",Nick Jr.
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18565
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="Daniel IPTV",Nick Jr.
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18565
 
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="Sic k" tvg-logo="https://1.bp.blogspot.com/-Sq-JHbi6rYo/WDtddbvuaGI/AAAAAAAAFjs/kFd4UNRhsi8wUdHUfg0BoKu7WxYd2TLcgCLcB/s1600/SIC%2BK%2Blogo%2B2.png" group-title="Lista Nova",Sic k
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7233
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="Sic k" tvg-logo="https://1.bp.blogspot.com/-Sq-JHbi6rYo/WDtddbvuaGI/AAAAAAAAFjs/kFd4UNRhsi8wUdHUfg0BoKu7WxYd2TLcgCLcB/s1600/SIC%2BK%2Blogo%2B2.png" group-title="Daniel IPTV",Sic k
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7233
 
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="https://2.bp.blogspot.com/-YWFeZRFIk8Y/TyVZrmhJdmI/AAAAAAAABCQ/0zmF_x-aLNc/s1600/Cartoon+Network+logo+2.png group-title="Lista Nova",Cartoon Network
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1691
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="https://2.bp.blogspot.com/-YWFeZRFIk8Y/TyVZrmhJdmI/AAAAAAAABCQ/0zmF_x-aLNc/s1600/Cartoon+Network+logo+2.png group-title="Daniel IPTV",Cartoon Network
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1691
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Estilo de Vida-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Estilo de Vida-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Estilo de Vida-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Estilo de Vida-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="LuxeTV.eu" tvg-name="Luxe Tv" tvg-logo="https://4.bp.blogspot.com/-xaVBsA0XbVA/TyVbD2de4lI/AAAAAAAABKg/Als9ZrcSIz0/s1600/Luxe.TV+HD+logo+2.png" group-title="Lista Nova",Luxe Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7237
+#EXTINF:-1 tvg-id="LuxeTV.eu" tvg-name="Luxe Tv" tvg-logo="https://4.bp.blogspot.com/-xaVBsA0XbVA/TyVbD2de4lI/AAAAAAAABKg/Als9ZrcSIz0/s1600/Luxe.TV+HD+logo+2.png" group-title="Daniel IPTV",Luxe Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7237
 
-#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze" tvg-logo="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc4MTYyNy8yMDAweC5wbmciLCJleHBpcmVzX2F0IjoxNjM1OTM1MTA1fQ.I12590h1rcJ2NhZjNH977bJ_te1NCfB1CKdwrGlkY84/img.png?width=1228&height=276" group-title="Lista Nova",Blaze
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/113946
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze" tvg-logo="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc4MTYyNy8yMDAweC5wbmciLCJleHBpcmVzX2F0IjoxNjM1OTM1MTA1fQ.I12590h1rcJ2NhZjNH977bJ_te1NCfB1CKdwrGlkY84/img.png?width=1228&height=276" group-title="Daniel IPTV",Blaze
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113946
 
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="Cbs Reallity" tvg-logo="https://4.bp.blogspot.com/-npd7IurTLxQ/UMH5rMuZBYI/AAAAAAAADV0/wYDNizHb52w/s1600/CBS+Reality+logo.png" group-title="Lista Nova",Cbs Reallity
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/2870
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="Cbs Reallity" tvg-logo="https://4.bp.blogspot.com/-npd7IurTLxQ/UMH5rMuZBYI/AAAAAAAADV0/wYDNizHb52w/s1600/CBS+Reality+logo.png" group-title="Daniel IPTV",Cbs Reallity
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/2870
 
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://1.bp.blogspot.com/-AEgk50Ny5VA/UDahWdfdNRI/AAAAAAAACp8/sW-j23x898Y/s1600/E!+Entertainment+Television+logo+2.png" group-title="Lista Nova",E! Entertainment
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1761
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://1.bp.blogspot.com/-AEgk50Ny5VA/UDahWdfdNRI/AAAAAAAACp8/sW-j23x898Y/s1600/E!+Entertainment+Television+logo+2.png" group-title="Daniel IPTV",E! Entertainment
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1761
 
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos Tv" tvg-logo="https://2.bp.blogspot.com/-KAWXvOiZAfQ/WDrqE6mk-yI/AAAAAAAAFdI/6FKfyJH2G8QmMXBl2l-mcTMaGiXVCY0egCLcB/s1600/Kuriakos%2BTV%2Blogo.png" group-title="Lista Nova",Kuriakos Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/19931
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos Tv" tvg-logo="https://2.bp.blogspot.com/-KAWXvOiZAfQ/WDrqE6mk-yI/AAAAAAAAFdI/6FKfyJH2G8QmMXBl2l-mcTMaGiXVCY0egCLcB/s1600/Kuriakos%2BTV%2Blogo.png" group-title="Daniel IPTV",Kuriakos Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19931
 
-#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao" tvg-logo="https://3.bp.blogspot.com/-FwJVXB8v1JM/UMINmUVi7DI/AAAAAAAADXY/skSpagXdxog/s1600/Localvis%C3%A3o+TV+logo+2.png" group-title="Lista Nova",Localvisao
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7244
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao" tvg-logo="https://3.bp.blogspot.com/-FwJVXB8v1JM/UMINmUVi7DI/AAAAAAAADXY/skSpagXdxog/s1600/Localvis%C3%A3o+TV+logo+2.png" group-title="Daniel IPTV",Localvisao
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7244
 
-#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living" tvg-logo="https://4.bp.blogspot.com/-XAWv_ERtUcs/WKjW37KT4RI/AAAAAAAAFqk/YfPBRe9u9AcTZ8VdTrL8dOU_wl9feYKRQCLcB/s1600/Fine%2BLiving%2BHD%2Blogo.png" group-title="Lista Nova",Fine Living
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7241
+#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living" tvg-logo="https://4.bp.blogspot.com/-XAWv_ERtUcs/WKjW37KT4RI/AAAAAAAAFqk/YfPBRe9u9AcTZ8VdTrL8dOU_wl9feYKRQCLcB/s1600/Fine%2BLiving%2BHD%2Blogo.png" group-title="Daniel IPTV",Fine Living
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7241
 
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network" tvg-logo="https://4.bp.blogspot.com/-_XZc3gEJGw0/WEcxgUrEONI/AAAAAAAAFl0/nxduV-x3KdUvBfvW6pFPOVf9kuRACPkSACLcB/s1600/Food%2BNetwork%2Blogo.png" group-title="Lista Nova",Food Network
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/19885
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network" tvg-logo="https://4.bp.blogspot.com/-_XZc3gEJGw0/WEcxgUrEONI/AAAAAAAAFl0/nxduV-x3KdUvBfvW6pFPOVf9kuRACPkSACLcB/s1600/Food%2BNetwork%2Blogo.png" group-title="Daniel IPTV",Food Network
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19885
 
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="Tlc" tvg-logo="https://4.bp.blogspot.com/-DcEMgxOF6iQ/TyVcztuA_FI/AAAAAAAABW4/e_KrQbeOdaw/s1600/TLC+logo+2.png" group-title="Lista Nova",Tlc
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1762
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="Tlc" tvg-logo="https://4.bp.blogspot.com/-DcEMgxOF6iQ/TyVcztuA_FI/AAAAAAAABW4/e_KrQbeOdaw/s1600/TLC+logo+2.png" group-title="Daniel IPTV",Tlc
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1762
 
-#EXTINF:-1 tvg-id="FashionTV.nws" tvg-name="Fashion Tv" tvg-logo="https://2.bp.blogspot.com/-d_kqWAaW9aY/WDrqDLIoc4I/AAAAAAAAFcI/hVl5cZI6tQoKpOS2FV9M4pjFkdPWZDkhgCLcB/s1600/Fashion%2BTV%2Blogo.png" group-title="Lista Nova",Fashion Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7255
+#EXTINF:-1 tvg-id="FashionTV.nws" tvg-name="Fashion Tv" tvg-logo="https://2.bp.blogspot.com/-d_kqWAaW9aY/WDrqDLIoc4I/AAAAAAAAFcI/hVl5cZI6tQoKpOS2FV9M4pjFkdPWZDkhgCLcB/s1600/Fashion%2BTV%2Blogo.png" group-title="Daniel IPTV",Fashion Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7255
 
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel" tvg-logo="https://3.bp.blogspot.com/-AE0HnoJiQq8/WDtdgxpZciI/AAAAAAAAFlI/jlGaDQgK1x4ootUFdLaUyzKpCNZcnga_gCLcB/s1600/Travel%2BChannel%2Blogo%2B4.png" group-title="Lista Nova",Travel Channel
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1692
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel" tvg-logo="https://3.bp.blogspot.com/-AE0HnoJiQq8/WDtdgxpZciI/AAAAAAAAFlI/jlGaDQgK1x4ootUFdLaUyzKpCNZcnga_gCLcB/s1600/Travel%2BChannel%2Blogo%2B4.png" group-title="Daniel IPTV",Travel Channel
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1692
 
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="Cancao Nova" tvg-logo="https://1.bp.blogspot.com/-tgs7Y8ktNnw/WDrqCGuQ3nI/AAAAAAAAFbU/kLyab5Kyc_QN7IVk3XJrTEmyuDVBKy-rgCLcB/s1600/Can%25C3%25A7%25C3%25A3o%2BNova%2Blogo.png" group-title="Lista Nova",Cancao Nova
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/3262
+#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="Cancao Nova" tvg-logo="https://1.bp.blogspot.com/-tgs7Y8ktNnw/WDrqCGuQ3nI/AAAAAAAAFbU/kLyab5Kyc_QN7IVk3XJrTEmyuDVBKy-rgCLcB/s1600/Can%25C3%25A7%25C3%25A3o%2BNova%2Blogo.png" group-title="Daniel IPTV",Cancao Nova
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3262
 
-#EXTINF:-1 tvg-id="" tvg-name="Santuario Fatima" tvg-logo="https://www.tveuropa.pt/cnt/uploads/F18CL066.jpg" group-title="Lista Nova",Santuario Fatima
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4483
+#EXTINF:-1 tvg-id="" tvg-name="Santuario Fatima" tvg-logo="https://www.tveuropa.pt/cnt/uploads/F18CL066.jpg" group-title="Daniel IPTV",Santuario Fatima
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4483
 
-#EXTINF:-1 tvg-id="MyCuisine.pt" tvg-name="My Cuisine" tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/noticias/2017/novembro/my_cuisine.jpg" group-title="Lista Nova",My Cuisine
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4666
+#EXTINF:-1 tvg-id="MyCuisine.pt" tvg-name="My Cuisine" tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/noticias/2017/novembro/my_cuisine.jpg" group-title="Daniel IPTV",My Cuisine
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4666
 
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen" tvg-logo="https://2.bp.blogspot.com/-0w1UBiMUhO8/UIadYRxdWlI/AAAAAAAADBc/L7-oN4o-5Zc/s1600/24+Kitchen+logo+2.png" group-title="Lista Nova",24 Kitchen
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1763
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen" tvg-logo="https://2.bp.blogspot.com/-0w1UBiMUhO8/UIadYRxdWlI/AAAAAAAADBc/L7-oN4o-5Zc/s1600/24+Kitchen+logo+2.png" group-title="Daniel IPTV",24 Kitchen
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1763
 
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog Tv" tvg-logo="https://1.bp.blogspot.com/-OSQPcjgRKI8/VUi0OBsWbvI/AAAAAAAAE20/Q6tp0NzpSLQ/s1600/Dog%2BTV%2Blogo.png" group-title="Lista Nova",Dog Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7236
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog Tv" tvg-logo="https://1.bp.blogspot.com/-OSQPcjgRKI8/VUi0OBsWbvI/AAAAAAAAE20/Q6tp0NzpSLQ/s1600/Dog%2BTV%2Blogo.png" group-title="Daniel IPTV",Dog Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7236
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Internacional-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Internacional-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Internacional-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Internacional-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Lista Nova",Globo
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81076
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Daniel IPTV",Globo
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81076
 
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="Globo Now" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Lista Nova",Globo Now
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1696
+#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="Globo Now" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Daniel IPTV",Globo Now
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1696
 
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="Tv Record" tvg-logo="https://3.bp.blogspot.com/-sg0HFDoB7pI/WDrqHIVJjfI/AAAAAAAAFeg/QPP_HFewHHQiA3VdLskTl0VE3LlpgsS3QCLcB/s1600/Record%2BTV%2Blogo.png" group-title="Lista Nova",Tv Record
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18551
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="Tv Record" tvg-logo="https://3.bp.blogspot.com/-sg0HFDoB7pI/WDrqHIVJjfI/AAAAAAAAFeg/QPP_HFewHHQiA3VdLskTl0VE3LlpgsS3QCLcB/s1600/Record%2BTV%2Blogo.png" group-title="Daniel IPTV",Tv Record
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18551
 
-#EXTINF:-1 tvg-id="TPAInt.pt" tvg-name="Tpa" tvg-logo="https://4.bp.blogspot.com/-tGTOVryKaY0/V87SxESby8I/AAAAAAAAMvE/q9msBZFbxJU2aHbNigR4qj4evJblMzcNgCLcB/s1600/tpa-inter.jpg" group-title="Lista Nova",Tpa
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/2874
+#EXTINF:-1 tvg-id="TPAInt.pt" tvg-name="Tpa" tvg-logo="https://4.bp.blogspot.com/-tGTOVryKaY0/V87SxESby8I/AAAAAAAAMvE/q9msBZFbxJU2aHbNigR4qj4evJblMzcNgCLcB/s1600/tpa-inter.jpg" group-title="Daniel IPTV",Tpa
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/2874
 
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="Zap Viva" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQG4_PUuI3Wp5Q/company-logo_200_200/0?e=2159024400&v=beta&t=WCkTBtgpnYvwT4t65e8m_rGUbRvhYk4G83-6R3kj0NQ" group-title="Lista Nova",Zap Viva
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81117
+#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="Zap Viva" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQG4_PUuI3Wp5Q/company-logo_200_200/0?e=2159024400&v=beta&t=WCkTBtgpnYvwT4t65e8m_rGUbRvhYk4G83-6R3kj0NQ" group-title="Daniel IPTV",Zap Viva
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81117
 
-#EXTINF:-1 tvg-id="TcvInternational.pt" tvg-name="Tcv International" tvg-logo="https://1.bp.blogspot.com/-lluSx87nCEc/WDrqJ6hfeDI/AAAAAAAAFgk/27aA23kWyQYjcAIcrWLF-mOFq2BGMma4QCLcB/s1600/TCV%2BInternacional%2Blogo.png" group-title="Lista Nova",Tcv International
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/18550
+#EXTINF:-1 tvg-id="TcvInternational.pt" tvg-name="Tcv International" tvg-logo="https://1.bp.blogspot.com/-lluSx87nCEc/WDrqJ6hfeDI/AAAAAAAAFgk/27aA23kWyQYjcAIcrWLF-mOFq2BGMma4QCLcB/s1600/TCV%2BInternacional%2Blogo.png" group-title="Daniel IPTV",Tcv International
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18550
 
-#EXTINF:-1 tvg-id="" tvg-name="-----Musica-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Lista Nova",-----Musica-----
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/183
+#EXTINF:-1 tvg-id="" tvg-name="-----Musica-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Musica-----
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
 
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="Mcm Pop" tvg-logo="https://2.bp.blogspot.com/-_3HFmlHbqac/WDrqE7msZcI/AAAAAAAAFdM/wG6HWzAuorwSWW7eOU9DKq_qj-ScrpBpQCLcB/s1600/MCM%2BPop%2Blogo.png" group-title="Lista Nova",Mcm Pop
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/59392
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="Mcm Pop" tvg-logo="https://2.bp.blogspot.com/-_3HFmlHbqac/WDrqE7msZcI/AAAAAAAAFdM/wG6HWzAuorwSWW7eOU9DKq_qj-ScrpBpQCLcB/s1600/MCM%2BPop%2Blogo.png" group-title="Daniel IPTV",Mcm Pop
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/59392
 
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="Mtv" tvg-logo="https://4.bp.blogspot.com/-uvIknHhzvu4/TyVbRhGqNcI/AAAAAAAABMI/KGud5zeSMgE/s1600/MTV+logo+2.png" group-title="Lista Nova",Mtv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/81075
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="Mtv" tvg-logo="https://4.bp.blogspot.com/-uvIknHhzvu4/TyVbRhGqNcI/AAAAAAAABMI/KGud5zeSMgE/s1600/MTV+logo+2.png" group-title="Daniel IPTV",Mtv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81075
 
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="Vh1" tvg-logo="https://4.bp.blogspot.com/-L-lSXepo0Ic/VSZNwhsMz1I/AAAAAAAAEws/G0rbwb68vnQ/s1600/VH1%2Blogo.png" group-title="Lista Nova",Vh1
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1703
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="Vh1" tvg-logo="https://4.bp.blogspot.com/-L-lSXepo0Ic/VSZNwhsMz1I/AAAAAAAAEws/G0rbwb68vnQ/s1600/VH1%2Blogo.png" group-title="Daniel IPTV",Vh1
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1703
 
-#EXTINF:-1 tvg-id="VH1Classic.eu" tvg-name="Vh1 Classic" tvg-logo="https://1.bp.blogspot.com/-ts8M6zd6kBg/TyVjRvbexDI/AAAAAAAABac/Kw_gqxXJgIA/s1600/VH1+Classic+logo.png" group-title="Lista Nova",Vh1 Classic
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7253
+#EXTINF:-1 tvg-id="VH1Classic.eu" tvg-name="Vh1 Classic" tvg-logo="https://1.bp.blogspot.com/-ts8M6zd6kBg/TyVjRvbexDI/AAAAAAAABac/Kw_gqxXJgIA/s1600/VH1+Classic+logo.png" group-title="Daniel IPTV",Vh1 Classic
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7253
 
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Tv" tvg-logo="https://4.bp.blogspot.com/-M0ZLyO1M_lc/VSeoD5Yu1SI/AAAAAAAAE0w/6ptnQwk9G-I/s1600/Afro%2BMusic%2BChannel%2Blogo%2B3.png" group-title="Lista Nova",Afro Tv
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/1700
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Tv" tvg-logo="https://4.bp.blogspot.com/-M0ZLyO1M_lc/VSeoD5Yu1SI/AAAAAAAAE0w/6ptnQwk9G-I/s1600/Afro%2BMusic%2BChannel%2Blogo%2B3.png" group-title="Daniel IPTV",Afro Tv
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1700
 
-#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="https://2.bp.blogspot.com/-rDplrq4TVq8/TyViGAhkutI/AAAAAAAABXo/IuYYU4q7FFA/s1600/Trace+Urban+logo.png" group-title="Lista Nova",Trace Urban
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4482
+#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="https://2.bp.blogspot.com/-rDplrq4TVq8/TyViGAhkutI/AAAAAAAABXo/IuYYU4q7FFA/s1600/Trace+Urban+logo.png" group-title="Daniel IPTV",Trace Urban
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4482
 
-#EXTINF:-1 tvg-id="StingrayIconcerts.eu" tvg-name="Iconcerts" tvg-logo="https://2.bp.blogspot.com/-ERiksDd2S84/WKi0ShCtInI/AAAAAAAAFpc/KRuyY1jv-a0Tx6BdZZO1aeLWazdpaDHuwCLcB/s1600/Stingray%2BIconcerts%2Blogo.png" group-title="Lista Nova",Iconcerts
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/7242
+#EXTINF:-1 tvg-id="StingrayIconcerts.eu" tvg-name="Iconcerts" tvg-logo="https://2.bp.blogspot.com/-ERiksDd2S84/WKi0ShCtInI/AAAAAAAAFpc/KRuyY1jv-a0Tx6BdZZO1aeLWazdpaDHuwCLcB/s1600/Stingray%2BIconcerts%2Blogo.png" group-title="Daniel IPTV",Iconcerts
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7242
 
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="https://2.bp.blogspot.com/-vtQf8-y_5Bs/TyVbKy5CDGI/AAAAAAAABLY/5_ieV9jIVAs/s1600/Mezzo+logo.png" group-title="Lista Nova",Mezzo
-http://tvonpt.net:80/PauloNeves1Linha/Nkl5d8km6L/4486
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="https://2.bp.blogspot.com/-vtQf8-y_5Bs/TyVbKy5CDGI/AAAAAAAABLY/5_ieV9jIVAs/s1600/Mezzo+logo.png" group-title="Daniel IPTV",Mezzo
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4486
 
+
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="Lista Pedro Total",RTP 1 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2493
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="Lista Pedro Total",RTP 1 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2489
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="Lista Pedro Total",RTP 1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2485
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 LOW" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="Lista Pedro Total",RTP 1 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2266
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="Lista Pedro Total",RTP 2 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2492
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="Lista Pedro Total",RTP 2 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2488
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="Lista Pedro Total",RTP 2
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2484
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 LOW" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="Lista Pedro Total",RTP 2 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2265
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="Lista Pedro Total",SIC FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2491
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC HD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="Lista Pedro Total",SIC HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2487
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="Lista Pedro Total",SIC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2483
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC LOW" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="Lista Pedro Total",SIC LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2264
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI FHD" tvg-logo="http://galatichost.pt/Logos/TVI.png" group-title="Lista Pedro Total",TVI FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2490
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI HD" tvg-logo="http://galatichost.pt/Logos/TVI.png" group-title="Lista Pedro Total",TVI HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2486
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI" tvg-logo="http://galatichost.pt/Logos/TVI.png" group-title="Lista Pedro Total",TVI
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2482
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI LOW" tvg-logo="http://galatichost.pt/Logos/TVI.png" group-title="Lista Pedro Total",TVI LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2263
+#EXTINF:-1 tvg-id="" tvg-name="►INFORMAÇAO◄" tvg-logo="" group-title="Lista Pedro Total",►INFORMAÇAO◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2481
+#EXTINF:-1 tvg-id="RTPI.pt" tvg-name="RTP INTERNACIONAL" tvg-logo="http://ab1pro.com:8080/images/5nL7IcuEX7VfQhQzAJH25ewty0fJqAZX.jpg" group-title="Lista Pedro Total",RTP INTERNACIONAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2452
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS HD" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="Lista Pedro Total",SIC NOTICIAS HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2461
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="Lista Pedro Total",SIC NOTICIAS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2462
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS LOW" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="Lista Pedro Total",SIC NOTICIAS LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2262
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Lista Pedro Total",RTP 3
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2463
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="Lista Pedro Total",TVI 24
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2460
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 LOW" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="Lista Pedro Total",TVI 24 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2260
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="http://galatichost.pt/Logos/CMTV.png" group-title="Lista Pedro Total",CMTV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2476
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="http://galatichost.pt/Logos/CMTV.png" group-title="Lista Pedro Total",CMTV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2477
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV LOW" tvg-logo="http://galatichost.pt/Logos/CMTV.png" group-title="Lista Pedro Total",CMTV LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2261
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="Lista Pedro Total",RECORD NEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2459
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="http://galatichost.pt/Logos/RTP%20Madeira.png" group-title="Lista Pedro Total",RTP MADEIRA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2437
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP ACORES" tvg-logo="http://galatichost.pt/Logos/RTP%20ACORES.png" group-title="Lista Pedro Total",RTP ACORES
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2439
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP AFRICA" tvg-logo="http://galatichost.pt/Logos/RTP%20AFRICA.png" group-title="Lista Pedro Total",RTP AFRICA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2438
+
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="http://galatichost.pt/Logos/Euronews%20PT.png" group-title="Lista Pedro Total",EURONEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2473
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://galatichost.pt/Logos/CNN.png" group-title="Lista Pedro Total",CNN
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2474
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-name="SKY NEWS" tvg-logo="http://galatichost.pt/Logos/SKY%20NEWS.jpg" group-title="Lista Pedro Total",SKY NEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2458
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://www.digiplaytv.com/assets/canais/Fox-News-logo-e1469566619827.png" group-title="Lista Pedro Total",FOX NEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2472
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.triploplay.com/epgERNESTO/logostv/nos/bbcwordnewsnos.png" group-title="Lista Pedro Total",BBC WORLD NEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2479
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="http://galatichost.pt/Logos/BLOOMBERG.png" group-title="Lista Pedro Total",BLOOMBERG
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2478
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC EUROPE" tvg-logo="https://3.bp.blogspot.com/-Z0t8lHVEc-Q/TyVZ0XjkbAI/AAAAAAAABDI/l0DslZUlioI/s1600/CNBC+logo.png" group-title="Lista Pedro Total",CNBC EUROPE
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2475
+#EXTINF:-1 tvg-id="" tvg-name="► ENTRETIMENTO ◄" tvg-logo="" group-title="Lista Pedro Total",► ENTRETIMENTO ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2456
+#EXTINF:-1 tvg-id="CASA E COZINHA HD" tvg-name="CASA E COZINHA HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/04/cec-logohd.jpg" group-title="Lista Pedro Total",CASA E COZINHA HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/73191
+#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC MULHER HD" tvg-logo="http://galatichost.pt/Logos/SIC%20Mulher%20HD.png" group-title="Lista Pedro Total",SIC MULHER HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2442
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="http://galatichost.pt/Logos/SIC%20Mulher%20HD.png" group-title="Lista Pedro Total",SIC MULHER
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2443
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI FICCAO" tvg-logo="http://galatichost.pt/Logos/TVI%20Fic%c3%a7%c3%a3o.png" group-title="Lista Pedro Total",TVI FICCAO
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2454
+#EXTINF:-1 tvg-id="TVI FICÇÃO LOW" tvg-name="TVI FICÇÃO LOW" tvg-logo="http://galatichost.pt/Logos/TVI%20FICCAO.png" group-title="Lista Pedro Total",TVI FICÇÃO LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2259
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2453
+#EXTINF:-1 tvg-id="TVI REALITY LOW" tvg-name="TVI REALITY LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2258
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY MOSAICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY MOSAICO
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/76999
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY CAMARA 1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/77000
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY CAMARA 2
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/77001
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY CAMARA 3
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/77002
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipobigbrothertvi.png" group-title="Lista Pedro Total",TVI REALITY CAMARA 4
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/77003
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICAL HD" tvg-logo="http://galatichost.pt/Logos/SIC%20Radical%20HD.png" group-title="Lista Pedro Total",SIC RADICAL HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2445
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC RADICAL" tvg-logo="http://galatichost.pt/Logos/SIC%20Radical%20HD.png" group-title="Lista Pedro Total",SIC RADICAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2444
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="CANAL Q" tvg-logo="http://galatichost.pt/Logos/Canal%20Q.png" group-title="Lista Pedro Total",CANAL Q
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2455
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP MEMORIA" tvg-logo="http://galatichost.pt/Logos/RTP%20Mem%c3%b3ria.png" group-title="Lista Pedro Total",RTP MEMORIA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2436
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! ENTERTAINMENT" tvg-logo="https://tvacabodigital.files.wordpress.com/2011/05/e-logo.jpg" group-title="Lista Pedro Total",E! ENTERTAINMENT
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2313
+#EXTINF:-1 tvg-id="SIC CARAS HD" tvg-name="SIC CARAS HD" tvg-logo="http://galatichost.pt/Logos/SIC%20Caras%20HD.png" group-title="Lista Pedro Total",SIC CARAS HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2440
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC CARAS" tvg-logo="http://galatichost.pt/Logos/SIC%20Caras%20HD.png" group-title="Lista Pedro Total",SIC CARAS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2441
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="CBS REALITY" tvg-logo="http://galatichost.pt/Logos/CBS%20REALITY.png" group-title="Lista Pedro Total",CBS REALITY
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2333
+#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="GLOBO NOW" tvg-logo="http://195.154.215.205/FILMES/LOGOS%20TV%20PT/GLOBO%20NOW.png" group-title="Lista Pedro Total",GLOBO NOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/29298
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO PT" tvg-logo="http://galatichost.pt/Logos/Globo.png" group-title="Lista Pedro Total",GLOBO PT
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2302
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD HD" tvg-logo="http://galatichost.pt/Logos/TV%20RECORD.png" group-title="Lista Pedro Total",TV RECORD HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2297
+#EXTINF:-1 tvg-id="DOG TV" tvg-name="DOG TV HD" tvg-logo="https://www.triploplay.com/epgERNESTO/logostv/meo/dogtv.jpg" group-title="Lista Pedro Total",DOG TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2329
+#EXTINF:-1 tvg-id="" tvg-name="► DESPORTO ◄" tvg-logo="" group-title="Lista Pedro Total",► DESPORTO ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2435
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11 HD" tvg-logo="http://galatichost.pt/Logos/France%2024%20HD.png" group-title="Lista Pedro Total",Canal 11 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2471
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="SPORT TV NBA" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/SportTV_NBA.png" group-title="Lista Pedro Total",SPORT TV NBA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2300
+#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="SPORT TV  +  FHD" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="Lista Pedro Total",SPORT TV  +  FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2414
+#EXTINF:-1 tvg-id="SPORT TV+ HD" tvg-name="SPORT TV + HD" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="Lista Pedro Total",SPORT TV + HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4361
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV +" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="Lista Pedro Total",SPORT TV +
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2415
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD 2" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Lista Pedro Total",SPORT TV 1 FHD 2
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2413
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1  FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Lista Pedro Total",SPORT TV 1  FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2412
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Lista Pedro Total",SPORT TV 1 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2411
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Lista Pedro Total",SPORT TV 1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2410
+#EXTINF:-1 tvg-id="SPORT TV 1 LOW" tvg-name="SPORT TV 1 LOW" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Lista Pedro Total",SPORT TV 1 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2252
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Lista Pedro Total",SPORT TV 2 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2408
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Lista Pedro Total",SPORT TV 2 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2407
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Lista Pedro Total",SPORT TV 2
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2409
+#EXTINF:-1 tvg-id="SPORT TV 2 LOW" tvg-name="SPORT TV 2 LOW" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Lista Pedro Total",SPORT TV 2 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2251
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="Lista Pedro Total",SPORT TV 3 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2405
+#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="Lista Pedro Total",SPORT TV 3 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2404
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="Lista Pedro Total",SPORT TV 3
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2406
+#EXTINF:-1 tvg-id="SPORT TV 3 LOW" tvg-name="SPORT TV 3 LOW" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="Lista Pedro Total",SPORT TV 3 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2250
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="Lista Pedro Total",SPORT TV 4 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2402
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="Lista Pedro Total",SPORT TV 4 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2401
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="Lista Pedro Total",SPORT TV 4
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2403
+#EXTINF:-1 tvg-id="SPORT TV 4 LOW" tvg-name="SPORT TV 4 LOW" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="Lista Pedro Total",SPORT TV 4 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2249
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="Lista Pedro Total",SPORT TV 5 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2399
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="Lista Pedro Total",SPORT TV 5 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2398
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="Lista Pedro Total",SPORT TV 5
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2400
+#EXTINF:-1 tvg-id="SPORT TV 5 LOW" tvg-name="SPORT TV 5 LOW" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="Lista Pedro Total",SPORT TV 5 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2248
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORT 1 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2431
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN Sports 1 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN Sports 1 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26010
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORTS 1 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/28779
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORTS 2 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2432
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 HD" tvg-name="ELEVEN Sports 2 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN Sports 2 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26011
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORTS 2 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2308
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN Sports 3 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN Sports 3 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26012
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 LOW" tvg-name="ELEVEN SPORTS 3 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORTS 3 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2305
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN Sports 4 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN Sports 4 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26015
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORT 4 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORT 4 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/29916
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN Sports 5 HD" tvg-logo="https://uploaddeimagens.com.br/images/001/626/193/thumb/5.png?1537496663" group-title="Lista Pedro Total",ELEVEN Sports 5 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26013
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5  LOW" tvg-logo="https://uploaddeimagens.com.br/images/001/626/193/thumb/5.png?1537496663" group-title="Lista Pedro Total",ELEVEN SPORTS 5  LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/29917
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN Sports 6 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN Sports 6 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/26014
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="Lista Pedro Total",ELEVEN SPORTS 6 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/29918
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV 1 FHD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="Lista Pedro Total",BTV 1 FHD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2433
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV 1 HD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="Lista Pedro Total",BTV 1 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2430
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV 1" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="Lista Pedro Total",BTV 1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2429
+#EXTINF:-1 tvg-id="BTV LOW" tvg-name="BTV 1 LOW" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="Lista Pedro Total",BTV 1 LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2253
+#EXTINF:-1 tvg-id="SPORTING TV HD" tvg-name="SPORTING TV HD" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="Lista Pedro Total",SPORTING TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2397
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="Lista Pedro Total",SPORTING TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2395
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="PORTO CANAL HD" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="Lista Pedro Total",PORTO CANAL HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2464
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="Lista Pedro Total",PORTO CANAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2465
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TV" tvg-logo="http://galatichost.pt/Logos/A%20Bola%20TV.png" group-title="Lista Pedro Total",A BOLA TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2434
+#EXTINF:-1 tvg-id="Real Madrid TV PT" tvg-name="REAL MADRID TV" tvg-logo="https://i.imgur.com/39Y261c.png" group-title="Lista Pedro Total",REAL MADRID TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2416
+#EXTINF:-1 tvg-id="Red Bull TV HD" tvg-name="RED BULL TV" tvg-logo="https://cloud.addictivetips.com/wp-content/uploads/2018/02/Red-Bull-TV-Logo.png" group-title="Lista Pedro Total",RED BULL TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/22484
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX ESPORTS TV HD" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-ginx-xs.gif" group-title="Lista Pedro Total",GINX ESPORTS TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2337
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="Lista Pedro Total",PFC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2417
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://galatichost.pt/Logos/Eurosport%201.png" group-title="Lista Pedro Total",EUROSPORT 1 HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2426
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="http://galatichost.pt/Logos/Eurosport%201.png" group-title="Lista Pedro Total",EUROSPORT 1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2427
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="http://galatichost.pt/Logos/Eurosport%202.png" group-title="Lista Pedro Total",EUROSPORT 2
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2425
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EUROSPORT NEWS" tvg-logo="http://galatichost.pt/Logos/Euronews%20PT.png" group-title="Lista Pedro Total",EUROSPORT NEWS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2428
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TV HD" tvg-logo="http://galatichost.pt/Logos/Fuel%20TV%20HD.png" group-title="Lista Pedro Total",FUEL TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2423
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="http://galatichost.pt/Logos/Fuel%20TV%20HD.png" group-title="Lista Pedro Total",FUEL TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2422
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="KURIAKOS KIDS" tvg-logo="http://galatichost.pt/Logos/FIGHT%20NETWORK.png" group-title="Lista Pedro Total",KURIAKOS KIDS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2424
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://galatichost.pt/Logos/Kombat%20Sport%20HD.png" group-title="Lista Pedro Total",KOMBAT SPORT
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2396
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MOTORVISION" tvg-logo="http://galatichost.pt/Logos/Motorvision%20HD.png" group-title="Lista Pedro Total",MOTORVISION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2419
+#EXTINF:-1 tvg-id="" tvg-name="► INFANTIL ◄" tvg-logo="" group-title="Lista Pedro Total",► INFANTIL ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2355
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="BOOMERANG" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/BOOMERANG.png" group-title="Lista Pedro Total",BOOMERANG
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/31210
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://galatichost.pt/Logos/Disney%20Channel.png" group-title="Lista Pedro Total",DISNEY CHANNEL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2349
+#EXTINF:-1 tvg-id="DISNEY CHANNEL LOW" tvg-name="DISNEY CHANNEL LOW" tvg-logo="http://galatichost.pt/Logos/Disney%20Channel.png" group-title="Lista Pedro Total",DISNEY CHANNEL LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2255
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="Lista Pedro Total",NICKELODEON
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2346
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Lista Pedro Total",CANAL PANDA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2351
+#EXTINF:-1 tvg-id="CANAL PANDA LOW" tvg-name="CANAL PANDA LOW" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Lista Pedro Total",CANAL PANDA LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2254
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="BIGGS" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="Lista Pedro Total",BIGGS
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2352
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://galatichost.pt/Logos/Disney%20Junior.png" group-title="Lista Pedro Total",DISNEY JUNIOR
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2348
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="Lista Pedro Total",NICK JR
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4906
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="Lista Pedro Total",BABY TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2353
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="Lista Pedro Total",CARTOON NETWORK
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2350
+#EXTINF:-1 tvg-id="JIM JAM" tvg-name="JIM JAM" tvg-logo="http://galatichost.pt/Logos/Jim%20Jam.png" group-title="Lista Pedro Total",JIM JAM
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2347
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="Lista Pedro Total",SIC K
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2345
+#EXTINF:-1 tvg-id="" tvg-name="► FILMES ◄" tvg-logo="" group-title="Lista Pedro Total",► FILMES ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2390
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://i.imgur.com/cjpJFUM.png" group-title="Lista Pedro Total",TVCINE TOP HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2381
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP" tvg-logo="https://i.imgur.com/Q3OWR8P.png" group-title="Lista Pedro Total",TVCINE TOP
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2382
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP LOW" tvg-logo="https://i.imgur.com/Q3OWR8P.png" group-title="Lista Pedro Total",TVCINE TOP LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2237
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://i.imgur.com/OQN2yis.png" group-title="Lista Pedro Total",TVCINE EDITION HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2379
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION" tvg-logo="https://i.imgur.com/OzOE7mY.png" group-title="Lista Pedro Total",TVCINE EDITION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2380
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION LOW" tvg-logo="https://i.imgur.com/OzOE7mY.png" group-title="Lista Pedro Total",TVCINE EDITION LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2236
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://i.imgur.com/HUx6175.png" group-title="Lista Pedro Total",TVCINE EMOTION HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2377
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION" tvg-logo="https://i.imgur.com/HUx6175.png" group-title="Lista Pedro Total",TVCINE EMOTION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2378
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION LOW" tvg-logo="https://i.imgur.com/HUx6175.png" group-title="Lista Pedro Total",TVCINE EMOTION LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2235
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://i.imgur.com/z6edqYv.png" group-title="Lista Pedro Total",TVCINE ACTION HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2375
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCINE ACTION" tvg-logo="https://i.imgur.com/z6edqYv.png" group-title="Lista Pedro Total",TVCINE ACTION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2376
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCINE ACTION LOW" tvg-logo="https://i.imgur.com/z6edqYv.png" group-title="Lista Pedro Total",TVCINE ACTION LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2234
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="Lista Pedro Total",AMC HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2389
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="Lista Pedro Total",AMC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2388
+#EXTINF:-1 tvg-id="AMC LOW" tvg-name="AMC LOW" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="Lista Pedro Total",AMC LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2247
+#EXTINF:-1 tvg-id="NOS STUDIOS HD" tvg-name="NOS Studios HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NOS_STUDIOS_HD.png" group-title="Lista Pedro Total",NOS Studios HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2314
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Eurochannel" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/EURO_CHANNEL.png" group-title="Lista Pedro Total",Eurochannel
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2420
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Lista Pedro Total",HOLLYWOOD HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2383
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="HOLLYWOOD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Lista Pedro Total",HOLLYWOOD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2384
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="HOLLYWOOD LOW" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Lista Pedro Total",HOLLYWOOD LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2232
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO HD" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="Lista Pedro Total",CINEMUNDO HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4905
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="Lista Pedro Total",CINEMUNDO
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2387
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO LOW" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="Lista Pedro Total",CINEMUNDO LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4907
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Lista Pedro Total",FOX MOVIES HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2386
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Lista Pedro Total",FOX MOVIES
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2385
+#EXTINF:-1 tvg-id="FOX MOVIES LOW" tvg-name="FOX MOVIES LOW" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Lista Pedro Total",FOX MOVIES LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2239
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="Lista Pedro Total",AXN HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2371
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="Lista Pedro Total",AXN
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2372
+#EXTINF:-1 tvg-id="AXN LOW" tvg-name="AXN LOW" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="Lista Pedro Total",AXN LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2246
+#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN Movies HD" tvg-logo="https://i.imgur.com/oiVngMO.png" group-title="Lista Pedro Total",AXN Movies HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2370
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Movies " tvg-logo="https://i.imgur.com/oiVngMO.png" group-title="Lista Pedro Total",AXN Movies 
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4618
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="Lista Pedro Total",AXN WHITE HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2368
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN WHITE" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="Lista Pedro Total",AXN WHITE
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2369
+#EXTINF:-1 tvg-id="AXN WHITE LOW" tvg-name="AXN WHITE LOW" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="Lista Pedro Total",AXN WHITE LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2244
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Lista Pedro Total",FOX HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2366
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Lista Pedro Total",FOX
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2367
+#EXTINF:-1 tvg-id="FOX LOW" tvg-name="FOX LOW" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Lista Pedro Total",FOX LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2243
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Lista Pedro Total",FOX LIFE HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2360
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Lista Pedro Total",FOX LIFE
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2361
+#EXTINF:-1 tvg-id="FOX LIFE LOW" tvg-name="FOX LIFE LOW" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Lista Pedro Total",FOX LIFE LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2240
+#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-name="FOX CRIME HD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Lista Pedro Total",FOX CRIME HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2362
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX CRIME" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Lista Pedro Total",FOX CRIME
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2363
+#EXTINF:-1 tvg-id="FOX CRIME LOW" tvg-name="FOX CRIME LOW" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Lista Pedro Total",FOX CRIME LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2241
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Lista Pedro Total",FOX COMEDY HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2365
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Lista Pedro Total",FOX COMEDY
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2364
+#EXTINF:-1 tvg-id="FOX COMEDY LOW" tvg-name="FOX COMEDY LOW" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Lista Pedro Total",FOX COMEDY LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2242
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="http://galatichost.pt/Logos/Syfy%20HD.png" group-title="Lista Pedro Total",SYFY HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2359
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://galatichost.pt/Logos/Syfy%20HD.png" group-title="Lista Pedro Total",SYFY
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2358
+#EXTINF:-1 tvg-id="SYFY LOW" tvg-name="SYFY LOW" tvg-logo="http://galatichost.pt/Logos/Syfy%20HD.png" group-title="Lista Pedro Total",SYFY LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2238
+#EXTINF:-1 tvg-id="TVSeries PT" tvg-name="TV SERIES HD" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="Lista Pedro Total",TV SERIES HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2356
+#EXTINF:-1 tvg-id="TVSeries PT" tvg-name="TV SERIES" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="Lista Pedro Total",TV SERIES
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2357
+#EXTINF:-1 tvg-id="" tvg-name="► MUSICAS ◄" tvg-logo="" group-title="Lista Pedro Total",► MUSICAS ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2291
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV PORTUGAL" tvg-logo="http://directlogos.dotsi.pt/IpHD/Mtv%20Portugal%20HD.png" group-title="Lista Pedro Total",MTV PORTUGAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2282
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV DANCE" tvg-logo="http://directlogos.dotsi.pt/IpHD/MTV%20dance.png" group-title="Lista Pedro Total",MTV DANCE
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2283
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://directlogos.dotsi.pt/IpHD/VH1.png" group-title="Lista Pedro Total",VH1
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2279
+#EXTINF:-1 tvg-id="VH1 Classic US" tvg-name="VH1 CLASSIC" tvg-logo="http://directlogos.dotsi.pt/IpHD/VH1%20Classic.png" group-title="Lista Pedro Total",VH1 CLASSIC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2278
+#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOP" tvg-logo="http://directlogos.dotsi.pt/IpHD/MCM%20TOP.png" group-title="Lista Pedro Total",MCM TOP
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2286
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="http://directlogos.dotsi.pt/IpHD/MCM%20POP.png" group-title="Lista Pedro Total",MCM POP
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2287
+#EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-name="TRACE URBAN HD" tvg-logo="http://directlogos.dotsi.pt/IpHD/TRACE%20URBAN%20HD.png" group-title="Lista Pedro Total",TRACE URBAN HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2306
+#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="TRACE URBAN " tvg-logo="http://directlogos.dotsi.pt/IpHD/TRACE%20URBAN%20HD.png" group-title="Lista Pedro Total",TRACE URBAN 
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2280
+#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="AFRO MUSIC" tvg-logo="http://directlogos.dotsi.pt/IpHD/AFRO%20MUSIC.png" group-title="Lista Pedro Total",AFRO MUSIC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2290
+#EXTINF:-1 tvg-id="C-Music PT" tvg-name="C-MUSIC" tvg-logo="http://directlogos.dotsi.pt/IpHD/C%20MUSIC.png" group-title="Lista Pedro Total",C-MUSIC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2289
+#EXTINF:-1 tvg-id="MEZZO Live HD" tvg-name="MEZZO LIVE HD" tvg-logo="http://directlogos.dotsi.pt/IpHD/MEZZO%20HD.png" group-title="Lista Pedro Total",MEZZO LIVE HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2285
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://directlogos.dotsi.pt/IpHD/MEZZO.png" group-title="Lista Pedro Total",MEZZO
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2284
+#EXTINF:-1 tvg-id="" tvg-name="► DOCUMENTARIOS ◄" tvg-logo="" group-title="Lista Pedro Total",► DOCUMENTARIOS ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2343
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/DISCOVERY_CHANNEL.png" group-title="Lista Pedro Total",DISCOVERY CHANNEL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2331
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NATIONAL_GEO_CHANNEL_HD.png" group-title="Lista Pedro Total",NATIONAL GEOGRAPHIC HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2321
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NATIONAL_GEO_CHANNEL_HD.png" group-title="Lista Pedro Total",NATIONAL GEOGRAPHIC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2322
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NAT_GEO_WILD.png" group-title="Lista Pedro Total",NAT GEO WILD HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2323
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NAT_GEO_WILD.png" group-title="Lista Pedro Total",NAT GEO WILD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2324
+#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="NAT GEO LOW" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/NATIONAL_GEO_CHANNEL_HD.png" group-title="Lista Pedro Total",NAT GEO LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2230
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="ODISSEIA" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/ODISSEIA.png" group-title="Lista Pedro Total",ODISSEIA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2319
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL HD" tvg-name="TRAVEL HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TRAVEL_CHANNEL_HD.png" group-title="Lista Pedro Total",TRAVEL HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2317
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TRAVEL_CHANNEL_HD.png" group-title="Lista Pedro Total",TRAVEL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2318
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL LOW" tvg-name="TRAVEL LOW" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TRAVEL_CHANNEL_HD.png" group-title="Lista Pedro Total",TRAVEL LOW
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2229
+#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="HISTORIA" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/CANAL_HISTORIA.png" group-title="Lista Pedro Total",HISTORIA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2320
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY HD" tvg-name="ID Investigation Discovery HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/IINVESTIGATION_DIS_HD.png" group-title="Lista Pedro Total",ID Investigation Discovery HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/30444
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/IINVESTIGATION_DIS_HD.png" group-title="Lista Pedro Total",CRIME + INVESTIGATION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2332
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="http://galatichost.pt/Logos/BLAZE.png" group-title="Lista Pedro Total",BLAZE
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2373
+#EXTINF:-1 tvg-id="TOROS TV HD" tvg-name="TOROS TV HD" tvg-logo="http://galatichost.pt/Logos/Toros%20TV.png" group-title="Lista Pedro Total",TOROS TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2394
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="TOROS TV" tvg-logo="http://galatichost.pt/Logos/Toros%20TV.png" group-title="Lista Pedro Total",TOROS TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2393
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CACAVISION" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/CACAVISION.png" group-title="Lista Pedro Total",CACAVISION
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2334
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="CACA E PESCA" tvg-logo="http://galatichost.pt/Logos/Ca%c3%a7a%20e%20Pesca.png" group-title="Lista Pedro Total",CACA E PESCA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2391
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TLC.png" group-title="Lista Pedro Total",TLC
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2316
+#EXTINF:-1 tvg-id="FASHION TV (FTV)" tvg-name="FASHION TV" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/FASHION_TV.png" group-title="Lista Pedro Total",FASHION TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2326
+#EXTINF:-1 tvg-id="24 KITCHEN HD" tvg-name="24 KITCHEN HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/24_KITCHEN_HD.png" group-title="Lista Pedro Total",24 KITCHEN HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/4617
+#EXTINF:-1 tvg-id="24 KITCHEN" tvg-name="24 KITCHEN" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/24_KITCHEN_HD.png" group-title="Lista Pedro Total",24 KITCHEN
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2342
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="FINE LIVING NETWORK HD" tvg-logo="" group-title="Lista Pedro Total",FINE LIVING NETWORK HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2325
+#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="FATIMA TV" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/SantuarioFatima.png" group-title="Lista Pedro Total",FATIMA TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2328
+#EXTINF:-1 tvg-id="CANÇÃO NOVA TV HD" tvg-name="CANÇAO NOVA HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/CANCAO_NOVA.png" group-title="Lista Pedro Total",CANÇAO NOVA HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2303
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="KURIAKOS TV" tvg-logo="https://www.triploplay.com/epgERNESTO/logostv/nos/kuriakostv.png" group-title="Lista Pedro Total",KURIAKOS TV
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2310
+#EXTINF:-1 tvg-id="" tvg-name="► INTERNACIONAL ◄" tvg-logo="" group-title="Lista Pedro Total",► INTERNACIONAL ◄
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2311
+#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://3.bp.blogspot.com/-XpDZQBylMmk/TyVZTxnnwII/AAAAAAAABAI/lqakFGnZ8Iw/s1600/BBC+Entertainment+logo.png" group-title="Lista Pedro Total",BBC ENTERTAINMENT
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2335
+#EXTINF:-1 tvg-id="TV GALICIA" tvg-name="TV GALICIA" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TV_GALICIA.png" group-title="Lista Pedro Total",TV GALICIA
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2299
+#EXTINF:-1 tvg-id="TVE INTERNACIONAL" tvg-name="TVE INTERNACIONAL" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TVE.png" group-title="Lista Pedro Total",TVE INTERNACIONAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2296
+#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA INTERNACIONAL" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/TPA.png" group-title="Lista Pedro Total",TPA INTERNACIONAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2293
+#EXTINF:-1 tvg-id="FASHION TV (FTV)" tvg-name="FASHION TV HD" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/FASHION_TV.png" group-title="Lista Pedro Total",FASHION TV HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2327
+#EXTINF:-1 tvg-id="TCV INTERNACIONAL" tvg-name="TCV INTERNACIONAL" tvg-logo="http://www.rtc.cv/tcvdirecto/images/logo_tcv.jpg" group-title="Lista Pedro Total",TCV INTERNACIONAL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2307
+#EXTINF:-1 tvg-id="ZAPVIVA HD" tvg-name="ZAP Viva HD" tvg-logo="https://i0.wp.com/bwevip.com/wp-content/uploads/2017/07/cms-image-000008190.png?fit=576%2C693&ssl=1" group-title="Lista Pedro Total",ZAP Viva HD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/40458
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-name="BBC WORLD" tvg-logo="https://1.bp.blogspot.com/-xns4bAO0kek/TyVZUxlcNzI/AAAAAAAABAM/1dYoicXKyRA/s1600/BBC+World+News+logo.png" group-title="Lista Pedro Total",BBC WORLD
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2304
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="SUPER RTL" tvg-logo="http://mymovies2hd.ddns.net/Picons_DE/super%20rtl%20hd.png" group-title="Lista Pedro Total",SUPER RTL
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2344
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://4.bp.blogspot.com/-Vv4h5DLzxRo/TyVbFiE39WI/AAAAAAAABKo/6GRbr8cfUwk/s1600/M6+logo.png" group-title="Lista Pedro Total",M6
+http://myiptvhd.ovh:25461/Pauloneves/UKby6f87x7/2309
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP 1" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP 1
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46136
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP 2" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP 2
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46137
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP 3" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP 3
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46138
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46139
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVI" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVI
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46140
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVI FICCAO" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVI FICCAO
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46141
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVI 24" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVI 24
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46142
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC RADICAL" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC RADICAL
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46143
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC NOTICIAS" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC NOTICIAS
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46144
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC MULHER" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC MULHER
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46145
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC K" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC K
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46146
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SIC CARAS" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SIC CARAS
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46147
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP MEMORIA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP MEMORIA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46148
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP MADEIRA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP MADEIRA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46149
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP AFRICA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP AFRICA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46150
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RTP A" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RTP A
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46151
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVI REALITY" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVI REALITY
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46152
+#EXTINF:-1 tvg-id="" tvg-name="PT:. RECORD NEWS" tvg-logo="" group-title="Lista Pedro CURTA",PT:. RECORD NEWS
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46153
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TV RECORD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TV RECORD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46154
+#EXTINF:-1 tvg-id="" tvg-name="PT:. GLOBO" tvg-logo="" group-title="Lista Pedro CURTA",PT:. GLOBO
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46155
+#EXTINF:-1 tvg-id="" tvg-name="PT:. GLOBO NOW" tvg-logo="" group-title="Lista Pedro CURTA",PT:. GLOBO NOW
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46156
+#EXTINF:-1 tvg-id="" tvg-name="PT:. PORTO CANAL" tvg-logo="" group-title="Lista Pedro CURTA",PT:. PORTO CANAL
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46157
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CMTV" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CMTV
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46158
+#EXTINF:-1 tvg-id="" tvg-name="PT:. A BOLA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. A BOLA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46159
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVI REALITY CAM 1" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVI REALITY CAM 1
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46160
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 1 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 1 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46161
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 1" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 1
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46162
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 2 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 2 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46163
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 2" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 2
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46164
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 3 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 3 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46165
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 3" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 3
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46166
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 4 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 4 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46167
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 4" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 4
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46168
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORT TV 5" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORT TV 5
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46169
+#EXTINF:-1 tvg-id="" tvg-name="PT:. BENFICA TV HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. BENFICA TV HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46170
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SPORTING TV" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SPORTING TV
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46171
+#EXTINF:-1 tvg-id="" tvg-name="PT:. PFC" tvg-logo="" group-title="Lista Pedro CURTA",PT:. PFC
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46172
+#EXTINF:-1 tvg-id="" tvg-name="PT:. EUROSPORT 1 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. EUROSPORT 1 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46173
+#EXTINF:-1 tvg-id="" tvg-name="PT:. EUROSPORT 2 HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. EUROSPORT 2 HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46174
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVCINE TOP" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVCINE TOP
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46175
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVCINE EDITION" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVCINE EDITION
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46176
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVCINE EMOTION" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVCINE EMOTION
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46177
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TVCINE ACTION" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TVCINE ACTION
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46178
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TLC" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TLC
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46180
+#EXTINF:-1 tvg-id="" tvg-name="PT:. SYFY" tvg-logo="" group-title="Lista Pedro CURTA",PT:. SYFY
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46181
+#EXTINF:-1 tvg-id="" tvg-name="PT:. AXN WHITE HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. AXN WHITE HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46182
+#EXTINF:-1 tvg-id="" tvg-name="PT:. AXN Movies HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. AXN Movies HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46183
+#EXTINF:-1 tvg-id="" tvg-name="PT:. HOLLYWOOD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. HOLLYWOOD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46184
+#EXTINF:-1 tvg-id="" tvg-name="PT:. FOX MOVIES HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. FOX MOVIES HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46185
+#EXTINF:-1 tvg-id="" tvg-name="PT:. FOX LIFE HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. FOX LIFE HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46186
+#EXTINF:-1 tvg-id="" tvg-name="PT:. FOX HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. FOX HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46187
+#EXTINF:-1 tvg-id="" tvg-name="PT:. FOX CRIME HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. FOX CRIME HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46188
+#EXTINF:-1 tvg-id="" tvg-name="PT:. FOX COMEDY" tvg-logo="" group-title="Lista Pedro CURTA",PT:. FOX COMEDY
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46189
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CINEMUNDO HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CINEMUNDO HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46190
+#EXTINF:-1 tvg-id="" tvg-name="PT:. AXN HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. AXN HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46191
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CANAL PANDA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CANAL PANDA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46192
+#EXTINF:-1 tvg-id="" tvg-name="PT:. NICKELODEON" tvg-logo="" group-title="Lista Pedro CURTA",PT:. NICKELODEON
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46193
+#EXTINF:-1 tvg-id="" tvg-name="PT:. JIM JAM" tvg-logo="" group-title="Lista Pedro CURTA",PT:. JIM JAM
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46194
+#EXTINF:-1 tvg-id="" tvg-name="PT:. DISNEY JUNIOR" tvg-logo="" group-title="Lista Pedro CURTA",PT:. DISNEY JUNIOR
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46195
+#EXTINF:-1 tvg-id="" tvg-name="PT:. DISNEY CHANNEL" tvg-logo="" group-title="Lista Pedro CURTA",PT:. DISNEY CHANNEL
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46196
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CARTOON NETWORK" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CARTOON NETWORK
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46197
+#EXTINF:-1 tvg-id="" tvg-name="PT:. BIGGS" tvg-logo="" group-title="Lista Pedro CURTA",PT:. BIGGS
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46198
+#EXTINF:-1 tvg-id="" tvg-name="PT:. BABY TV" tvg-logo="" group-title="Lista Pedro CURTA",PT:. BABY TV
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46199
+#EXTINF:-1 tvg-id="" tvg-name="PT:. DISCOVERY CHANNEL" tvg-logo="" group-title="Lista Pedro CURTA",PT:. DISCOVERY CHANNEL
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46200
+#EXTINF:-1 tvg-id="" tvg-name="PT:. NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. NATIONAL GEOGRAPHIC HD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46201
+#EXTINF:-1 tvg-id="" tvg-name="PT:. NAT GEO WILD" tvg-logo="" group-title="Lista Pedro CURTA",PT:. NAT GEO WILD
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46202
+#EXTINF:-1 tvg-id="" tvg-name="PT:. TOROS" tvg-logo="" group-title="Lista Pedro CURTA",PT:. TOROS
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46203
+#EXTINF:-1 tvg-id="" tvg-name="PT:. HIST" tvg-logo="" group-title="Lista Pedro CURTA",PT:. HIST
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46204
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46205
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CACA & PESCA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CACA & PESCA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46206
+#EXTINF:-1 tvg-id="" tvg-name="PT:. AMC" tvg-logo="" group-title="Lista Pedro CURTA",PT:. AMC
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46207
+#EXTINF:-1 tvg-id="" tvg-name="PT:. BLAZE" tvg-logo="" group-title="Lista Pedro CURTA",PT:. BLAZE
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46208
+#EXTINF:-1 tvg-id="" tvg-name="PT:. MCM POP" tvg-logo="" group-title="Lista Pedro CURTA",PT:. MCM POP
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46209
+#EXTINF:-1 tvg-id="" tvg-name="PT:. AFRO MUSIC" tvg-logo="" group-title="Lista Pedro CURTA",PT:. AFRO MUSIC
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46210
+#EXTINF:-1 tvg-id="" tvg-name="PT:. CAPELA DE FATIMA" tvg-logo="" group-title="Lista Pedro CURTA",PT:. CAPELA DE FATIMA
+http://myiptvhd.ovh:25461/Paulonevesmobile/28WLLLLZq5/46211
 
