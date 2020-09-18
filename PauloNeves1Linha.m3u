@@ -1,374 +1,369 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Genericos-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Genericos-----
+#EXTINF:-1 tvg-id="" tvg-name="- - - - PORTUGAL - - - -" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",- - - - PORTUGAL - - - -
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="Rtp 1" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="Daniel IPTV",Rtp 1
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1hd.png" group-title="PORTUGAL",RTP 1 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7231
-
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="Rtp 2" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Daniel IPTV",Rtp 2
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="PORTUGAL",RTP 1 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1721
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp2hd.png" group-title="PORTUGAL",RTP 2 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81072
-
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="Sic" tvg-logo="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="Daniel IPTV",Sic
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP 2 PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp2.png" group-title="PORTUGAL",RTP 2 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1722
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/SIC.png" group-title="PORTUGAL",SIC HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7232
-
-#EXTINF:-1 tvg-id="" tvg-name="Sic Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/07/SIC_Internacional_logo_2018.png" group-title="Daniel IPTV",Sic Internacional
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18578
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="Tvi" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Daniel IPTV",Tvi
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC PT" tvg-logo="http://media.c-x-c.media/picons/PT/SIC.png" group-title="PORTUGAL",SIC PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1723
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/SIC.png" group-title="PORTUGAL",SIC LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/9541
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvi.png" group-title="PORTUGAL",TVI HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7234
-
-#EXTINF:-1 tvg-id="TVIInt.pt" tvg-name="Tvi Internacional" tvg-logo="https://3.bp.blogspot.com/-8ulq0soc2hw/WDrqLkBzWpI/AAAAAAAAFhs/vIQDwB22VEUTHvXToCmNfoTzRTPxJgSmgCLcB/s1600/TVR%2BInternational%2Blogo.png" group-title="Daniel IPTV",Tvi Internacional
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18579
-
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="Tvi Ficcao" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="Daniel IPTV",Tvi Ficcao 
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvi.png" group-title="PORTUGAL",TVI PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1724
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="TVI LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvi.png" group-title="PORTUGAL",TVI LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/9540
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇAO HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvificcao.png" group-title="PORTUGAL",TVI FICÇAO HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113948
-
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="Tvi Reality" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Daniel IPTV",Tvi Reality
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICCAO PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvificcao.png" group-title="PORTUGAL",TVI FICCAO PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1716
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="TVI REALITY 24 PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY 24 PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1666
-
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality Mosaico" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Daniel IPTV",Tvi Reality Mosaico
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="TVI REALITY MOSAICO PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvireality.png" group-title="PORTUGAL",TVI REALITY MOSAICO PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/26560
-
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="Sic Mulher" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Daniel IPTV",Sic Mulher
+#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="SIC MULHER HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicmulher.png" group-title="PORTUGAL",SIC MULHER HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18560
-
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="Sic Caras" tvg-logo="https://2.bp.blogspot.com/-NrblaKSph0A/WDrqHJfIluI/AAAAAAAAFek/4AbZsIRPtXEn3BO4wXSAfCEl6-GBozfKwCLcB/s1600/SIC%2BCaras%2Blogo.png" group-title="Daniel IPTV",Sic Caras
+#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="SIC MULHER PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicmulher.png" group-title="PORTUGAL",SIC MULHER PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1727
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC CARAS HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/siccarashd.png" group-title="PORTUGAL",SIC CARAS HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81073
-
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="Sic Radical" tvg-logo="https://3.bp.blogspot.com/-RAEZW_ZCU5k/WDtdedvYE8I/AAAAAAAAFkM/ocxKsHycLQIiFNzKjSKKDlFN-vPAzywEgCLcB/s1600/SIC%2BRadical%2Blogo%2B3.png" group-title="Daniel IPTV",Sic Radical
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC CARAS PT" tvg-logo="http://media.c-x-c.media/picons/PT/siccaras.png" group-title="PORTUGAL",SIC CARAS PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1728
+#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="SIC RADICAL HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicradical.png" group-title="PORTUGAL",SIC RADICAL HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19886
-
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://4.bp.blogspot.com/-xI_ZG3q49Vw/UzrSTKb-6JI/AAAAAAAAElQ/8h1YD_vJsGg/s1600/Canal+Q+logo.png" group-title="Daniel IPTV",Canal Q
+#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="SIC RADICAL PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicradical.png" group-title="PORTUGAL",SIC RADICAL PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1729
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="CANAL Q PT" tvg-logo="http://media.c-x-c.media/picons/PT/canalq.png" group-title="PORTUGAL",CANAL Q PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1733
-
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://3.bp.blogspot.com/-CISRnm7RMJ8/WDtdcW7Ej_I/AAAAAAAAFjI/elGqTy8dJSYl_ec4PHOfGt3FD2qEMEZkACLcB/s1600/Porto%2BCanal%2Blogo.png" group-title="Daniel IPTV",Porto Canal
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PORTO CANAL HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/portocanal.png" group-title="PORTUGAL",PORTO CANAL HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18559
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="Rtp Africa" tvg-logo="https://3.bp.blogspot.com/-vFgPhPLP_Q0/WEcxgtXsi3I/AAAAAAAAFmI/O4VBAfCzcwQIlrHFRi7L9MnoWhjHPo7xgCLcB/s1600/RTP%2B%25C3%2581frica%2Blogo.png" group-title="Daniel IPTV",Rtp Africa
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PORTO CANAL PT" tvg-logo="http://media.c-x-c.media/picons/PT/portocanal.png" group-title="PORTUGAL",PORTO CANAL PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1734
+#EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-name="RTP AFRICA PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtpafrica.png" group-title="PORTUGAL",RTP AFRICA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1690
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="Rtp Acores" tvg-logo="https://4.bp.blogspot.com/-iHzHEzfVMJk/VSZNpqG1grI/AAAAAAAAEu8/fHHbrcZhPPg/s1600/RTP%2BA%C3%A7ores%2Blogo.png" group-title="Daniel IPTV",Rtp Acores
+#EXTINF:-1 tvg-id="RtpAcores.pt" tvg-name="RTP ACORES PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtpacores.png" group-title="PORTUGAL",RTP ACORES PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3265
-
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="Rtp Memoria" tvg-logo="https://2.bp.blogspot.com/-gFy8Sm_CrdY/WB3MLdJbpQI/AAAAAAAAFSE/gao_3vO_CykwmeYgDS5EY0cPh5JuOMilwCLcB/s1600/RTP%2BMem%25C3%25B3ria%2Blogo.png" group-title="Daniel IPTV",Rtp Memoria
+#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP MEMORIA PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtpmemoriaB.png" group-title="PORTUGAL",RTP MEMORIA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4484
-
-#EXTINF:-1 tvg-id="RTPI.pt" tvg-name="Rtp Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Futuro_Log%C3%B3tipo_-_RTP_Internacional.jpg" group-title="Daniel IPTV",Rtp Internacional
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP INTERNATIONAL PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtpinternacionalB.png" group-title="PORTUGAL",RTP INTERNATIONAL PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3744
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="Rtp Madeira" tvg-logo="https://3.bp.blogspot.com/-l_OXNAtf-4Y/VSZNq4DVAAI/AAAAAAAAEvQ/uSOh6Jcle90/s1600/RTP%2BMadeira%2Blogo.png" group-title="Daniel IPTV",Rtp Madeira
+#EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="RTP MADEIRA PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtpmadeira.png" group-title="PORTUGAL",RTP MADEIRA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3266
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Noticias-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Noticias-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="Sic Noticias" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="Daniel IPTV",Sic Noticias
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",NOTICIAS PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3764
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC NOTICIAS HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18561
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="Tvi 24" tvg-logo="https://3.bp.blogspot.com/-lB_jjcWiaT0/WB3MLhyulgI/AAAAAAAAFSQ/uFgEgtm5XjMgVZOpEePrb7f46y8cbvGpACLcB/s1600/TVI%2B24%2Blogo.png" group-title="Daniel IPTV",Tvi 24
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC NOTICIAS PT" tvg-logo="http://media.c-x-c.media/picons/PT/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1725
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="TVI 24 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvi24.png" group-title="PORTUGAL",TVI 24 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113947
-
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="Cmtv" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="Daniel IPTV",Cmtv
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="TVI 24 PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvi24.png" group-title="PORTUGAL",TVI 24 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1726
+#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="CMTV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/cmtv.png" group-title="PORTUGAL",CMTV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7235
-
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="Rtp 3" tvg-logo="https://4.bp.blogspot.com/-8eqWCHiV1W0/WB3MLTgYdQI/AAAAAAAAFR8/wIeUHRr5eWU4UteiYhuy5KPnn55_jl0AwCLcB/s1600/RTP%2B3%2Blogo.png" group-title="Daniel IPTV",Rtp 3
+#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="CMTV PT" tvg-logo="http://media.c-x-c.media/picons/PT/cmtv.png" group-title="PORTUGAL",CMTV PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1732
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP 3 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp3hd.png" group-title="PORTUGAL",RTP 3 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81071
-
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="Artv Parlamento" tvg-logo="https://4.bp.blogspot.com/-uVYgNihndvE/WDrqAfaphXI/AAAAAAAAFaI/HrWb5SN38pYXLHzCrJr7BduLZcSGZ2i8ACLcB/s1600/AR%2BTV%2Blogo.png" group-title="Daniel IPTV",Artv Parlamento
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP 3 PT" tvg-logo="http://media.c-x-c.media/picons/PT/rtp3.png" group-title="PORTUGAL",RTP 3 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3259
+#EXTINF:-1 tvg-id="Artv.pt" tvg-name="ARTV PARLAMENTO PT" tvg-logo="http://media.c-x-c.media/picons/PT/artv.png" group-title="PORTUGAL",ARTV PARLAMENTO PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4493
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Desporto-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Desporto-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg" group-title="Daniel IPTV",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="DESPORTO PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",DESPORTO PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3763
+#EXTINF:-1 tvg-id="CANAL11HD" tvg-name="CANAL 11 FPF HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/11fpf.png" group-title="PORTUGAL",CANAL 11 FPF HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/92824
-
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport Tv +" tvg-logo="https://2.bp.blogspot.com/-e0GDx24F1bU/WDrqHkQIbmI/AAAAAAAAFe8/qRpP0X9Kdh41LIGAN8PgeGL282w0i20BQCLcB/s1600/Sport%2BTV%2B%252B%2Blogo.png" group-title="Daniel IPTV",Sport Tv +
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11 FPF HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/11fpf.png" group-title="PORTUGAL",CANAL 11 FPF HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/117513
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttvplusHDB.png" group-title="PORTUGAL",SPORT TV + HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7238
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport Tv 1" tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="Daniel IPTV",Sport Tv 1
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttvplusB.png" group-title="PORTUGAL",SPORT TV + PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4494
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="PORTUGAL",SPORT TV 1 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1736
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport Tv 2" tvg-logo="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png" group-title="Daniel IPTV",Sport Tv 2
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="PORTUGAL",SPORT TV 1 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/9538
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1B.png" group-title="PORTUGAL",SPORT TV 1 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3760
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="PORTUGAL",SPORT TV 2 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1737
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport Tv 3" tvg-logo="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png" group-title="Daniel IPTV",Sport Tv 3
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="PORTUGAL",SPORT TV 2 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/9539
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2B.png" group-title="PORTUGAL",SPORT TV 2 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3759
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="PORTUGAL",SPORT TV 3 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1738
-
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport Tv 4" tvg-logo="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="Daniel IPTV",Sport Tv 4
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="PORTUGAL",SPORT TV 3 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/24579
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3B.png" group-title="PORTUGAL",SPORT TV 3 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3758
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv4hdB.png" group-title="PORTUGAL",SPORT TV 4 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1739
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport Tv 5" tvg-logo="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png" group-title="Daniel IPTV",Sport Tv 5
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv4hdB.png" group-title="PORTUGAL",SPORT TV 4 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/24580
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv4B.png" group-title="PORTUGAL",SPORT TV 4 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3757
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv5HDB.png" group-title="PORTUGAL",SPORT TV 5 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1740
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ElevenSports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Daniel IPTV",ElevenSports 1
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv5HDB.png" group-title="PORTUGAL",SPORT TV 5 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/24581
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 PT" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv5B.png" group-title="PORTUGAL",SPORT TV 5 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3756
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31399
-
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ElevenSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Daniel IPTV",ElevenSports 2
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/38934
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31398
-
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ElevenSports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="Daniel IPTV",ElevenSports 3
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/38946
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31397
-
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ElevenSports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Daniel IPTV",ElevenSports 4
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/39074
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31396
-
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ElevenSports 5" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="Daniel IPTV",ElevenSports 5
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/39075
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31395
-
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ElevenSports 6" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="Daniel IPTV",ElevenSports 6
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/39076
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/31394
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica Tv" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Daniel IPTV",Benfica Tv
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/39077
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="BENFICA TV 1 HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/btv1hdB.png" group-title="PORTUGAL",BENFICA TV 1 HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/8668
-
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting Tv" tvg-logo="https://1.bp.blogspot.com/-3RTMhZnf9Yg/WDrqJyE_fsI/AAAAAAAAFgc/fYpredhujLUZWZ-ZM2ZSMjFOdx-U9C4bgCLcB/s1600/Sporting%2BTV%2Blogo.png" group-title="Daniel IPTV",Sporting Tv
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="BENFICA TV 1 HD LOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/btv1hdB.png" group-title="PORTUGAL",BENFICA TV 1 HD LOW PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/9542
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="BENFICA TV 1 PT" tvg-logo="http://media.c-x-c.media/picons/PT/btv1B.png" group-title="PORTUGAL",BENFICA TV 1 PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4497
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="SPORTING TV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sportingtvhd.png" group-title="PORTUGAL",SPORTING TV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7239
-
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola Tv" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Daniel IPTV",A Bola Tv
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/sportingtv.png" group-title="PORTUGAL",SPORTING TV PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1743
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A BOLA TV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/abolatv.png" group-title="PORTUGAL",A BOLA TV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113945
-
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="https://4.bp.blogspot.com/-AXqRNtkY1w0/TyVblYP4bsI/AAAAAAAABO4/s-ZYqUanhR4/s1600/PFC+logo+2.png" group-title="Daniel IPTV",PFC
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A BOLA TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/abolatv.png" group-title="PORTUGAL",A BOLA TV PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1744
+#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PFC PT" tvg-logo="http://media.c-x-c.media/picons/PT/pfc.png" group-title="PORTUGAL",PFC PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1747
-
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport Tv NBA" tvg-logo="https://1.bp.blogspot.com/-xKnABmQLrqE/WKi0SaihA2I/AAAAAAAAFpM/vRAXrG6olzgwsrYihb5tk8ZOAI62giQ2ACLcB/s1600/NBA%2BTV%2Blogo.png" group-title="Daniel IPTV",Sport Tv NBA
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/nba.png" group-title="PORTUGAL",SPORT TV NBA HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18558
-
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport" tvg-logo="https://4.bp.blogspot.com/-KrcbIz75O_k/WB8tbxwjEMI/AAAAAAAAFUc/0i-74BBKJQIKVrpaVSR5dvq9Tb1xhnpCQCLcB/s1600/Eurosport%2B1%2Blogo.png" group-title="Daniel IPTV",Eurosport
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA PT" tvg-logo="http://media.c-x-c.media/picons/PT/nba.png" group-title="PORTUGAL",SPORT TV NBA PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4485
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="EUROSPORT HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/eurosporthd.png" group-title="PORTUGAL",EUROSPORT HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7251
-
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://4.bp.blogspot.com/-WuQfJ_WoTk0/WB8tcbjsqoI/AAAAAAAAFU0/2O_vNxCd5y8Q6AvtiIgKZAdRHTPf1TZYwCLcB/s1600/Eurosport%2B2%2Blogo.png" group-title="Daniel IPTV",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="EUROSPORT PT" tvg-logo="http://media.c-x-c.media/picons/PT/eurosport.png" group-title="PORTUGAL",EUROSPORT PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1745
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="EUROSPORT 2 PT" tvg-logo="http://media.c-x-c.media/picons/PT/eurosport2.png" group-title="PORTUGAL",EUROSPORT 2 PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1746
-
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="https://1.bp.blogspot.com/-eHwzEtjo10Q/UMH5tbV0VjI/AAAAAAAADWE/8SmQWTdqkxk/s1600/Kombat+Sport+logo.png" group-title="Daniel IPTV",Kombat Sport
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT PT" tvg-logo="http://media.c-x-c.media/picons/PT/kombatsport.png" group-title="PORTUGAL",KOMBAT SPORT PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4489
-
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network" tvg-logo="https://4.bp.blogspot.com/-PeUMeTaYl00/UT9qu-vGHKI/AAAAAAAAD24/XCVMmdjmghE/s1600/Fight+Network+logo.png" group-title="Daniel IPTV",Fight Network
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK PT" tvg-logo="http://media.c-x-c.media/picons/PT/fightchannel.png" group-title="PORTUGAL",FIGHT NETWORK PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7240
-
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel Tv" tvg-logo="https://1.bp.blogspot.com/-Wxpg5WnltUQ/WDrqD0r0XOI/AAAAAAAAFcg/_2sCHgRfGakT_gH6CkngiakkMi4YompIwCLcB/s1600/Fuel%2BTV%2Blogo.png" group-title="Daniel IPTV",Fuel Tv
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="FUEL TV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/fueltv.png" group-title="PORTUGAL",FUEL TV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1702
-
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://1.bp.blogspot.com/--CzJQGmT2Qw/VSenjD9Wg6I/AAAAAAAAEy8/iInLY6x32vQ/s1600/Motorvision%2BHD%2Blogo%2B1.png" group-title="Daniel IPTV",Motorvision
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION PT" tvg-logo="http://media.c-x-c.media/picons/PT/motorvision.png" group-title="PORTUGAL",MOTORVISION PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1748
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Filmes & Series-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Filmes & Series-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="Tvcine TOP" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine TOP
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES & SERIES PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",MOVIES & SERIES PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3762
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="TVCINE TOP HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvctop.png" group-title="PORTUGAL",TVCINE TOP HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3745
-
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="Tvcine EDITION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine EDITION
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="TVCINE TOP PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvctop.png" group-title="PORTUGAL",TVCINE TOP PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1750
+#EXTINF:-1 tvg-id="Tvcine2.pt" tvg-name="TVCINE EDITION HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcedition.png" group-title="PORTUGAL",TVCINE EDITION HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3746
-
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="Tvcine EMOTION" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine EMOTION
+#EXTINF:-1 tvg-id="Tvcine2.pt" tvg-name="TVCINE EDITION PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcedition.png" group-title="PORTUGAL",TVCINE EDITION PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1751
+#EXTINF:-1 tvg-id="Tvcine3.pt" tvg-name="TVCINE EMOTION HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcemotion.png" group-title="PORTUGAL",TVCINE EMOTION HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3747
-
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="Tvcine ACTION" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png?resize=585%2C251&ssl=1" group-title="Daniel IPTV",Tvcine ACTION
+#EXTINF:-1 tvg-id="Tvcine3.pt" tvg-name="TVCINE EMOTION PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcemotion.png" group-title="PORTUGAL",TVCINE EMOTION PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1752
+#EXTINF:-1 tvg-id="Tvcine4.pt" tvg-name="TVCINE ACTION HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcaction.png" group-title="PORTUGAL",TVCINE ACTION HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3748
-
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="Nos Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Daniel IPTV",Nos Studios
+#EXTINF:-1 tvg-id="Tvcine4.pt" tvg-name="TVCINE ACTION PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvcaction.png" group-title="PORTUGAL",TVCINE ACTION PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1753
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS STUDIOS HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/NOSstudio.png" group-title="PORTUGAL",NOS STUDIOS HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/87555
-
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="https://1.bp.blogspot.com/-XeUKVzGaHj0/TyVZn-bjBGI/AAAAAAAABB0/2YFaYcRteik/s1600/Canal+Hollywood+logo.png" group-title="Daniel IPTV",Hollywood
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="HOLLYWOOD HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/hollywoodhd.png" group-title="PORTUGAL",HOLLYWOOD HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7230
-
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemndo" tvg-logo="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/08/Cinemundo.jpg" group-title="Daniel IPTV",Cinemundo
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="HOLLYWOOD PT" tvg-logo="http://media.c-x-c.media/picons/PT/hollywood.png" group-title="PORTUGAL",HOLLYWOOD PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1756
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/cinemundohd.png" group-title="PORTUGAL",CINEMUNDO HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81078
-
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="Amc" tvg-logo="https://3.bp.blogspot.com/-XjQ3rAjTjxo/WB8ta3OQ54I/AAAAAAAAFTo/zQN8MdpJJ7sFuFcPfPUIKrSKbsjpYuI5gCLcB/s1600/AMC.png" group-title="Daniel IPTV",Amc
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO PT" tvg-logo="http://media.c-x-c.media/picons/PT/cinemundo.png" group-title="PORTUGAL",CINEMUNDO PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1687
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/amchd.png" group-title="PORTUGAL",AMC HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7248
-
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies" tvg-logo="https://1.bp.blogspot.com/-oYok4jdQpAY/TljSPD9IJOI/AAAAAAAAAeM/Pb6F-5b6Pj4/s1600/FOX+Movies.png" group-title="Daniel IPTV",Fox Movies
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC PT" tvg-logo="http://media.c-x-c.media/picons/PT/amc.png" group-title="PORTUGAL",AMC PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1686
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX MOVIES HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxmovieshd.png" group-title="PORTUGAL",FOX MOVIES HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7249
-
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox" tvg-logo="https://2.bp.blogspot.com/-512DxeBRUw8/TljSP6upBTI/AAAAAAAAAeU/zKTes7Z6dzo/s1600/FOX.png" group-title="Daniel IPTV",Fox
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX MOVIES PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxmovies.png" group-title="PORTUGAL",FOX MOVIES PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1698
+#EXTINF:-1 tvg-id="Fox.pt" tvg-name="FOX HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxhd.png" group-title="PORTUGAL",FOX HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1718
-
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime" tvg-logo="https://4.bp.blogspot.com/-vufG2xpw7t8/TyVaueOKOFI/AAAAAAAABHY/T-A3dCGA0js/s1600/Fox+Crime+logo+2.png" group-title="Daniel IPTV",Fox Crime
+#EXTINF:-1 tvg-id="FoxCrime.pt" tvg-name="FOX CRIME HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxcrimehd.png" group-title="PORTUGAL",FOX CRIME HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1758
-
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life" tvg-logo="https://1.bp.blogspot.com/-yI9qvOgfcXo/U96OjnV_1eI/AAAAAAAAEno/XfQxgDnzREY/s1600/FOX+Life.png" group-title="Daniel IPTV",Fox Life
+#EXTINF:-1 tvg-id="FoxCrime.pt" tvg-name="FOX CRIME PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxcrime.png" group-title="PORTUGAL",FOX CRIME PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18557
+#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="FOX LIFE HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxlifehd.png" group-title="PORTUGAL",FOX LIFE HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1757
-
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy" tvg-logo="https://3.bp.blogspot.com/-UnvYdJtg-oA/WB8tcivqGaI/AAAAAAAAFVA/1vYPerVCSH4bHvQt8-M-nwhlipDtZOI3QCLcB/s1600/FOX%2BComedy%2Blogo.png" group-title="Daniel IPTV",Fox Comedy
+#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="FOX LIFE PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxlife.png" group-title="PORTUGAL",FOX LIFE PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18556
+#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="FOX COMEDY HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxcomedyhd.png" group-title="PORTUGAL",FOX COMEDY HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19941
-
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="Axn" tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" group-title="Daniel IPTV",Axn
+#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="FOX COMEDY PT" tvg-logo="http://media.c-x-c.media/picons/PT/foxcomedy.png" group-title="PORTUGAL",FOX COMEDY PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3261
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/axnhd.png" group-title="PORTUGAL",AXN HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1720
-
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="Axn White" tvg-logo="https://4.bp.blogspot.com/-_2PPLA8uGp4/WB8tbCXlBKI/AAAAAAAAFT4/Wud0MVTvK5843gByTq3QETnwW8oZS45ZgCLcB/s1600/AXN%2BWhite.png" group-title="Daniel IPTV",Axn White
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN WHITE HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/axnwhitehdB.png" group-title="PORTUGAL",AXN WHITE HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1759
-
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="Axn Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Daniel IPTV",Axn Movies
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN WHITE PT" tvg-logo="http://media.c-x-c.media/picons/PT/axnwhiteB.png" group-title="PORTUGAL",AXN WHITE PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18552
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN MOVIES HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/axnmovies.png" group-title="PORTUGAL",AXN MOVIES HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1760
-
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Daniel IPTV",Syfy
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN MOVIES PT" tvg-logo="http://media.c-x-c.media/picons/PT/axnmovies.png" group-title="PORTUGAL",AXN MOVIES PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18553
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="SYFY HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/syfyhdB.png" group-title="PORTUGAL",SYFY HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7246
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Documentarios-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Documentarios-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic" tvg-logo="https://4.bp.blogspot.com/-SIlhwO8y0pM/TyVbaBWc5ZI/AAAAAAAABNY/aXTPI-A68RM/s1600/National+Geographic+logo.png" group-title="Daniel IPTV",National Geographic
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="SYFY PT" tvg-logo="http://media.c-x-c.media/picons/PT/syfyB.png" group-title="PORTUGAL",SYFY PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1755
+#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTARIOS PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",DOCUMENTARIOS PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3766
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="NAT. GEOGRAPHIC HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/natgeohd.png" group-title="PORTUGAL",NAT. GEOGRAPHIC HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1714
-
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat. Geo. Wild" tvg-logo="https://2.bp.blogspot.com/-TXZQU0EIc6Q/TljSa9rT5RI/AAAAAAAAAg0/1_O03ig9jTE/s1600/Nat+Geo+Wild.png" group-title="Daniel IPTV",Nat. Geo. Wild
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="NAT. GEOGRAPHIC PT" tvg-logo="http://media.c-x-c.media/picons/PT/NAT_Geo_SD_B.png" group-title="PORTUGAL",NAT. GEOGRAPHIC PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/42279
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="NAT GEO WILD HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/natgeowildhd_B.png" group-title="PORTUGAL",NAT GEO WILD HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/20010
-
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="https://3.bp.blogspot.com/--eh0vxQMh74/T_WDvyEDLjI/AAAAAAAACQw/A5QpBn-m0TA/s1600/Discovery+Channel.png" group-title="Daniel IPTV",Discovery Channel
+#EXTINF:-1 tvg-id="NGCWILDHD" tvg-name="NAT GEO WILD PT" tvg-logo="http://media.c-x-c.media/picons/PT/natgeowild.png" group-title="PORTUGAL",NAT GEO WILD PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1764
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="DISCOVERY CHANNEL HD PT" tvg-logo="http://media.c-x-c.media/picons/PL/discoveryhd.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/149891
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="DISCOVERY CHANNEL PT" tvg-logo="http://media.c-x-c.media/picons/PT/discoverychannel.png" group-title="PORTUGAL",DISCOVERY CHANNEL PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1765
-
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historia" tvg-logo="https://3.bp.blogspot.com/-Qp9B7KRV-eQ/TljSRgch8UI/AAAAAAAAAew/v7X5eywBp_g/s1600/Hist%25C3%25B3ria.png" group-title="Daniel IPTV",Canal Historia
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="CANAL HISTORIA PT" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="PORTUGAL",CANAL HISTORIA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1688
-
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="https://4.bp.blogspot.com/-jMW1KKW0ccw/WB3MKkUOk_I/AAAAAAAAFRc/M-8ngoM7xHwqPy8_Q0uaOotPmlj3r068gCLcB/s1600/Odisseia%2Blogo.png" group-title="Daniel IPTV",Odisseia
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/odisseiahd.png" group-title="PORTUGAL",ODISSEIA HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81074
-
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Id Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="Daniel IPTV",Id Investigation Discovery
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA PT" tvg-logo="http://media.c-x-c.media/picons/PT/odisseia.png" group-title="PORTUGAL",ODISSEIA PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1706
+#EXTINF:-1 tvg-id="IDinvestigationDiscovery" tvg-name="ID INVESTIGATION DISCOVERY HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/investigationdiscoveryhd.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/57767
-
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation" tvg-logo="https://3.bp.blogspot.com/-lIUIR5TCx0I/WMBjEBFshdI/AAAAAAAAFsc/qJ6VrnJJHhgcdAqYQ-TJAKcPkYnrk53HQCLcB/s1600/Crime%2B%252B%2BInvestigation%2Blogo.png" group-title="Daniel IPTV",Crime Investigation
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="CRIME INVESTIGATION PT" tvg-logo="http://media.c-x-c.media/picons/PT/crimeinvestigation.png" group-title="PORTUGAL",CRIME INVESTIGATION PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18554
-
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caca & Pesca" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="Daniel IPTV",Caca & Pesca
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="CACA E PESCA PT" tvg-logo="http://media.c-x-c.media/picons/PT/cacaepesca.png" group-title="PORTUGAL",CACA E PESCA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1749
-
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Cacavision" tvg-logo="https://1.bp.blogspot.com/-mOotsQMA0Oo/TyVZmNHNsUI/AAAAAAAABBk/MobKaskSmcU/s1600/Ca%C3%A7avision+logo.png" group-title="Daniel IPTV",Cacavision
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="CACAVISION PT" tvg-logo="http://media.c-x-c.media/picons/PT/cacavision.png" group-title="PORTUGAL",CACAVISION PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1719
-
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros Tv" tvg-logo="https://1.bp.blogspot.com/-XopvU8QWNCY/T14V4lF0DOI/AAAAAAAAB5g/z2IkgfqT7Kg/s1600/Toros+TV+logo.png" group-title="Daniel IPTV",Toros Tv
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/torostv.png" group-title="PORTUGAL",TOROS TV PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1704
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Kids-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Kids-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="https://2.bp.blogspot.com/-5rB2Wgh7GhE/U96OiKbTkDI/AAAAAAAAEnU/CSysnheMbvw/s1600/Disney+Channel+logo.png" group-title="Daniel IPTV",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="KIDS PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",KIDS PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3761
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="DISNEY CHANNEL PT" tvg-logo="http://media.c-x-c.media/picons/PT/disneychannel.png" group-title="PORTUGAL",DISNEY CHANNEL PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1708
-
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="https://1.bp.blogspot.com/-K8rWzPcN6KA/UIacmQNWclI/AAAAAAAADBM/Y3MEgY49vk4/s1600/Disney+Junior+logo.png" group-title="Daniel IPTV",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="DISNEY JUNIOR PT" tvg-logo="http://media.c-x-c.media/picons/PT/disneyjunior.png" group-title="PORTUGAL",DISNEY JUNIOR PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1767
-
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="https://4.bp.blogspot.com/-XXwAfb-Nay8/WDrqBxYDgrI/AAAAAAAAFbQ/G1usyfP3HrUnzB1AAoG4V2f1KNLRZHnWQCLcB/s1600/Canal%2BPanda%2Blogo.png" group-title="Daniel IPTV",Canal Panda
+#EXTINF:-1 tvg-id="Panda.pt" tvg-name="CANAL PANDA PT" tvg-logo="http://media.c-x-c.media/picons/PT/canalpanda.png" group-title="PORTUGAL",CANAL PANDA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1709
-
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Panda Biggs" tvg-logo="https://4.bp.blogspot.com/-ryGgij61cQE/UxStD6Kn7MI/AAAAAAAAEes/dlzNPdlMfPg/s1600/Biggs+logo.png" group-title="Daniel IPTV",Panda Biggs
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="PANDA BIGGS PT" tvg-logo="http://media.c-x-c.media/picons/PT/pandabiggs.png" group-title="PORTUGAL",PANDA BIGGS PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1705
-
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam" tvg-logo="https://2.bp.blogspot.com/-E8pk2e3Wahs/TyVbCOZfVMI/AAAAAAAABKQ/g1fy94tOw7s/s1600/Jim+Jam+logo.png" group-title="Daniel IPTV",Jim Jam
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="JIM JAM PT" tvg-logo="http://media.c-x-c.media/picons/PT/jimjam.png" group-title="PORTUGAL",JIM JAM PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1707
-
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby Tv" tvg-logo="https://3.bp.blogspot.com/-k9jp1pYeHII/TyVZSb_5W0I/AAAAAAAAA_4/uDRsb8ZJ-Og/s1600/Baby+TV+logo.png" group-title="Daniel IPTV",Baby Tv
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="BABY TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/babytv.png" group-title="PORTUGAL",BABY TV PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1769
-
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://4.bp.blogspot.com/-tNBUlBmOrGs/TyVbeFCO9JI/AAAAAAAABN4/_gBoKYiowkg/s1600/Nickelodeon+logo.png" group-title="Daniel IPTV",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="NICKELODEON PT" tvg-logo="http://media.c-x-c.media/picons/PT/nickelodeon.png" group-title="PORTUGAL",NICKELODEON PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1768
-
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="Daniel IPTV",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="NICK JR. PT" tvg-logo="http://media.c-x-c.media/picons/PT/nickjr.png" group-title="PORTUGAL",NICK JR. PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18565
-
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="Sic k" tvg-logo="https://1.bp.blogspot.com/-Sq-JHbi6rYo/WDtddbvuaGI/AAAAAAAAFjs/kFd4UNRhsi8wUdHUfg0BoKu7WxYd2TLcgCLcB/s1600/SIC%2BK%2Blogo%2B2.png" group-title="Daniel IPTV",Sic k
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/sick.png" group-title="PORTUGAL",SIC K HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7233
-
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="https://2.bp.blogspot.com/-YWFeZRFIk8Y/TyVZrmhJdmI/AAAAAAAABCQ/0zmF_x-aLNc/s1600/Cartoon+Network+logo+2.png group-title="Daniel IPTV",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="SIC K PT" tvg-logo="http://media.c-x-c.media/picons/PT/sick.png" group-title="PORTUGAL",SIC K PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1766
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="CARTOON NETWORK PT" tvg-logo="http://media.c-x-c.media/picons/PT/cartoonnetwork.png" group-title="PORTUGAL",CARTOON NETWORK PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1691
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Estilo de Vida-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Estilo de Vida-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="LuxeTV.eu" tvg-name="Luxe Tv" tvg-logo="https://4.bp.blogspot.com/-xaVBsA0XbVA/TyVbD2de4lI/AAAAAAAABKg/Als9ZrcSIz0/s1600/Luxe.TV+HD+logo+2.png" group-title="Daniel IPTV",Luxe Tv
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG PT" tvg-logo="http://media.c-x-c.media/picons/FR/1_0_19_22CC_434_1_C00000_0_0_0.png" group-title="PORTUGAL",BOOMERANG PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/158399
+#EXTINF:-1 tvg-id="" tvg-name="LIFESTYLE PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",LIFESTYLE PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/43602
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/luxetv.png" group-title="PORTUGAL",LUXE TV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7237
-
-#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze" tvg-logo="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc4MTYyNy8yMDAweC5wbmciLCJleHBpcmVzX2F0IjoxNjM1OTM1MTA1fQ.I12590h1rcJ2NhZjNH977bJ_te1NCfB1CKdwrGlkY84/img.png?width=1228&height=276" group-title="Daniel IPTV",Blaze
+#EXTINF:-1 tvg-id="AandE.pt" tvg-name="BLAZE HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/blaze.png" group-title="PORTUGAL",BLAZE HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/113946
-
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="Cbs Reallity" tvg-logo="https://4.bp.blogspot.com/-npd7IurTLxQ/UMH5rMuZBYI/AAAAAAAADV0/wYDNizHb52w/s1600/CBS+Reality+logo.png" group-title="Daniel IPTV",Cbs Reallity
+#EXTINF:-1 tvg-id="AandE.pt" tvg-name="BLAZE PT" tvg-logo="http://media.c-x-c.media/picons/PT/blaze.png" group-title="PORTUGAL",BLAZE PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1710
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY PT" tvg-logo="http://media.c-x-c.media/picons/PT/cbsreality.png" group-title="PORTUGAL",CBS REALITY PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/2870
-
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://1.bp.blogspot.com/-AEgk50Ny5VA/UDahWdfdNRI/AAAAAAAACp8/sW-j23x898Y/s1600/E!+Entertainment+Television+logo+2.png" group-title="Daniel IPTV",E! Entertainment
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! ENTERTAINMENT PT" tvg-logo="http://media.c-x-c.media/picons/PT/eentertainment.png" group-title="PORTUGAL",E! ENTERTAINMENT PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1761
-
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos Tv" tvg-logo="https://2.bp.blogspot.com/-KAWXvOiZAfQ/WDrqE6mk-yI/AAAAAAAAFdI/6FKfyJH2G8QmMXBl2l-mcTMaGiXVCY0egCLcB/s1600/Kuriakos%2BTV%2Blogo.png" group-title="Daniel IPTV",Kuriakos Tv
+#EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="KURIAKOS TV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/kuriakostv_B.png" group-title="PORTUGAL",KURIAKOS TV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19931
-
-#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao" tvg-logo="https://3.bp.blogspot.com/-FwJVXB8v1JM/UMINmUVi7DI/AAAAAAAADXY/skSpagXdxog/s1600/Localvis%C3%A3o+TV+logo+2.png" group-title="Daniel IPTV",Localvisao
+#EXTINF:-1 tvg-id="LocalvisaoTV.pt" tvg-name="LOCALVISAO HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/localvisao.png" group-title="PORTUGAL",LOCALVISAO HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7244
-
-#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living" tvg-logo="https://4.bp.blogspot.com/-XAWv_ERtUcs/WKjW37KT4RI/AAAAAAAAFqk/YfPBRe9u9AcTZ8VdTrL8dOU_wl9feYKRQCLcB/s1600/Fine%2BLiving%2BHD%2Blogo.png" group-title="Daniel IPTV",Fine Living
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7241
-
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network" tvg-logo="https://4.bp.blogspot.com/-_XZc3gEJGw0/WEcxgUrEONI/AAAAAAAAFl0/nxduV-x3KdUvBfvW6pFPOVf9kuRACPkSACLcB/s1600/Food%2BNetwork%2Blogo.png" group-title="Daniel IPTV",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="FOOD NETWORK HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/foodnetwork.png" group-title="PORTUGAL",FOOD NETWORK HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/19885
-
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="Tlc" tvg-logo="https://4.bp.blogspot.com/-DcEMgxOF6iQ/TyVcztuA_FI/AAAAAAAABW4/e_KrQbeOdaw/s1600/TLC+logo+2.png" group-title="Daniel IPTV",Tlc
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC PT" tvg-logo="http://media.c-x-c.media/picons/PT/tlc.png" group-title="PORTUGAL",TLC PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1762
-
-#EXTINF:-1 tvg-id="FashionTV.nws" tvg-name="Fashion Tv" tvg-logo="https://2.bp.blogspot.com/-d_kqWAaW9aY/WDrqDLIoc4I/AAAAAAAAFcI/hVl5cZI6tQoKpOS2FV9M4pjFkdPWZDkhgCLcB/s1600/Fashion%2BTV%2Blogo.png" group-title="Daniel IPTV",Fashion Tv
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="FASHION TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/fashiontvB.png" group-title="PORTUGAL",FASHION TV PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7255
-
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel" tvg-logo="https://3.bp.blogspot.com/-AE0HnoJiQq8/WDtdgxpZciI/AAAAAAAAFlI/jlGaDQgK1x4ootUFdLaUyzKpCNZcnga_gCLcB/s1600/Travel%2BChannel%2Blogo%2B4.png" group-title="Daniel IPTV",Travel Channel
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="TRAVEL CHANNEL HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/travelchannel.png" group-title="PORTUGAL",TRAVEL CHANNEL HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1692
-
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="Cancao Nova" tvg-logo="https://1.bp.blogspot.com/-tgs7Y8ktNnw/WDrqCGuQ3nI/AAAAAAAAFbU/kLyab5Kyc_QN7IVk3XJrTEmyuDVBKy-rgCLcB/s1600/Can%25C3%25A7%25C3%25A3o%2BNova%2Blogo.png" group-title="Daniel IPTV",Cancao Nova
+#EXTINF:-1 tvg-id="CancaoNova.pt" tvg-name="CANCAO NOVA PT" tvg-logo="http://media.c-x-c.media/picons/PT/cancaonova.png" group-title="PORTUGAL",CANCAO NOVA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3262
-
-#EXTINF:-1 tvg-id="" tvg-name="Santuario Fatima" tvg-logo="https://www.tveuropa.pt/cnt/uploads/F18CL066.jpg" group-title="Daniel IPTV",Santuario Fatima
+#EXTINF:-1 tvg-id="" tvg-name="SANTUARIO FATIMA PT" tvg-logo="http://media.c-x-c.media/picons/PT/fatima.png" group-title="PORTUGAL",SANTUARIO FATIMA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4483
-
-#EXTINF:-1 tvg-id="MyCuisine.pt" tvg-name="My Cuisine" tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/noticias/2017/novembro/my_cuisine.jpg" group-title="Daniel IPTV",My Cuisine
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4666
-
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen" tvg-logo="https://2.bp.blogspot.com/-0w1UBiMUhO8/UIadYRxdWlI/AAAAAAAADBc/L7-oN4o-5Zc/s1600/24+Kitchen+logo+2.png" group-title="Daniel IPTV",24 Kitchen
+#EXTINF:-1 tvg-id="" tvg-name="CASA & COZINHA HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/casaecozinhahd.png" group-title="PORTUGAL",CASA & COZINHA HD PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/130160
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 KITCHEN HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/24kitchenhd.png" group-title="PORTUGAL",24 KITCHEN HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1763
-
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog Tv" tvg-logo="https://1.bp.blogspot.com/-OSQPcjgRKI8/VUi0OBsWbvI/AAAAAAAAE20/Q6tp0NzpSLQ/s1600/Dog%2BTV%2Blogo.png" group-title="Daniel IPTV",Dog Tv
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/dogtv.png" group-title="PORTUGAL",DOG TV PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7236
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Internacional-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Internacional-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Daniel IPTV",Globo
+#EXTINF:-1 tvg-id="" tvg-name="INTERNACIONAL PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",INTERNACIONAL PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/43603
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/globo.png" group-title="PORTUGAL",GLOBO HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81076
-
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="Globo Now" tvg-logo="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png" group-title="Daniel IPTV",Globo Now
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO PT" tvg-logo="http://media.c-x-c.media/picons/PT/globo.png" group-title="PORTUGAL",GLOBO PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1697
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="GLOBO NOW PT" tvg-logo="http://media.c-x-c.media/picons/PT/globonow.png" group-title="PORTUGAL",GLOBO NOW PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1696
-
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="Tv Record" tvg-logo="https://3.bp.blogspot.com/-sg0HFDoB7pI/WDrqHIVJjfI/AAAAAAAAFeg/QPP_HFewHHQiA3VdLskTl0VE3LlpgsS3QCLcB/s1600/Record%2BTV%2Blogo.png" group-title="Daniel IPTV",Tv Record
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="TV RECORD HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvrecordhd.png" group-title="PORTUGAL",TV RECORD HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18551
-
-#EXTINF:-1 tvg-id="TPAInt.pt" tvg-name="Tpa" tvg-logo="https://4.bp.blogspot.com/-tGTOVryKaY0/V87SxESby8I/AAAAAAAAMvE/q9msBZFbxJU2aHbNigR4qj4evJblMzcNgCLcB/s1600/tpa-inter.jpg" group-title="Daniel IPTV",Tpa
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="TV RECORD PT" tvg-logo="http://media.c-x-c.media/picons/PT/tvrecord.png" group-title="PORTUGAL",TV RECORD PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1735
+#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="TPA PT" tvg-logo="http://media.c-x-c.media/picons/PT/tpa.png" group-title="PORTUGAL",TPA PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/2874
-
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="Zap Viva" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQG4_PUuI3Wp5Q/company-logo_200_200/0?e=2159024400&v=beta&t=WCkTBtgpnYvwT4t65e8m_rGUbRvhYk4G83-6R3kj0NQ" group-title="Daniel IPTV",Zap Viva
+#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/zapvivahd.png" group-title="PORTUGAL",ZAP VIVA HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81117
-
-#EXTINF:-1 tvg-id="TcvInternational.pt" tvg-name="Tcv International" tvg-logo="https://1.bp.blogspot.com/-lluSx87nCEc/WDrqJ6hfeDI/AAAAAAAAFgk/27aA23kWyQYjcAIcrWLF-mOFq2BGMma4QCLcB/s1600/TCV%2BInternacional%2Blogo.png" group-title="Daniel IPTV",Tcv International
+#EXTINF:-1 tvg-id="TcvInternational.pt" tvg-name="TCV INTERNACIONAL PT" tvg-logo="http://media.c-x-c.media/picons/PT/tcvinternational.png" group-title="PORTUGAL",TCV INTERNACIONAL PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/18550
-
-#EXTINF:-1 tvg-id="" tvg-name="-----Musica-----" tvg-logo="https://ak8.picdn.net/shutterstock/videos/20736268/thumb/1.jpg" group-title="Daniel IPTV",-----Musica-----
-http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/183
-
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="Mcm Pop" tvg-logo="https://2.bp.blogspot.com/-_3HFmlHbqac/WDrqE7msZcI/AAAAAAAAFdM/wG6HWzAuorwSWW7eOU9DKq_qj-ScrpBpQCLcB/s1600/MCM%2BPop%2Blogo.png" group-title="Daniel IPTV",Mcm Pop
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA PT" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",MUSICA PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3768
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP PT" tvg-logo="http://media.c-x-c.media/picons/PT/mcmpop.png" group-title="PORTUGAL",MCM POP PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/59392
-
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="Mtv" tvg-logo="https://4.bp.blogspot.com/-uvIknHhzvu4/TyVbRhGqNcI/AAAAAAAABMI/KGud5zeSMgE/s1600/MTV+logo+2.png" group-title="Daniel IPTV",Mtv
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/mtvhd.png" group-title="PORTUGAL",MTV HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/81075
-
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="Vh1" tvg-logo="https://4.bp.blogspot.com/-L-lSXepo0Ic/VSZNwhsMz1I/AAAAAAAAEws/G0rbwb68vnQ/s1600/VH1%2Blogo.png" group-title="Daniel IPTV",Vh1
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV PT" tvg-logo="http://media.c-x-c.media/picons/PT/mtv.png" group-title="PORTUGAL",MTV PT
+http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/3260
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1 PT" tvg-logo="http://media.c-x-c.media/picons/PT/vh1.png" group-title="PORTUGAL",VH1 PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1703
-
-#EXTINF:-1 tvg-id="VH1Classic.eu" tvg-name="Vh1 Classic" tvg-logo="https://1.bp.blogspot.com/-ts8M6zd6kBg/TyVjRvbexDI/AAAAAAAABac/Kw_gqxXJgIA/s1600/VH1+Classic+logo.png" group-title="Daniel IPTV",Vh1 Classic
+#EXTINF:-1 tvg-id="VH1ClassicEurope.uk" tvg-name="VH1 CLASSIC PT" tvg-logo="http://media.c-x-c.media/picons/PT/vh1classic.png" group-title="PORTUGAL",VH1 CLASSIC PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7253
-
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Tv" tvg-logo="https://4.bp.blogspot.com/-M0ZLyO1M_lc/VSeoD5Yu1SI/AAAAAAAAE0w/6ptnQwk9G-I/s1600/Afro%2BMusic%2BChannel%2Blogo%2B3.png" group-title="Daniel IPTV",Afro Tv
+#EXTINF:-1 tvg-id="AfroMusicChannel.pt" tvg-name="AFRO TV PT" tvg-logo="http://media.c-x-c.media/picons/PT/afromusic.png" group-title="PORTUGAL",AFRO TV PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/1700
-
-#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="https://2.bp.blogspot.com/-rDplrq4TVq8/TyViGAhkutI/AAAAAAAABXo/IuYYU4q7FFA/s1600/Trace+Urban+logo.png" group-title="Daniel IPTV",Trace Urban
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBAN PT" tvg-logo="http://media.c-x-c.media/picons/PT/traceurban.png" group-title="PORTUGAL",TRACE URBAN PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4482
-
-#EXTINF:-1 tvg-id="StingrayIconcerts.eu" tvg-name="Iconcerts" tvg-logo="https://2.bp.blogspot.com/-ERiksDd2S84/WKi0ShCtInI/AAAAAAAAFpc/KRuyY1jv-a0Tx6BdZZO1aeLWazdpaDHuwCLcB/s1600/Stingray%2BIconcerts%2Blogo.png" group-title="Daniel IPTV",Iconcerts
+#EXTINF:-1 tvg-id="iconcertshd" tvg-name="ICONCERTS HD PT" tvg-logo="http://media.c-x-c.media/picons/PT/iconcerts.png" group-title="PORTUGAL",ICONCERTS HD PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/7242
-
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="https://2.bp.blogspot.com/-vtQf8-y_5Bs/TyVbKy5CDGI/AAAAAAAABLY/5_ieV9jIVAs/s1600/Mezzo+logo.png" group-title="Daniel IPTV",Mezzo
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO PT" tvg-logo="http://media.c-x-c.media/picons/PT/mezzo.png" group-title="PORTUGAL",MEZZO PT
 http://tvonpt.net:80/PauloNeves1/ow2xRK57JU/4486
-
